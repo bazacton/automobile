@@ -1,0 +1,479 @@
+/* 1170px to 980px or 768px */
+@media screen and (max-width: 1170px) {
+.wrapper .container{width:100%;}
+.main-search .search-btn::after{z-index: 9;}
+[class*="col-lg"], [class*="col-md"], [class*="col-sm"], [class*="col-xs"] {display:inline-block;vertical-align:top;margin:0 -4px 0 0;float:none;}
+.rtl [class*="col-lg"], .rtl [class*="col-md"], .rtl [class*="col-sm"], .rtl [class*="col-xs"] {display: inline-block;vertical-align: top;margin: 0 0 0 -4px;float: none;}
+.main-navigation ul a { padding: 20px 15px 19px;}
+.full-width-custom.col-md-9{width: 75%;}
+.main-navigation ul ul ul{ left:-100%;}
+.main-search .search-btn label a{ font-size:7px;}
+.auto-listing.auto-grid .auto-text .btn-list .btn.collapsed:after,
+.auto-listing.auto-grid .auto-text .btn-list .btn:after {left: 0px;}
+.cs-user-account-holder {padding: 30px 50px; width: 100%;}
+.auto-listing .cs-checkbox{ margin-right:14px;}
+.cs-listing-filters .cs-model-year .cs-select-filed{ width:41%;}
+.single-page .cs-detail-nav ul > li > a {padding: 17px 20px;}
+.single-page .auto-overview ul li .cs-media{ margin-right:10px;}
+.blog-listing.medium-view .post-detail span.post-date {margin-right: 9px;}
+.woocommerce.single-product div.product div.images div.thumbnails a img{ width:75px;}
+.catagory-section .cs-element-title{ padding-top:25px;}
+.catagory-section{ padding-bottom:50px;}
+.single-page .auto-detail-filter .auto-field input[type="submit"], .single-page .auto-detail-filter .auto-field input[type="reset"]{padding: 6px;}
+.cs-field .cs-btn-submit{display: inline-block;}
+.cs-tabs.nav-position-left.row{margin:0px;}
+.tab-content .gmaplock{left: 128px;}
+.single-page .cs-button-style{text-align: center; width: 100%;}
+.woocommerce.single-product div.product .stock_wrapper {float: none;}
+.woocommerce form .form-row.form-row-first { width: 48%;} 
+#cs-construction{ position:relative;}
+.cs-search-result .cs-seggetions form label{width:80%;}
+div#getting-started .time-box h4 {font-size: 28px !important;}
+.cs-user-option .cs-login .cs-user-dropdown ul{text-align:left;}
+.rtl .cs-user-option .cs-login .cs-user-dropdown ul{text-align:right;}
+.cs-user-option .cs-login .cs-user-dropdown ul li{list-style:none;}
+.cs-user-option .cs-login .cs-login-dropdown .cs-user-dropdown{ left:auto; right:0;}
+.rtl .cs-user-option .cs-login .cs-login-dropdown .cs-user-dropdown{right:auto;left:0px;}
+.cs-agent-detail .cs-admin-info .cs-media figure img{width: 100%;}
+.cs-agent-detail .cs-detail-slider.cs-detail-slider-custom button {margin: 0;transform: translateY(0%);left: 30%;}
+.cs-agent-detail .cs-detail-slider button.slick-next {right: 0;left:auto;}
+.rtl .cs-automobile-inv-makes .cs-search .select-input select{padding: 0px 35px 0 12px;}
+.rtl .cs-automobile-inv-makes .cs-model-year .cs-select-filed select{padding:10px 12px;}
+.rtl .cs-inventories-main-box .auto-list .cs-select-post select{padding:10px 35px 10px 12px}
+.rtl .cs-listing-filters input[type="search"] {padding-left: 5px;  padding-right: 10px;  font-size: 11px;}
+.main-section .cs-listing-filters .cs-search .search-form .loction-search input[type="text"] {font-size: 11px;}
+.main-section .cs-listing-filters .chosen-container-single .chosen-single span{font: 11px/39px "Lato",sans-serif;}
+.section-content .auto-sort-filter .auto-list .cs-select-post select{padding: 10px 26px;}
+.cs-automobile-inv-makes .cs-search .select-input select{padding: 10px 66px;}
+.gmaplock{left:115px;font-size: 24px;}
+.rtl.cs-agent-detail .cs-detail-slider.cs-detail-slider-custom button {left: auto;right: 30%;transform: scaleX(-1);}
+.rtl.cs-agent-detail .cs-detail-slider button.slick-next {right: auto;left: 20px;}
+.rtl .main-navigation ul li:nth-child(n+3) ul ul{left: 100%;right: auto;top: 0;}
+.auto-listing .auto-text .btn-list .btn{right: 14px;}
+.rtl .auto-listing .auto-text .btn-list .btn{left: 14px;right: auto;}
+.gmaplock {left: 115px;font-size: 24px;width: 42px;height: 42px;padding: 0;line-height: 40px;text-align: center;}
+.gm-style-mtc {height: 42px;overflow: hidden;text-align: center;}
+}
+
+@media screen and (min-width: 990px) and (max-width: 1170px) {
+.cs-user-option {float: right; padding-top: 14px;}
+.rtl .cs-user-option{float:left;}
+nav.main-navigation {display: inline-block;}
+.cs-user-option .cs-login .cs-login-dropdown .cs-user-dropdown{right:0; left:auto;}
+.full-width-custom {width: 25%;}
+.full-width-custom.col-md-9 {width: 75%;}
+.cs-user-option.cs-mobile-menu { position: relative; width: auto; height: auto;top: 0; right: 0;}
+.rtl .cs-user-option.cs-mobile-menu {right: auto; left: 0px;}
+}
+/* 980px to 768px */
+/* If Required */
+@media screen and (max-width: 980px) {
+.rtl .cs-user-option .cs-login .cs-login-dropdown .cs-user-dropdown { right: 0;  left: auto;}	
+.cs-user-option.cs-mobile-menu { display: inline-block; height: auto; width: auto;left: 0; top: 7px; float: left;}
+.rtl .cs-user-option.cs-mobile-menu {left: auto; top: 7px; float: right; right: 0px;}
+.cs-user-option.cs-mobile-menu{display:inline-block;}	
+.single-page .auto-overview ul li{text-align:center;}
+.single-page .auto-overview ul li:first-child{text-align:center;}
+.site-main .has-post-thumbnail {padding:0 0px 0 0;}
+.cs-construction .cs-logo{position: relative;}
+.cs-compare { overflow-y: scroll;}
+.cs-compare ul{width: 1120px;}
+.cs-search-result .cs-seggetions form label{width: 75%;}
+.auto-listing.auto-grid .auto-text .btn-list .btn.collapsed::after,
+.auto-listing.auto-grid .auto-text .btn-list .btn:after{left: 0px;}
+ul.cs-partners-slider li{text-align: center;}
+.cs-calltoaction .cs-text{width: 75%;}
+.auto-listing.auto-grid .cs-media figure{height:auto;}
+/* Responsive Menu */
+.cs-logo{display:block;}
+.cs-logo .cs-media{display:inline-block;}
+.cs-main-nav{width:100%; right: 0px; top:0px; text-align: right;}
+.main-navigation { display: none; }
+.slicknav_menu{ display: block;margin-bottom:20px;padding-top:0px;}
+.cs-main-nav ul { display: none;}
+.cs-main-nav ul li { width: 100%;}
+.cs-user-option .cs-login .modal-footer .cs-user-social ul li {width: auto; margin-bottom: 5px!important;}
+.rtl .cs-main-nav ul li{text-align:right;}
+.rtl .slicknav_nav .slicknav_arrow{float:left;margin:0 0.4em 0 0;transform:scaleX(-1);}
+.slicknav_menu > ul {background-color: #fff; border: 1px solid rgba(0,0,0,0.05); position: absolute; top: 100%; width: 100%; padding: 20px;}
+.slicknav_btn{float: right;}
+.cs-main-nav ul li ul {padding-right: 10px;}
+.rtl .slicknav_btn{float:left;}
+/*login Form Style Start*/
+li.cs-user-option{display:none;}
+.cs-user-option {display:inline-block;position:absolute;left:4px;right:auto;top:7px;}
+.cs-user-option .cs-login a{color:#8a96a6;padding:20px 20px 19px;}
+.cs-user-option .chosen-container-multi .chosen-choices li.search-choice .search-choice-close {padding:0;}
+.cs-user-option .cs-login .btn-form{padding:0 10px; color:#FFF; font-size:10px; -webkit-border-radius: 2px; -moz-border-radius: 2px;border-radius: 2px; font-weight:700; display:inline-block;}
+.cs-user-option .cs-login .btn-form i{display:inline-block;vertical-align:middle;margin-right:5px;font-size:10px;}
+.cs-user-option .cs-login .btn-form:hover{text-decoration:none;color:#FFF;}
+.cs-user-option .cs-login a:hover{color:#8a96a6;text-decoration:underline;}
+.cs-user-option .cs-login .cs-user-dropdown ul{display:block;z-index:999;text-align:left;}
+.cs-user-option .cs-login .cs-user-dropdown ul li{display:block;}
+.cs-agent-detail .cs-admin-info .cs-text ul li {margin: 0 0 0 6px;padding: 0 0 0 6px;}
+.cs-agent-detail .cs-tabs-holder{ top:0;}
+.cs-user-account-holder {padding: 30px 20px; width: 90%;}
+.profile-pic {float: left;}
+.rtl .profile-pic{float: right;}
+.main-search.account-search .select-location{ margin-bottom:3px;}
+.cs-featurelisted-car .cs-text{ width:74%; margin-top:10px; position:relative;}
+.cs-featurelisted-car .cs-post-types{width: 255px; top: 100%;}
+.cs-load-more{ width:100%;}
+footer#footer .cs-copyright { text-align:center;}
+footer#footer .cs-copyright .cs-back-to-top, .rtl footer#footer .cs-copyright .cs-back-to-top{ float:none;}
+.cs-footer-widgets .widget{ margin-bottom:20px;}
+.cs-listing-filters .cs-model-year .cs-select-filed {width: 47.3%;}
+.cs-package-modal .modal-dialog{width: 90%;}
+.cs-package-modal .modal-content .cs-featured-holder{padding:38px 30px 38px 30px; }
+.cs-package-modal button.close{top:5px;right:5px;background:#262f41;color:#fff;width:20px;height:20px;font-size:18px;}
+header .cs-logo{position: relative; left: 0; top:0; width: 100%; display: inline-block; padding-top: 10px; text-align:center;}
+.rtl .cs-logo {right: 20px;left:auto;}
+.single-page .auto-overview ul li{text-align: center; margin-bottom: 10px;}
+.rtl.single-page .auto-overview ul li { text-align: center; margin-bottom: 40px;}
+.content-area{border:none;}
+.full-width-custom.col-md-9 { width: 100%;}
+.pricetable-holder.modren.active{margin:-25px 0px;}
+.woocommerce form .form-row.form-row-first { width: 46.444%;}
+.pricetable-holder.modren{margin:0;}
+.cs-upload-img ul{margin:0 -3px;}
+.cs-upload-img ul li {margin: 0 3px 15px;width: 15.2222%;}
+.main-search.account-search{position:relative;margin-bottom:10px;}
+.wp-automobile .main-search.account-search .search-btn i{left:0;}
+.wp-automobile .main-search .search-btn{text-align:center;}
+.pricetable-holder.modren{ margin:0 0px 0px; }
+.rtl .pricetable-holder.modren{ margin:0 0px 0px; }
+.pricetable-holder.modren.first-element, .pricetable-holder.modren.last-element, .rtl .pricetable-holder.modren.first-element, .rtl .pricetable-holder.modren.last-element { margin: 0;}
+.rtl .pricetable-holder.modren.active { margin: -25px 0px;} 
+.rtl.woocommerce.single-product div.product div.images div.thumbnails a:first-child { margin-left: 8px;}
+.rtl.woocommerce .woocommerce-tabs .tab-content li i {margin: 10px 0 0 10px;    float: right;}
+.rtl .site-main{ border-right:0;}
+.rtl .cs-blog-banner .cs-banner-text{ width:100%;}
+.blog-listing.medium-view .post-detail{font-size: 10px;}
+.cs-agent-detail .cs-admin-info .cs-text{width: 75%;}
+.rtl .auto-listing .auto-text .btn-list .btn{left: 19%;}
+.cs-user-option .cs-login .cs-login-dropdown .cs-user-dropdown{ left:auto; right:-110px;}
+.cs-agent-detail .cs-detail-slider, .single-page .cs-banner ul.cs-banner-slider{height:auto;}
+.cs-agent-detail .cs-detail-slider.cs-detail-slider-custom button {margin: 0;transform: translateY(0%);}
+.cs-agent-detail .cs-detail-slider button.slick-next {right: 0;left:auto;}
+.rtl.single-page .auto-overview ul li:first-child {text-align: center;}
+.wp-automobile .widget.widget_search form label {width: 100%;}
+.rtl .cs-user-option {float: right; right: 0px; left: auto;}
+.rtl .select-location .slider.slider-horizontal{width:100%;}
+.cs-agent-detail .cs-detail-slider.cs-detail-slider-custom button{display:none;}
+.single-page .auto-overview ul li, .rtl.single-page .auto-overview ul li{border:none;}
+.single-page .cs-detail-nav.cs-detail-nav-fixed{position:relative;}
+.single-page .cs-detail-nav.cs-detail-nav-fixed .detail-btn{display:none;}
+.slider-holder .post-slider li img,
+.cs-bottom-slides li img {height:100%; min-height:inherit;}
+.widget_media_gallery .cs-gallery {padding-bottom: 10px;}
+.widget {overflow: hidden;}
+header .user-login-mobile {padding: 10px 0;}
+header .user-login-mobile .cs-logo {width: auto; padding: 0;}
+header .user-login-mobile .cs-main-nav {position: initial !important; width: auto;}
+header .user-login-mobile .cs-main-nav .slicknav_menu {margin-bottom: 0;}
+header .user-login-mobile .slicknav_menu > ul {right: 0; z-index: 1;}
+.woocommerce-product-gallery--columns-4 .flex-control-thumbs li {margin-bottom: 10px !important;}
+}
+
+/* 767px to 480px */
+@media screen and (max-width: 768px) {
+.cs-ad img{ width:100%;}
+.content-area{padding-right:0;}
+.rtl .cs-agent-listing .cs-media ~ .cs-text { padding-right: 20px;}
+.single-page .cs-banner ul.cs-banner-slider.slick-slider, .blog-detail-slider.slick-slider, .cs-agent-detail .cs-detail-slider.slick-slider{height:auto;}
+.single-page .cs-detail-nav.cs-detail-nav-fixed .detail-btn {padding: 20px 0;}
+.rtl .page-sidebar.left {padding: 0 25px 0 25px;}
+.rtl .widget { padding-left: 20px}
+.rtl .cs-agent-detail .cs-detail-slider button.slick-next {right: 31%;left: auto;}
+.rtl .cs-agent-detail .cs-detail-slider.cs-detail-slider-custom button {left: 2%;}
+.cs-column-text ul.cs-icon-list li{display:block;}
+.rtl .cs-shortlisted-car li .cs-remove-btn{top:-11px;}
+.rtl.cs-agent-detail .cs-detail-slider.cs-detail-slider-custom button {left: auto;right: 32%;}
+.rtl.cs-agent-detail .cs-detail-slider button.slick-next {right: auto;left: 20px;}
+.auto-listing.auto-grid .cs-media figure {height:100%;}
+}
+/* 767px to 480px */
+@media screen and (max-width: 767px) {	
+.rtl .content-area{ border:0; padding:0;}
+.rtl .cs-blog-related-post .blog-medium .cs-media{ float:none;}
+.rtl .cs-blog-related-post .blog-medium .cs-text{ overflow:visible;}
+.main-search .select-dropdown select{padding-right:30px;}
+.main-search .select-location select{padding-right:30px;}
+.woocommerce.single-product div.product form.cart div.quantity{margin:0 10px 10px 0; display: flex;}
+.woocommerce.single-product div.product div.images div.thumbnails a{margin:0 10px 10px 0;display:inline-block;}
+.rtl.woocommerce.single-product div.product div.images div.thumbnails a{margin:0 3px 10px 0;display:inline-block;}
+.site-main{border-right:0;}
+.woocommerce ul.products li{width:100%;}
+.cs-featurelisted-car .cs-text{ width:70%; margin-top:10px; position:relative;}
+.auto-listing .cs-media{width: 100%;}
+.auto-listing .auto-text{width: 100%; float: left; overflow: inherit;}
+.main-search{ padding:0 10px;}
+.auto-listing.auto-grid .auto-text .btn-list .btn.collapsed::after,
+.auto-listing.auto-grid .auto-text .btn-list .btn:after{left: 70px;}
+.cs-agent-listing .cs-media{ width:20%;}
+.cs-agent-listing .cs-text{width:80%;}
+.cs-agent-detail .cs-admin-info .cs-text{ width:100%;}
+.cs-agent-detail .cs-admin-info .cs-media{margin-bottom:20px;}
+.blog-listing.medium-view .cs-media {float: none;margin:0 0 20px 0;width: 100%;}
+.main-search.account-search {padding: 5px 10px;}
+.cs-featurelisted-car .cs-post-types {float: right;margin-top:0;position: absolute; right: 0; top: 100%; width: 100%; margin-bottom: 10px;}
+.cs-shortlisted-car li .cs-text {overflow: visible; float:left;padding-top: 10px;position: relative; width: 68%;}
+.cs-listing-filters .cs-model-year .cs-select-filed {width: 46.8%;}
+.auto-sort-filter .auto-list ul li a i{ margin-left:0;}
+.cs-user-option .cs-login .modal-dialog{width:90%;margin:155px  auto;}
+.single-page .car-detail-heading .auto-text{ margin-bottom:20px;}
+.single-page .cs-detail-nav ul > li > a { padding: 17px 15.4px;}
+.single-page .auto-overview ul li {text-align: center; vertical-align:top; margin-bottom:10px;}
+.single-page .auto-overview ul li:first-child{text-align: center;}
+.rtl.single-page .auto-overview ul li:first-child,
+.rtl.single-page .auto-overview ul li{text-align: center; border:0;}
+.pricetable-holder.modren.active{ margin:-25px -14px 25px; }
+.pricetable-holder.modren.first-element{ margin-left:0px;}
+.pricetable-holder.modren{margin-bottom: 10px;}
+.pricetable-holder.modren.last-element{ margin-right:0px; margin-left: 0px;}
+.site-main ul.products li.product {width: 49.6%;}
+.woocommerce.single-product div.product div.images div.thumbnails a img{ width:64px;}
+.catagory-section .cs-catagory ul li {display: inline-block; width: 49%;}
+.cs-featured-list .cs-featured-list-price{float:left;padding-top:20px;width:100%;}
+.main-search .select-location .pop i{line-height: 43px;}
+.automobile_editor{padding: 0 15px;}
+.panel-group.box .panel-title a:before, .panel-group.box .panel-title a.collapsed:before{right: 3px;}
+.cs-partners-slider{text-align: center;}
+.auto-sort-filter .auto-show-resuilt span{font-size: 11px;}
+.auto-listing.auto-grid .auto-text .btn-list .btn{right: 32%;}
+.single-page .cs-detail-nav > ul{margin-bottom: 0;}
+.single-page .cs-detail-nav ul > li > a{font-size: 10px;}
+.packages-list,.payment-list{ overflow:hidden;overflow:scroll;}
+.packages-list ul, .payment-list ul{width: 900px;}
+.blog-listing.large-view .post-detail{display: inline-block; width: 100%;}
+.cs-upload-img ul li {width: 15%;}
+.rtl .auto-listing.auto-grid .auto-text .btn-list .btn.collapsed::after, .rtl .auto-listing.auto-grid .auto-text .btn-list .btn:after {left: 10px;}
+.rtl .blog-listing.medium-view .cs-text{ overflow:visible;}
+.rtl .cs-shop-wrap.row{ margin:0;}
+.pricetable-holder.modren.active, .rtl .pricetable-holder.modren.active{margin: 0px;}
+.rtl .cs-featurelisted-car .cs-post-list{float: right; width: 100%;}
+.cs-agent-detail .cs-admin-info .cs-text ul li a{font-size: 11px;}
+.rtl .auto-listing .auto-text .btn-list .btn {left: 13%;}
+.rtl .auto-sort-filter .auto-list{float:left; margin:0px 0 0;width: 50%; text-align: left;}
+.rtl .panel-group.box .panel-title a:before, .rtl .panel-group.box .panel-title a.collapsed:before {left: 15px;}
+.rtl .auto-sort-filter .auto-list span{margin-left: 3px;}
+.cs-ag-search li a, .full-width-custom .cs-ag-search li a, .rtl .cs-ag-search li a {border: 1px solid #ebebeb;padding: 4px 8px 4px 9.7777px;}
+.cs-ag-search li:first-child a, .full-width-custom .cs-ag-search li:first-child a, .rtl .cs-ag-search li:first-child a {padding: 4px 7px 4px 9.7777px;}
+.cs-blog-related-post .blog-medium .cs-media {width: 100%;}
+.widget_media_gallery .cs-gallery {padding-right: 0;}
+.woocommerce-cart table.cart td.actions .coupon .input-text {margin-bottom:5px;}
+.woocommerce div.product div.images img {width: 100% !important; height: auto !important; opacity: 1 !important;}
+}
+@media screen and (max-width: 640px) {
+.auto-sort-filter{text-align: center; margin-bottom: 30px;}
+.auto-sort-filter .auto-show-resuilt, .auto-sort-filter .auto-show-resuilt, .rtl .auto-sort-filter .auto-show-resuilt, .rtl .auto-sort-filter .auto-show-resuilt{float: none;display: inline-block;}
+.auto-sort-filter .auto-list{float:left; margin:10px 0 0;width: 100%;}
+.rtl .auto-sort-filter .auto-list{display: inline-block; float: none; text-align: center; margin-top: 10px; width: 100%;}
+.pricetable-holder.modren.last-element{margin-left: 14px;}
+.cs-dealer-social ul li{margin-bottom: 5px;}
+.cs-page-not-found form, .cs-seprater-v1{width: 100%;}
+.cs-page-not-found .input-holder label{float: right;}
+.cs-page-not-found form input[type="text"]{width: 100%; margin-bottom: 5px;}
+.cs-featurelisted-car .cs-text, .cs-featurelisted-car .cs-media{width: 100%;}
+.cs-shortlisted-car li .cs-text{width: 66%;}
+.cs-page-not-found .input-holder label { position: absolute; top: 0; right: 0;}
+.woocommerce .checkout.woocommerce-checkout, .woocommerce form .form-row.form-row-first, .woocommerce form .form-row.form-row-last{width: 100%;}
+.rtl .cs-page-not-found .input-holder label{left:0; right:auto;}
+.section-content.full-width-custom .col-lg-4, .section-content.full-width-custom .col-md-4{width:100%;}
+.cs-upload-img ul li {width: 31%;}
+.rtl.woocommerce.single-product div.product div.images div.thumbnails a img {width: 97px;}
+.cs-agent-detail .cs-admin-info .cs-text ul li{font-size: 12px;}
+.cs-featurelisted-car .cs-post-types{top: 100%; width: 100%;}
+.cs-featurelisted-car .cs-edit-post{right: auto; left: 0px;}
+.cs-featurelisted-car .cs-post-list .cs-list{text-align: left;}
+.rtl .cs-featurelisted-car .cs-post-list .cs-list{text-align: right;}
+.rtl .cs-featurelisted-car .cs-edit-post {right: 0; left: auto;}
+.cs-agent-detail .cs-admin-info .cs-text{ width:100%;}
+.cs-agent-detail .cs-admin-info .cs-media{margin-bottom:20px;}
+.rtl.cs-agent-detail .cs-admin-info .cs-media ~ .cs-text{padding:0;}
+.single-post .cs-tags{width: auto;}
+.gallery-list > li{width: 23.2%}
+}
+@media screen and (max-width: 639px) {
+.rtl .cs-dealer-social ul li{margin-bottom: 5px;}
+.rtl.cs-agent-detail .cs-admin-info .cs-text ul li { margin: 0 0 0 0;padding: 0 0 15px 0; border-right:0; border-left: none; width: 100%;display:block;}
+.auto-listing .auto-text .btn-list .btn{right: 5%;}
+.cs-agent-detail .cs-admin-info .cs-media{margin-bottom:20px;}
+.rtl.cs-agent-detail .cs-post-option li .cs-timeline-list, .rtl.cs-agent-detail .cs-admin-info .cs-text ul li ul{right:20px;left:auto;}
+.detail-v2 .cs-detail-post-option ul.cs-social-media, .detail-v2 .cs-detail-post-option ul.cs-detail-options{float:none;width:100%;display:block;text-align:left;}
+.detail-v2 .cs-detail-post-option ul.cs-social-media{padding-left:10px;}
+.detail-v2 .cs-detail-post-option ul.cs-detail-options{margin-bottom:10px;}
+.rtl .detail-v2 .cs-detail-post-option ul.cs-social-media{float: none;text-align: right;padding-left: 0;padding-right: 0px;}
+.rtl .detail-v2 .cs-detail-post-option ul.cs-detail-options{float: none;text-align: right;}
+.button_style.cs-button{margin-bottom: 15px;}
+
+}
+/* 480px to 320px */
+@media screen and (max-width: 480px) {
+.single-post .cs-tags{width: 100%;}
+.single-post .cs-tags ul li{margin-bottom: 5px;}
+.rtl .cs-subheader-text .breadcrumbs{float: right !important;}
+.cs-agent-detail .cs-admin-info .cs-media{margin-bottom: 15px;}
+.rtl.cs-agent-detail .cs-admin-info .cs-media ~ .cs-text{padding: 0px;}
+.rtl .cs-comments ul li .children{margin-right: 0px;}
+.rtl.single-post .cs-social-media{float: right;}
+.rtl .blog-listing.medium-view .post-detail span.post-date{float: right;}
+.rtl.cs-agent-detail .cs-admin-info .cs-text ul li{margin-right: 0px; padding-right: 0px; border-right: none;display:block;}
+.rtl.cs-agent-detail .cs-post-option li .cs-timeline-list, .rtl.cs-agent-detail .cs-admin-info .cs-text ul li ul{right:15%;left:auto;}
+.cs-construction .cs-form .input-holder:before{top:8px;}
+.rtl footer#footer .cs-copyright .cs-back-to-top{float: none;}
+.rtl .cs-agent-listing .cs-media ~ .cs-text {  padding-right: 0px;}
+.rtl .cs-construction .cs-form .input-holder input[type="text"] { margin-bottom: 5px; width: 100%; padding: 0 40px 0 10px;  text-align: right;}
+.single-post .cs-social-media{float: left; margin-bottom: 15px;}
+.auto-sort-filter .cs-select-post select{padding:10px 25px 10px 10px;}
+.full-width-custom.col-md-9{width:100%;}
+.cs-listing-filters .cs-search .search-form .select-input select{height:40px; padding:10px 35px 10px 35px;}
+.section-content.full-width-custom .col-lg-4, .section-content.full-width-custom .col-md-4{width:100%;}
+.select-location select{height:40px; padding:10px 35px 10px 12px;}
+.blog-listing.large-view .post-detail {font-size: 10px;}
+.cs-search-result .cs-relevent-links ul li .cs-text{width: 100%; float: left; overflow: inherit;}
+.cs-search-result .cs-relevent-links ul li .cs-text a{word-wrap: break-word;}
+.cs-search-result .cs-relevent-links ul li .cs-text{    overflow: visible;}
+.cs-search-result .cs-seggetions form label{ width:70%;}
+.cs-shortlisted-car li .cs-text{width: 100%;}
+.cs-featurelisted-car .cs-post-types{top:100%; width: 100%;}
+.cs-featurelisted-car li h6{width: 100%;}
+ul.cs-user-accounts-list li a{font-size: 9px;}
+.single-page .auto-overview ul li{width: 100%; border:none;}
+.cs-construction .cs-form .input-holder{width: 100%;}
+.cs-page-not-found .cs-text .cs-error{font-size: 55px;}
+.cs-seprater-v1{width: 100%;}
+.cs-page-not-found .input-holder label{float: right;}
+.cs-page-not-found form{width: 100%;}
+.navigation.pagination .nav-links a{display: inline-block; margin-bottom: 5px;}
+.pagination{width: 100%;}
+.cs-faq-tabs .nav-tabs, .cs-faq-tabs .tab-content{width: 100%;}
+.cs-calltoaction .cs-text{width: 100%; margin-bottom: 5px;}
+.cs-calltoaction a{float: left;}
+.rtl .cs-calltoaction a{float: right;}
+.auto-listing .auto-info-detail li{margin-bottom: 5px;}
+.cs-auto-listing.cs-auto-box ul.cs-auto-box-slider .slick-prev, .cs-auto-listing.cs-auto-box ul.cs-auto-box-slider .slick-next{top:-118px;}
+.cs-tabs.full-width .nav li {margin-bottom: 8px;width: 50%;}
+.auto-listing .cs-media.auto-media-slider, .auto-listing .cs-media {margin: 0 0 30px 0; position: relative;width: 100%;}
+.auto-listing .auto-text{ overflow:visible; float:left;}
+.cs-agent-listing .cs-text{width:100%;}
+.cs-agent-listing .cs-media ~ .cs-text,
+.cs-agent-listing .cs-media{ padding:0 0 0 0; margin-bottom:20px;}
+.cs-agent-detail .cs-admin-info .cs-media ~ .cs-text {padding: 30px 0 0;}
+.cs-agent-detail .cs-admin-info .cs-text {width: 100%;}
+.packages-list ul,.payment-list ul{ width:710px; }
+.cs-shortlisted-car li .cs-remove-btn{ top:-10px;}
+.cs-user-option .cs-login .modal-footer .cs-user-social ul li a{display:block;}
+.cs-user-option .cs-login .modal-footer .cs-user-social ul li{margin-bottom:3px !important;}
+.cs-listing-filters .cs-model-year .cs-select-filed {width: 45%;}
+.auto-sort-filter{ text-align:center;}
+.auto-sort-filter .auto-show-resuilt{ display:block; text-align:center; float:none;}
+.rtl .auto-sort-filter .auto-show-resuilt{ float:none;}
+.auto-sort-filter .auto-list{ float:none; padding-top:5px;}
+.site-main ul.products li.product { width: 100%;margin:0 0 30px 0;}
+.single-product div.product .images{ width:100%; margin:0 0 20px 0;}
+.single-product div.product .entry-summary{ overflow:visible;}
+.woocommerce .woocommerce-tabs .nav-tabs.wc-tabs li a {padding: 18px 20px;}
+.cs-form-dealer{width:100%;}
+.package-list{overflow-x:scroll;}
+.package-list > ul {width: 500px;}
+.cs-package-payment ul li .radiobox{width:50%;text-align:center;}
+.cs-package-payment ul li .radiobox label{width:100%;}
+/*.auto-listing .auto-text .btn-list .btn.collapsed::after, .auto-listing .auto-text .btn-list .btn:after{left: 0px;}*/
+.car-detail-heading .auto-price{float: left;}
+.cs-construction .cs-form .input-holder{ width:100%;}
+.cs-construction .cs-form .input-holder label{ position:relative; right:0; margin-top:5px;}
+.cs-construction .cs-form .input-holder input[type="text"]{margin-bottom: 5px;}
+.cs-construction{padding: 50px 15px;}
+.content-area{border:none; margin-right: 0px;}
+.cs-blog-post .cs-thumb-post{width: 184px;}
+.cs-blog-related-post .blog-medium .cs-media{float:none;}
+.single-page .cs-button-style{right:0; text-align: center; }
+.single-page .cs-button-style a{margin-bottom: 5px;}
+.rtl .auto-listing .auto-price span{display:inline-block; margin-bottom:10px;}
+.rtl .auto-listing .auto-text .btn-list .btn {left:0%;}
+.rtl .cs-user-section-title ul{width: 100%;}
+.single-page .cs-button-style{ bottom:5px;}
+.woocommerce a.remove {padding-left:0;}
+.cs-agent-detail .cs-post-option li .cs-timeline-list, .cs-agent-detail .cs-admin-info .cs-text ul li ul{ left:10%;}
+.woocommerce-cart .woocommerce > form {overflow-x: scroll; margin-bottom:25px;}
+.woocommerce table.shop_table {margin-bottom:0;}
+.woocommerce-cart .woocommerce > form::-webkit-scrollbar {-webkit-appearance: none;}
+.woocommerce-cart .woocommerce > form::-webkit-scrollbar:horizontal {height: 11px;}
+.woocommerce-cart .woocommerce > form::-webkit-scrollbar-thumb {border-radius: 8px; border: 2px solid white; background-color: rgba(0, 0, 0, .5);}
+.woocommerce-cart .woocommerce > form::-webkit-scrollbar-track {background-color: #fff; border-radius: 8px;}
+.woocommerce-cart .cs-shop-wrap {padding: 0;}
+.woocommerce-cart .woocommerce .cart-collaterals {width: 100%;}
+.main-section .single-post .cs-tags {width: 100%;}
+.rtl .blog-listing.large-view .post-detail span.post-comments{float:right;margin:0;}
+.cs-bottom-slides-thumb{padding: 0 90px;}
+.woocommerce form table.shop_table .quantity .qty,
+.woocommerce .product-quantity .quantity .qtyminus, 
+.woocommerce .product-quantity .quantity .qtyplus {
+    width: 100% !important;
+    margin:0 0 5px;
+}
+.woocommerce .product-quantity .quantity .qtyplus {margin-right:0;}
+
+}
+@media screen and (max-width: 475px) {
+.cs-shop-wrap{padding: 0px;}
+.rtl .cs-featurelisted-car .cs-post-types{float: right; width: 100%;}
+.rtl .cs-featurelisted-car .cs-post-list{float: right; width: 100%;}
+.cs-featurelisted-car .cs-post-list{width: 52%; text-align: left;}
+.cs-upload-img ul li{width:100%;}
+.cs-upload-img ul li a img{height:auto;}
+.cs-user-option {display: inline-block;position: absolute;top: 7px;}
+.rtl .cs-user-option {float: right;}
+.cs-logo {position: relative;left: 0;top: 0;width: 100%;text-align: center;padding-top:15px;padding-bottom:15px;}
+.rtl .cs-user-option .cs-login .cs-login-dropdown .cs-user-dropdown { right: 0;  left: auto;}
+.cs-user-option .cs-login .cs-login-dropdown .cs-user-dropdown {  right: auto; left: 0;}
+.g-recaptcha {transform: scale(0.75) !important;-webkit-transform: scale(0.75) !important;transform-origin: 0 0 !important;-webkit-transform-origin: 0 0 !important;}
+.rtl .cs-logo, .cs-logo { right: auto; left: auto; position: relative; width: 100%; margin-bottom: 30px;}
+.cs-agent-detail .cs-admin-info .cs-text ul li {margin:0 0 10px 0; padding: 0; width: 100%;border:none;}
+.detail-v2 .cs-detail-post-option ul.cs-detail-options li{border:none;width:100%;display:block;}
+.detail-v2 .cs-detail-post-option ul.cs-detail-options li:first-child{padding-left:20px;}
+.rtl .detail-v2 .cs-detail-post-option ul.cs-detail-options li:first-child{padding-right:20px;}
+.rtl .detail-v2 .cs-detail-post-option ul.cs-social-media{padding-right:10px;}
+.cs-form-modal .modal-dialog{width: 90%;margin:0 auto;}
+.rtl .detail-v2 .cs-detail-post-option ul.cs-detail-options li{border: none;text-align: right;}
+}
+@media screen and (max-width: 360px) {
+.rc-anchor-normal{width: 247px;}
+.rtl .cs-blog-post .cs-post-options{float: right;}
+.cs-user-section-title ul{float: left; margin-bottom: 10px; margin-top: 10px;}
+/* .blog-listing.large-view .post-detail .post-author{ width:100%;}*/
+.blog-listing.large-view .post-detail span.post-date:after{display:none;}
+.blog-listing.large-view .post-detail span.post-comments{float:none;}
+.single-post .cs-contact-form form{padding:30px 10px 25px;}
+.single-page .cs-detail-nav ul > li > a{font-size: 9px;}
+.auto-listing.auto-grid .auto-text .btn-list .btn{right: 40%;}
+.cs-blog-post .cs-thumb-post{margin-bottom: 15px;}
+.cs-blog-post .cs-post-options{float: left;}
+.cs-agent-listing .contact-btn{ top:-40px;}
+.cs-comments ul li .children{margin: 0;}
+.cs-user-option .cs-login .modal-footer .cs-user-social ul li{margin:0;width:50%;}
+.cs-listing-filters .cs-model-year .cs-select-filed {width: 44%;}
+.single-page .cs-button-style a{ padding:5px; margin-bottom: 5px;}
+.cs-construction .cs-social-media ul li{ margin:0 5px 5px 0; }
+.auto-sort-filter .cs-select-post {position: relative;width: 158px;}
+.auto-listing.auto-grid .post-title > h6{width:86%;}
+.cs-contact-form .cs-form-holder .input-holder label {width: 88%;display: inline-block;vertical-align: top;line-height: 16px;}
+.cs-dealer-social ul li a {font-size: 11px;padding: 2px 5px;}
+.rtl.single-post .cs-tags label{float: none;}
+.rtl .auto-listing .auto-text .btn-list .btn {left: 0;}
+}
+@media screen and (max-width: 320px) {
+.pagination li a {padding: 7px 13px;}
+.auto-sort-filter .auto-list ul li a i { margin-left: 10px;}
+.auto-listing .auto-info-detail li {padding: 0 15px;}
+.cs-user-account-holder {width: 100%;}
+.cs-listing-filters .cs-model-year .cs-select-filed {width: 43%;}
+.single-page .cs-button-style a { padding: 2px;}
+.single-page .cs-detail-nav ul > li > a { padding: 17px 9.4px;}
+.woocommerce.single-product div.product div.images div.thumbnails a img {width: 56px;}
+.rtl.cs-agent-detail .cs-post-option li .cs-timeline-list, .rtl.cs-agent-detail .cs-admin-info .cs-text ul li ul {right: 10%;}
+.rtl .g-recaptcha{margin-right: -86px;}
+.cs-login-form .g-recaptcha{transform: scale(0.68) !important;-webkit-transform: scale(0.68) !important;transform-origin: 0 0 !important;-webkit-transform-origin: 0 0 !important;}
+
+}

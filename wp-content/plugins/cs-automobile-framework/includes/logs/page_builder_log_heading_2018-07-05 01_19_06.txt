@@ -1,0 +1,1 @@
+[automobile_heading heading_title="گالری رسانه" heading_style="2" heading_align="Center" heading_font_style="normal" heading_divider="off" ]<p style="text-align: center;"><span style="text-align: center;">این کمک خواهد کرد که ما تویوتایپ شما را در منطقه خود جستجو کنید.</span></p>[/automobile_heading]

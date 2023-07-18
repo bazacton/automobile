@@ -1,0 +1,5049 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CS Automobile\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-05 08:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: assets/common/translate/cs-strings.php:1254
+msgid " All Settings Saved"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:898
+msgid " Already have account"
+msgstr ""
+
+#: frontend/cs-shortcodes/cs-inventory-type.php:109
+#: assets/common/translate/cs-strings.php:32
+msgid " available"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:57
+msgid " Contact now"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1194
+msgid " Extra Feature Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:897
+msgid " Join Us"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:899
+msgid " Login Now"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:37
+msgid " SUBMIT &amp; CONTINUE"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:944
+msgid " There is problem while connecting to twitter"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:877
+msgid " You have already logged in, Please logout to try again."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:786
+msgid "$25,000"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:725
+#, php-format
+msgid "%s %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:723
+#, php-format
+msgid "%s duration"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:398
+#, php-format
+msgid "%s Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:176
+msgid ""
+"&nbsp; <span style=\\\"color: #060;\\\">Your inquery has been sent User will "
+"contact you shortly</span>"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:177
+msgid ""
+"&nbsp; <span style=\\\"color: #ff0000;\\\">*The mail could not be sent due "
+"to some resons, Please try again</span>"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:272
+msgid "(Month)"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:794
+msgid "(year)"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:148
+msgid "*Please follow the given guide and select Search Result Page first"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:146
+msgid "+ Advance Search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:738
+msgid "+ More"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:776
+msgid "+ Show More"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:777
+msgid "- Less More"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:989
+msgid "2 Columns"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:829
+msgid "2CheckOut Business Email"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:830
+msgid "2CheckOut Ipn Url"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:827
+msgid "2CheckOut Sandbox"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:990
+msgid "3 Columns"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:819
+msgid ""
+"<h1>Please Register Yourself as an <span>Dealer</span> to access this page."
+"</h1>"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:261
+msgid "<h1>You are not <span>authorized</span></h1>"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:400
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1068
+msgid "Access Token"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1070
+msgid "Access Token Secret"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:775
+msgid "Accessories"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:778
+msgid "Accessories & Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:453
+msgid "Accordion"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:495
+msgid "Accordion Text"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:493
+msgid "Accordion Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:854
+msgid "Account No"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:846
+msgid "Account Number"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1187
+msgid "Actions"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:198
+#: assets/common/translate/cs-strings.php:491
+msgid "Active"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1146
+msgid "Active/Inactive"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:238
+msgid "Ad Expiry"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1239
+msgid "add another choice"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1034
+msgid "Add boostrap container class at all single pages related our plugin."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:392
+msgid "Add Element"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:571
+msgid "Add Feature"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1001
+msgid "Add here the ads for inventory detail page"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:845
+msgid "Add information of your bank (Bank Name)."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:747
+msgid "Add Inventory packages title here."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1083
+msgid ""
+"Add LinkedIn application ID. To get your Linked-in Application ID, go to "
+"your Linked-in Dashboard"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:706
+msgid "Add More"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:669
+msgid "Add New Dealer Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:636
+msgid "Add New Inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:650
+msgid "Add New Inventory Make"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:659
+msgid "Add New Inventory Model"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:606
+msgid "Add New Inventory Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:664
+msgid "Add New Location"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:623
+msgctxt "add new on admin bar"
+msgid "Inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:633
+msgctxt "add new on admin bar"
+msgid "Inventory Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:676
+msgid "Add New Packages"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:100
+msgid "Add number of post for show posts on page."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1204
+msgid "Add Package"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1220
+msgid "Add Package to List"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:39
+msgid "Add Photos"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1186
+msgid "Add Safety Text"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1188
+msgid "Add Safety Text to List"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:514
+msgid "Add service title here.."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1045
+msgid "Add Text"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1053
+msgid ""
+"Add text for user to describe the detail and advantages of featured "
+"inventory."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:764
+msgid "Add to Compare"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:742
+msgid "Add to Shortlist"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:837
+msgid ""
+"Add your Authorize.net login ID here. You will get it while signing up on "
+"Authorize.net."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:839
+msgid ""
+"Add your Authorize.net Transaction Key here. You will get this key while "
+"signing up on Authorize.net"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:847
+msgid "Add your bank account Number where you want receive payment."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:861
+msgid "Add your business Email address here to proceed PayPal payments."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:151
+msgid ""
+"Add your business Email address here to proceed Skrill-MoneryBooker payments."
+"."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:823
+msgid ""
+"Add your currency sign according to your currency. It will be printed on "
+"both frontend and backend."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1140
+msgid "Add-On Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1150
+msgid "Add/Edit Packages"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:162
+#: assets/common/translate/cs-strings.php:765
+#, php-format
+msgid ""
+"Added successfully to <a class=\"cs-compare-page\" href=\"%s\">compare list."
+"</a>"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:163
+msgid "Added successfully to compare list."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:766
+msgid "Added to Compare"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:739
+msgid "Added to Shortlist"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:560
+msgid "Address"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:622
+msgctxt "admin menu"
+msgid "Inventories"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:632
+msgctxt "admin menu"
+msgid "Inventory Types"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:443
+msgid "Ads"
+msgstr ""
+
+#: frontend/inventories-search/search-template.php:403
+#: assets/common/translate/cs-strings.php:147
+msgid "Advance Search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:136
+msgid "Advance Search on/off"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:810
+msgid "Advertise inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:732
+msgid "ago"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:197
+#: assets/common/translate/cs-strings.php:551
+msgid "All"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:74
+msgid "All Dealer Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:645
+msgid "All Inventory Makes"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:654
+msgid "All Inventory Models"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:54
+msgid "All Locations"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:76
+#: assets/common/translate/cs-strings.php:141
+#: assets/common/translate/cs-strings.php:1196
+msgid "All Types"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:601
+msgid "Allow In Search"
+msgstr ""
+
+#: frontend/inventories/cs-sort-filters.php:31
+#: assets/common/translate/cs-strings.php:190
+msgid "Alphabet Order"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:94
+msgid "Alphabetical filter"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:95
+msgid "Alphabetical filter top of Listing ON/OFF."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:165
+msgid "Already Compared"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:256
+msgid "Already Purchased"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:693
+msgid "Alternate No"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:758
+msgid "Alternate Number"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:807
+msgid "Amount"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:969
+msgid "Api Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:262
+msgid "Applicants"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:263
+msgid "Applied Date"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:812
+msgid "Approved"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:315
+msgid "Are you sure! You want to delete this"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:34
+msgid "ASC"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:979
+msgid "Author Page Slug"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:840
+msgid "Authorize.net Ipn Url"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:834
+msgid "Authorize.net Sandbox"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:832
+msgid "Authorize.net Settings"
+msgstr ""
+
+#: cs-automobiles.php:351
+msgid "Automobile"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:467
+msgid "Automobile Heading"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:308
+msgid "Availability"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:210
+msgid "Awaiting"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:200
+#: assets/common/translate/cs-strings.php:579
+msgid "Awaiting Activation"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:375
+msgid "Background Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:371
+msgid "Background Image"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:410
+msgid "Background Image Position"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:404
+msgid "Background View"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1143
+msgid "Backup"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1178
+msgid "Backup Generated."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:852
+msgid "Bank detail"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:844
+msgid "Bank Information"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:842
+msgid "Bank Transfer Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:749
+msgid "Basic"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:156
+msgid "BASIC INFO"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:753
+msgid "Become an Dealer first to Subscribe the Package"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:733
+msgid "Become Dealer to Subscribe"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:784
+msgid "Best time"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:456
+msgid "Blog"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:435
+msgid "Border Bottom"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:437
+msgid "Border Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:433
+msgid "Border Top"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:430
+msgid "Box"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:368
+msgid "Breadcrumbs"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:423
+msgid "Browse"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:468
+msgid "Button"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:719
+msgid "Button Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:720
+msgid "Button Url"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:754
+msgid "Buy Now"
+msgstr ""
+
+#: templates/elements/login/shortcodes.php:350
+#: templates/elements/login/shortcodes.php:637
+msgid "By registering you confirm that you accept the "
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:797
+msgid "Calculate"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:461
+msgid "Call To Action"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:818
+msgid "Cancel"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:340
+msgid "Cancel reply"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:813
+msgid "Cancelled"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:164
+msgid "Cannot add to compare list."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1097
+msgid "Captcha"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:179
+msgid "Captcha should must be validate"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:918
+msgid "Check your email for your new password."
+msgstr ""
+
+#. Author of the plugin
+msgid "ChimpStudio"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:432
+msgid "Choose background color."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:411
+msgid "Choose Background Image Position"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:405
+msgid "Choose Background View."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:438
+msgid "Choose Border color."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:303
+msgid "Choose Category."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:381
+msgid "Choose Header Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:712
+msgid "Choose Icon"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:589
+msgid "Choose Inventory Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:547
+msgid "Choose inventory view with this dropdown"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:425
+msgid "Choose Mute selection"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:748
+msgid "Choose packages style with this dropdown"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:550
+msgid "Choose result type for view only featured or all"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:113
+msgid "Choose search layout background color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:115
+msgid "Choose search layout element title color."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:117
+msgid "Choose search layout heading color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:385
+msgid "Choose Sidebar"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:386
+msgid "Choose sidebar layout for this post."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:348
+msgid "Choose Sub-Header"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:372
+msgid ""
+"Choose subheader background image from media gallery or leave it empty for "
+"display default image set by theme options."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:543
+msgid ""
+"Choose top content of section with drop down section title, total rocords "
+"with title and filters can be select.."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:427
+msgid "Choose Video Auto Play selection"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:124
+msgid "Choose View Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1126
+msgid "Cities only"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1165
+msgid "City"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:126
+#: assets/common/translate/cs-strings.php:355
+#: assets/common/translate/cs-strings.php:591
+msgid "Classic"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:864
+msgid "Clear all"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:185
+msgid "Clear Filters"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:798
+msgid "Clear Values"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:161
+msgid "Click here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:533
+msgid "Click to Add Item"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:246
+msgid "Close"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:761
+msgid "Closed"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:759
+msgid "Closed Today"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1012
+msgid "Cluster Icon"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:83
+msgid "Colapse all Filters"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:43
+msgid "Collapse in Search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:504
+msgid "Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:450
+msgid "Column"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:477
+msgid "column_size  dropdown chosen-select-no-single select-medium"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1233
+msgid "Columns"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:342
+msgid "Comments are closed."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:472
+msgid "Common Elements"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:194
+msgid "Company name"
+msgstr ""
+
+#: frontend/inventories/cs-functions.php:413
+#: assets/common/translate/cs-strings.php:763
+msgid "Compare"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:445
+msgid "Compare Inventories"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:167
+msgid "Compare list already have 3 inventories for this type."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1025
+msgid "Compare Result Page"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1164
+msgid "Complete Address"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1046
+msgid "Confirmation Page"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1064
+msgid "Consumer Key"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1066
+msgid "Consumer Secret"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:768
+msgid "Contact Dealer"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:170
+msgid "Contact Form Received"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:464
+msgid "Contact Info"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:195
+msgid "Contact Information"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:451
+msgid "Contact Us"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1149
+msgid "Content"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:474
+msgid "Content Blocks"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:524
+msgid "Content Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:513
+msgid "Content Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:517
+msgid "Content title Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:835
+msgid ""
+"Control Authorize.net sandbox Account with this switch. If this switch is "
+"set to ON, payments will be  proceed with sandbox account."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:859
+msgid ""
+"Control PayPal sandbox Account with this switch. If this switch is set to ON,"
+" payments will be  proceed with sandbox account."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:458
+msgid "Counter"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1125
+msgid "Countries and Cities"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1124
+msgid "Countries only"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1166
+msgid "Country"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:598
+msgid "Cover Image"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:265
+msgid "Cover Letter"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:892
+msgid "Create Account"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:244
+#: templates/dashboards/dealer/cs-dealer-templates.php:470
+#: templates/dashboards/dealer/cs-dealer-templates.php:579
+msgid "Created Successfully."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:288
+msgid "CS : Ads"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:305
+msgid "CS : Featured Listings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:290
+msgid "CS : Flickr Gallery"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:301
+msgid "CS : Recent Posts"
+msgstr ""
+
+#. Name of the plugin
+msgid "CS Automobile"
+msgstr ""
+
+#. Description of the plugin
+msgid "CS Automobile."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:526
+msgid "CS Page Builder"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:396
+msgid "CS: Insert shortcode"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:297
+msgid "CS: Mail Chimp"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:822
+msgid "Currency Sign"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:936
+msgid "Currently there are and issue"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1009
+msgid "Custom Css"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:967
+msgid "Custom Fields"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:439
+msgid "Custom Id"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:824
+msgid "Custom Logo"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:378
+msgid "Custom Map Short Code"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:407
+msgid "Custom Slider"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:350
+msgid "Custom Subheader"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:809
+msgid "CV Search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1198
+msgid "Daily"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:974
+msgid ""
+"Dashboard and Front-End login/register option can be hide by turning off "
+"this switch."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1170
+msgid "Date"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1241
+#, php-format
+msgid "Date : %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1242
+msgid "Date Format"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:689
+msgid "Day Name"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1216
+msgid "Days"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:344
+msgid "Dealer"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1037
+msgid "Dealer auto-approval ON/OFF"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:172
+msgid "Dealer Contact from inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:698
+msgid "Dealer Custom Fields"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:977
+msgid "Dealer Dashboard"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:772
+msgid "Dealer Detail"
+msgstr ""
+
+#: backend/settings/plugin_options.php:251
+msgid "Dealer Terms and Conditions Page"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:73
+msgid "Dealer Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:968
+msgid "Dealers"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1060
+msgid "Dealers Custom Fields"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1059
+msgid "Dealers Fields"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:667
+msgid "Dealers Listing Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1019
+msgid "Default Address"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:993
+msgid "Default css"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:994
+msgid "Default css elements"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:995
+msgid "Default css for common elements (h1,h2,p etc)"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:383
+msgid "Default header style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1111
+msgid "Default Inventory Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:961
+msgid "Default Location"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1011
+msgid ""
+"Default Location Set default location for your site. This location can be "
+"set from Inventories > Locations in back end admin area. This will show "
+"location of admin only. It is not linked with Geo-location."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1118
+msgid "Default Radius"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1008
+msgid "Default Sidebar"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:996
+msgid "Default Sidebars"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:997
+msgid "Default Sidebars off"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:825
+msgid "Default Status"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:349
+msgid "Default Subheader"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:44
+msgid "Default Value"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:201
+#: assets/common/translate/cs-strings.php:286
+msgid "Delete"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:282
+msgid "Delete image"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:617
+msgid "Delete Permanently"
+msgstr ""
+
+#: templates/functions.php:1336
+#: templates/dashboards/dealer/cs-dealer-templates.php:73
+msgid "Delete Profile"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:35
+msgid "DESC"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:284
+msgid "Description"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1000
+msgid "Detail Page Advertisement Area"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:998
+#: assets/common/translate/cs-strings.php:999
+msgid "Detail Page Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:50
+msgid "Display Name"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:465
+msgid "Divider"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:509
+msgid "Divider setting on/off"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:831
+msgid "Do not edit this Url"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:816
+msgid "Do you really want to delete"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:795
+msgid "Down Payment"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1155
+msgid "Download"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1135
+msgid "Dribbble"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1169
+msgid "Dropdown"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1234
+#, php-format
+msgid "Dropdown : %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:516
+msgid "e.g. http://yourdomain.com/."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:320
+msgid "Edit"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:670
+msgid "Edit Dealer Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:638
+msgid "Edit Inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:648
+msgid "Edit Inventory Make"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:657
+msgid "Edit Inventory Model"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:608
+msgid "Edit Inventory Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:283
+msgid "Edit Item"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:665
+msgid "Edit Location"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:85
+msgid "EDIT OPTIONS"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:677
+msgid "Edit Packages"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:442
+msgid "Edit Page Section"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:87
+msgid "Element Sub Title "
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:86
+msgid "Element Title "
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:114
+msgid "Element Title Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:530
+#: assets/common/translate/cs-strings.php:559
+#: assets/common/translate/cs-strings.php:1172
+msgid "Email"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1243
+#, php-format
+msgid "Email : %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:592
+msgid "Email Address"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:175
+msgid "email address is not valid."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:229
+msgid "Email Already in use."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:928
+msgid "Email should not be empty."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:783
+msgid "Email to a Friend"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1108
+msgid "Enable Geo Location"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1249
+msgid "Enable Inputs"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1235
+msgid "Enable Multi Select"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:424
+msgid "Enable Mute"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:428
+msgid "Enable Parallax"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:277
+msgid "Enable Price Search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1110
+msgid "Enable Radius"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:42
+msgid "Enable Search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:274
+msgid "Enable Upload of Images:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:691
+msgid "End Time"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:66
+msgid "Enter a city, state, or country"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:496
+msgid "Enter accordion content here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:494
+msgid "Enter accordion title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:721
+msgid "Enter button title here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:722
+msgid "Enter button url here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:507
+msgid "Enter counter author name here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:506
+msgid "Enter counter text here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:440
+msgid "Enter Custom Id."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:421
+msgid "Enter Custom Slider"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:299
+msgid "Enter discription here."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:914
+msgid "Enter E-Mail address..."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:89
+msgid "Enter Element sub title here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:88
+msgid "Enter Element title here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:110
+msgid "Enter Height for Map."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:511
+msgid "Enter image url"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:104
+msgid "Enter Latitude for Map."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:499
+msgid "Enter List Item text here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:503
+msgid "Enter listing_price author name here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:501
+msgid "Enter listing_price text here."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:523
+msgid "Enter little description about service."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:106
+msgid "Enter Longitude for Map."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:890
+msgid "Enter Phone Number"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:489
+#: assets/common/translate/cs-strings.php:508
+msgid "Enter position of author here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1208
+msgid "Enter price here."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:91
+msgid "Enter Search box title here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:370
+msgid "Enter subheading text here.it will display after title."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:487
+msgid "Enter testimonial author name here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:486
+msgid "Enter testimonial text here."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1207
+msgid "Enter title here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:118
+msgid "Enter title of search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:139
+msgid "Enter url for advance click"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:527
+msgid "Enter Valid Email Address"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:803
+msgid "Enter you complete address with city, state or country"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:293
+msgid "Enter your Flicker Username here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:108
+msgid "Enter Zoom Level for Map."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:942
+msgid "ERROR"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1180
+msgid "Error Deleting file!"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1182
+msgid "Error Restoring file!"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1177
+msgid "Error saving file!"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:295
+msgid "Error:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:313
+msgid "Error: Try Again?"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:84
+msgid "Expand all Filters"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:211
+msgid "Expire"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1171
+msgid "Expire Date"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:207
+msgid "Expire date:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:203
+msgid "Expired"
+msgstr ""
+
+#: backend/post-types/cs-inventory.php:107
+msgid "Expired On"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:578
+msgid "Expired on:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:235
+msgid "Expiry"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1160
+msgid "Export Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1195
+msgid "Extra Feature Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:695
+msgid "Extra profile information"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1072
+#: assets/common/translate/cs-strings.php:1130
+msgid "Facebook"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1075
+msgid "Facebook Application ID"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1073
+msgid "Facebook Login On/Off"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1077
+msgid "Facebook Secret"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:60
+#: assets/common/translate/cs-strings.php:991
+msgid "Fancy"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:694
+msgid "Fax No"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:757
+msgid "Fax Number"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1050
+msgid "Feature Price"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1052
+msgid "Feature Price Text"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1190
+msgid "Feature Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1191
+msgid "Feature Title"
+msgstr ""
+
+#: includes/cs-functions.php:348 templates/inventories-views/cs-view.php:218
+#: templates/listings/inventory-categories.php:142
+#: assets/common/translate/cs-strings.php:537
+#: templates/single-pages/inventory/views/view-3.php:188
+#: templates/single-pages/inventory/views/view-2.php:190
+#: templates/single-pages/inventory/views/view-1.php:115
+msgid "Featured"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:966
+msgid "Featured Inventories"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:214
+msgid "Featured inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:257
+msgid "Featured Listing"
+msgstr ""
+
+#: frontend/inventories/cs-sort-filters.php:31
+#: assets/common/translate/cs-strings.php:552
+msgid "Featured Only"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:568
+msgid "Features"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1262
+msgid "Field Label"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1256
+msgid "Field name is required."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1179
+#, php-format
+msgid "File '%s' Deleted Successfully"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1183
+#, php-format
+msgid "File '%s' Restore Successfully"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1181
+msgid "File Import Successfully"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1153
+msgid "File URL"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:395
+msgid "Filter by"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:545
+msgid "Filters"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:790
+msgid "Financing calculator"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:787
+msgid "Financing Required"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:144
+msgid "Find Inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:804
+msgid "Find on Map"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:67
+msgid "Find Top Dealer"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:557
+msgid "First Name"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1237
+msgid "First Value"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1095
+msgid "Fixed redirect url for login"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:460
+msgid "flex editor"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:292
+msgid "Flickr username"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:883
+msgid "Forgot Password"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:704
+msgid "Friday"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:788
+msgid "Friend Email"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:923
+msgid "From:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1202
+msgid "Frontend Changeable"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:335
+msgid "Full Name"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:478
+msgid "Full width"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:446
+msgid "Gallery"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:707
+msgid "Gallery Image"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:555
+msgid "Gateway Transaction Id"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:963
+msgid "Gateways"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1049
+msgid "Gateways Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:959
+msgid "General Options"
+msgstr ""
+
+#: templates/functions.php:1330 assets/common/translate/cs-strings.php:346
+msgid "General Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1154
+msgid "Generate Backup"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1158
+msgid "Generated Files"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1109
+msgid ""
+"Geo Location will help users to find inventory in their area.**This option "
+"will only work if Location Search is enabled."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1086
+msgid "Google"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:908
+#: assets/common/translate/cs-strings.php:909
+msgid "google"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1106
+msgid "Google Auto complete"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1132
+msgid "Google Plus"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1093
+msgid "Google+ API key"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1089
+msgid "Google+ Client ID"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1091
+msgid "Google+ Client Secret"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1087
+msgid "Google+ Login On/Off"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:258
+msgid "Grand Total"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:548
+msgid "Grid"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:850
+msgid "Gross Charges:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1201
+msgid "Group"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1199
+msgid "Guests"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:379
+msgid "Header Border Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:457
+msgid "Heading"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:116
+msgid "Heading Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1231
+msgid "Help Text"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1056
+msgid ""
+"Here you can add payment text whatever you want it will show up just under "
+"payment gateways while paying  for inventory."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1042
+msgid ""
+"Here you can add VAT percentage according to your country laws & regulations."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:841
+msgid "Here you can add your Authorize.net IPN URL."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:863
+msgid "Here you can add your PayPal IPN URL."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:153
+msgid "Here you can add your Skrill-MoneryBooker IPN URL."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1159
+msgid ""
+"Here you can Generate/Download Backups. Also you can use these Backups to "
+"Restore settings."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1076
+msgid ""
+"Here you have to add your Facebook application ID. You will get this ID when "
+"you create Facebook App."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:134
+msgid "Hint text on/off"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://themeforest.net/user/Chimpstudio/"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:343
+msgid ""
+"I am interested in a price quote on this vehicle. Please contact me at your "
+"earliest convenience with your best price for this vehicle."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:318
+msgid "Icon"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:519
+msgid "Icon Background Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:521
+msgid "Icon Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:317
+msgid "Icon Path"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:574
+msgid "ID Number"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:833
+msgid ""
+"If this switch will be OFF, no payment will be processed via Authorize.net."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:843
+msgid ""
+"If this switch will be OFF, no payment will be processed via Bank Transfer."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:857
+msgid "If this switch will be OFF, no payment will be processed via Paypal."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:154
+msgid ""
+"If this switch will be OFF, no payment will be processed via Skrill-"
+"MoneyBooker."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:247
+msgid ""
+"If you don't have an account you can create one below by entering your email "
+"address. A password will be automatically emailed to you. or"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1128
+msgid ""
+"If your above 'Search By Location' option will be 'single city' then you "
+"must have to select city from the dropdown."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:490
+msgid "Image"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:713
+msgid "Image for Dealer Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:459
+msgid "Image Frame"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:510
+msgid "Image Url"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1157
+msgid "Import"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1142
+msgid "import & export"
+msgstr ""
+
+#: backend/users/cs-import.php:39
+msgid "Import / Export Users"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1162
+msgid "Import Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1152
+msgid "Import Users"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1145
+msgid "Import Users Data"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:309
+msgid "in stock"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:849
+msgid ""
+"In this text box, you can add any help text whatever you want to show on "
+"front end for assistance of users regarding bank payment."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:199
+#: assets/common/translate/cs-strings.php:580
+msgid "Inactive"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1116
+#: assets/common/translate/cs-strings.php:1248
+msgid "Increment Step"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:280
+msgid "Increment Steps"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1251
+msgid "Input"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1253
+msgid "Input + Slider"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1161
+msgid ""
+"Input the Url from another location and hit Import Button to apply settings."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:51
+msgid "Insert"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1069
+msgid ""
+"Insert Twitter Access Token for permissions. When you create your Twitter "
+"App, you will get this Token"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1071
+msgid ""
+"Insert Twitter Access Token Secret here. When you create your Twitter App, "
+"you will get this Token"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1065
+msgid ""
+"Insert Twitter Consumer Key here. When you create your Twitter App, you will "
+"get this key."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1067
+msgid ""
+"Insert Twitter Consumer secret here. When you create your Twitter App, you "
+"will get this key."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1136
+msgid "Instagram"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:792
+msgid "Interest rate"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:925
+msgid "Invalid e-mail address."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:444
+msgid "Inventories"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:143
+msgid "Inventories by selecting Make"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:142
+msgid "Inventories by selecting Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1057
+msgid "Inventories Custom Fields"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1058
+msgid "Inventories Fields"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1141
+msgid "Inventories Line Maps"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:218
+msgid "Inventories Search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:183
+msgid "Inventories title or keywords"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:56
+msgid "Inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:624
+msgctxt "inventory"
+msgid "Add New"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1029
+msgid "Inventory Compare List Page"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:539
+msgid "Inventory Compare OPTIONS"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:965
+msgid "Inventory Credit"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:709
+msgid "Inventory Dealer"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:986
+msgid "Inventory Detail Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:409
+msgid "Inventory Fields"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:540
+msgid "Inventory Listing OPTIONS"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:652
+msgid "Inventory Makes"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:586
+msgid "Inventory Makes Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:46
+msgid "Inventory Media"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:661
+msgid "Inventory Models"
+msgstr ""
+
+#: backend/post-types/cs-inventory.php:105
+msgid "Inventory Name"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:572
+msgid "Inventory Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:745
+msgid "Inventory Package"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:746
+msgid "INVENTORY PACKAGE OPTION"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:81
+msgid "Inventory Packages Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:708
+msgid "Inventory Post"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1035
+msgid "Inventory Publish/Pending On/Off"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:710
+msgid "Inventory Search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:112
+msgid "Inventory Search Option"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:985
+msgid "Inventory Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:588
+msgid "Inventory Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:599
+msgid "Inventory Title"
+msgstr ""
+
+#: backend/post-types/cs-inventory.php:108
+#: assets/common/translate/cs-strings.php:587
+msgid "Inventory Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:634
+msgctxt "Inventory Type"
+msgid "Add New"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:715
+msgid "Inventory Type Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:567
+msgid "Inventory Type Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:610
+msgid "Inventory Types"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:546
+msgid "Inventory View"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:232
+msgid "Inventroy Makes"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:233
+msgid "Inventroy Models"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:171
+msgid "IP Address"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:714
+msgid "ISO Code"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:327
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1007
+msgid "It will disable widgets of all Sidebars"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:561
+msgid "Job Id"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:562
+msgid "Job Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:52
+msgid "KM"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:132
+msgid "Lables on/off"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:981
+msgid "Language Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:605
+msgid "Last Activity"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:558
+msgid "Last Name"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:103
+msgid "Latitude"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:339
+msgid "Leave us a comment"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:515
+msgid "Link Url"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1079
+msgid "Linked-in"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:911
+msgid "linked-in"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1082
+msgid "Linked-in Application ID"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1080
+msgid "Linked-in Login On/Off"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:267
+msgid "Linked-in Profile"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1084
+msgid "Linked-in Secret"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:49
+#: assets/common/translate/cs-strings.php:910
+msgid "Linkedin"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:463
+msgid "List"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:498
+msgid "List Item Text"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:252
+msgid "List your Post in Featured listings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:685
+msgid "Listing Expiry"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:686
+msgid "Listing Period"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:469
+msgid "Listing Price"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1219
+msgid "Listings Expiry"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:314
+msgid "Load from IcoMoon selection.json"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:205
+msgid "Load more"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:55
+#: assets/common/translate/cs-strings.php:774
+msgid "Location"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:130
+msgid "Location Field"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1104
+msgid "Location Search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:662
+msgid "Locations"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:329
+msgid "Log out"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:330
+msgid "Logged in as"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:882
+msgid "Login"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:945
+msgid "Login error"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:913
+msgid "Login Here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:836
+msgid "Login Id"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:930
+msgid "Login Successfully..."
+msgstr ""
+
+#: templates/functions.php:1338 assets/common/translate/cs-strings.php:735
+msgid "Logout"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:105
+msgid "Longitude"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:475
+msgid "Loops"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:298
+msgid "Mail Chimp Newsletter Widget"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:182
+msgid "Mail to a friend"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:584
+msgid "Mailing Information"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:462
+msgid "maintenance"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:181
+msgid "Make ab Offer Form"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:781
+msgid "Make an Offer"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:158
+msgid "Make by"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:128
+msgid "Make Field"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:255
+msgid "Make Payments"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:569
+msgid "Makes"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1074
+msgid ""
+"Manage user registration via Facebook here. If this switch is set ON, users "
+"will be able to sign up / sign in with Facebook. If it will be OFF, users "
+"will not be able to register / sign in through Facebook."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1088
+msgid ""
+"Manage user registration via Google+ here. If this switch is set ON, users "
+"will be able to sign up / sign in with Google+. If it will be OFF, users "
+"will not be able to register / sign in through Google+."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1081
+msgid ""
+"Manage user registration via Linked-in here. If this switch is set ON, users "
+"will be able to sign up / sign in with Linked-in. If it will be OFF, users "
+"will not be able to register / sign in through Linked-in."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1063
+msgid ""
+"Manage user registration via Twitter here. If this switch is set ON, users "
+"will be able to sign up / sign in with Twitter. If it will be OFF, users "
+"will not be able to register / sign in through Twitter."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1098
+msgid ""
+"Manage your captcha code for secured Signup here. If this switch will be ON, "
+"user can register after entering Captcha code. It helps to avoid robotic / "
+"spam sign-up"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1017
+msgid "Manual Zoom will not work if Auto Zoom is on."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:101
+#: assets/common/translate/cs-strings.php:352
+msgid "Map"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1016
+msgid "Map Auto Zoom"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1015
+msgid "Map Cluster Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:109
+msgid "Map Height"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1018
+msgid "Map Lock"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1013
+msgid "Map Marker Icon"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:992
+msgid "Map View"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:363
+msgid "Margin Bottom"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:361
+msgid "Margin Top"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:279
+msgid "Max Range"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1115
+msgid "Max Value"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:275
+msgid "Maximum Images per ad"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:724
+#, php-format
+msgid "Maximum Inventory in %s %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1247
+msgid "Maximum Value"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:473
+msgid "Media Element"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:975
+msgid "Menu Location"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:322
+msgid "Message"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1225
+msgid "Meta Key"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:53
+msgid "Miles"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:278
+msgid "Min Range"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1114
+msgid "Min Value"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:602
+msgid "Minimum Salary"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1246
+msgid "Minimum Value"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:692
+msgid "Mobile No"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:756
+msgid "Mobile Number"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:159
+msgid "Model"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:595
+msgid "Models"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:751
+msgid "Modern"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:382
+msgid "Modern Header Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:700
+msgid "Monday"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1217
+msgid "Months"
+msgstr ""
+
+#: frontend/inventories/cs-sort-filters.php:31
+#: assets/common/translate/cs-strings.php:189
+msgid "Most Recent"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:618
+msgid "Move to Trash"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:157
+msgid "MSRP"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:454
+msgid "Multi services"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:512
+msgid "Multiple Service"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:68
+msgid "My location"
+msgstr ""
+
+#: templates/functions.php:1331 assets/common/translate/cs-strings.php:728
+msgid "My Posted Cars"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:697
+msgid "My Profile"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:192
+msgid "My Profile Photo"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:196
+msgid "My vehicles"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:332
+msgid "Name"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1257
+msgid "Name already exist."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1255
+msgid "Name Available"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:668
+msgid "New Dealer Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:637
+msgid "New Inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:651
+msgid "New Inventory Make Name"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:660
+msgid "New Inventory Model Name"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:607
+msgid "New Inventory Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:663
+msgid "New Location"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:678
+msgid "New Packages Item"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:582
+msgid "New Price"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:884
+msgid "New to Us?"
+msgstr ""
+
+#: includes/cs-core-functions.php:118 includes/cs-core-functions.php:152
+#: assets/common/translate/cs-strings.php:802
+msgid "Next"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:808
+msgid "Nill"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:48
+msgid "No"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:271
+msgid "No Applicant Found"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:593
+msgid "No custom field found."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:643
+msgid "No inventories found in Trash."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:642
+msgid "No inventories found."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:744
+msgid "No inventory found."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:614
+msgid "No Inventory Type found in Trash."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:613
+msgid "No Inventory Type found."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:563
+msgid "No Jobs used yet."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:666
+msgid "No locations found."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:169
+msgid "No Models found."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1214
+msgid "No of CV\\'s'"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1213
+msgid "No of Listings in Package"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:762
+msgid "no related inventory found"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:62
+msgid "No result found."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:566
+msgid "No Resumes used yet"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:353
+msgid "No Subheader"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:414
+msgid "no-repeat center"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:415
+msgid "no-repeat center / cover"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:412
+msgid "no-repeat center top"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:419
+msgid "no-repeat fixed center"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:420
+msgid "no-repeat fixed center / cover"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:417
+msgid "no-repeat left top"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:406
+msgid "None"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:893
+msgid "Not a Member yet?"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:270
+msgid "Not set by user"
+msgstr ""
+
+#: frontend/cs-shortcodes/cs-inventory-type.php:99
+#: assets/common/translate/cs-strings.php:324
+msgid "Nothing Found"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:680
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:307
+msgid "Number of Featured Listings To Display."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:294
+msgid "Number of Photos"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:304
+msgid "Number of Posts To Display."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:69
+msgid "of"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1148
+msgid "off"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:785
+msgid "Offered Price"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:583
+msgid "Old Price"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1147
+msgid "on"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:102
+msgid "ON/OFF Map. This will display a Map."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:93
+msgid ""
+"ON/OFF search box with this dropdown. Search box will display same like "
+"sidebar of listing."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:482
+msgid "One fourth"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:479
+msgid "One half"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:480
+msgid "One third"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1197
+msgid "One Time"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:828
+msgid "Only for Developer use."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:917
+msgid "Oops something went wrong updating your account"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:760
+msgid "Open Today"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:688
+msgid "Opening Hours"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1238
+msgid "Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:895
+msgid "Or"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:851
+msgid "Order detail"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:855
+msgid "Order ID"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:221
+msgid "Order summery"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:581
+msgid "Organization"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:848
+msgid "Other Information"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:962
+msgid "Others"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:310
+msgid "out of stock"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:212
+msgid "Package"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1215
+msgid "Package Expiry"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:684
+msgid "Package Expiry Date"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1221
+msgid "Package Featured"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:806
+msgid "Package Id"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:672
+msgid "Package Name"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:70
+msgid "Package Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1205
+msgid "Package Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:259
+msgid "Package Subscription"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1206
+msgid "Package Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1209
+msgid "Package Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:682
+msgid "Package User"
+msgstr ""
+
+#: templates/functions.php:1335 assets/common/translate/cs-strings.php:79
+#: assets/common/translate/cs-strings.php:964
+msgid "Packages"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:359
+msgid "Padding Bottom"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:357
+msgid "Padding Top"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:345
+msgid "Page Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:960
+msgid "Page Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:365
+msgid "Page Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:96
+msgid "Pagination"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:97
+msgid ""
+"Pagination is the process of dividing a document into discrete pages. Manage "
+" pagiantion via this dropdown."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:373
+msgid "Parallax"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:374
+msgid ""
+"Parallax is an effect where the background content or image in this case, is "
+"moved at a different speed than the foreground content while scrolling can "
+"be enable with this switch."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:641
+msgid "Parent Inventories:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:646
+msgid "Parent Inventory Make"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:647
+msgid "Parent Inventory Make:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:655
+msgid "Parent Inventory Model"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:656
+msgid "Parent Inventory Model:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:612
+msgid "Parent Inventory Types:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:455
+msgid "Partner"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:881
+msgid "PASSWORD"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:916
+msgid "Password Recovery"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:927
+msgid "Password should not be empty."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:223
+msgid "Pay Now"
+msgstr ""
+
+#: templates/functions.php:1334 assets/common/translate/cs-strings.php:731
+#: assets/common/translate/cs-strings.php:796
+msgid "Payment"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:673
+msgid "Payment Gateway"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:554
+msgid "Payment Method"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:553
+msgid "Payment Summary"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1054
+msgid "Payment Text"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:860
+msgid "Paypal Business Email"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:862
+msgid "Paypal Ipn Url"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:858
+msgid "Paypal Sandbox"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:856
+msgid "Paypal Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:811
+msgid "Pending"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1200
+msgid "Per Head"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:793
+msgid "Period"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:529
+msgid "Phone"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:604
+msgid "Phone No"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:889
+msgid "Phone Number"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:40
+msgid "Pictures should be in \"jpeg, jpg, png, gif\" format only."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1133
+msgid "Pinterest"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1227
+msgid "Place Holder"
+msgstr ""
+
+#: templates/elements/login/login_functions.php:181
+msgid "Please check and accept Terms and Conditions to Register Successfully."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:935
+msgid "Please check your email for login details"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:219
+msgid "Please create user profile."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:815
+msgid ""
+"Please ensure that all required fields are completed and formatted correctly"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:932
+msgid "Please enter a valid email."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:931
+msgid ""
+"Please enter a valid username. You can only enter alphanumeric value and "
+"only ( _ ) longer than or equals 5 chars"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:174
+msgid "Please enter email."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:296
+msgid "Please Enter Flickr API key from Theme Options."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1226
+msgid "Please enter Meta Key without special character and space."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:173
+msgid "Please enter name."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:980
+msgid "Please enter slug for author page (dealer)"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:316
+msgid "Please enter text for icon"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:336
+msgid "Please enter your email address"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:535
+msgid "Please Insert Items"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:878
+msgid "Please logout first then try to login again"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:938
+msgid "Please provide google captcha API keys"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:63
+msgid "Please re-check the spelling of your keyword"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:988
+#: assets/common/translate/cs-strings.php:1003
+#: assets/common/translate/cs-strings.php:1210
+msgid "Please Select"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1167
+msgid "Please select a page"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1261
+msgid "Please select atleast one option for"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1258
+#, php-format
+msgid "Please select atleast one option for '%s' field."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:939
+msgid "Please select captcha field."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:736
+msgid "Please Select Dealer Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:718
+msgid "Please select inventory type"
+msgstr ""
+
+#: backend/settings/plugin_options.php:253
+msgid "Please select the dealer terms and conditions page."
+msgstr ""
+
+#: backend/settings/plugin_options.php:263
+msgid "Please select the privacy policy page."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:184
+msgid "Please select your desired location"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:484
+msgid "Please select.."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:906
+msgid "Please set API key"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:853
+msgid ""
+"Please transfer amount To this account, After payment Received we will "
+"process your Order"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:311
+msgid "Please wait..."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:488
+msgid "Position"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:243
+msgid "Post a Vehicle"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:341
+msgid "Post comments"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:245
+msgid "Post Inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1236
+msgid "Post Multi Select"
+msgstr ""
+
+#: templates/functions.php:1332 assets/common/translate/cs-strings.php:729
+msgid "Post New Car"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:389
+msgid "Post Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:99
+msgid "Post Per Page"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:620
+msgctxt "post type general name"
+msgid "Inventories"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:630
+msgctxt "post type general name"
+msgid "Inventory Types"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:621
+msgctxt "post type singular name"
+msgid "Inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:631
+msgctxt "post type singular name"
+msgid "Inventory Type"
+msgstr ""
+
+#: backend/post-types/cs-inventory.php:106
+#: assets/common/translate/cs-strings.php:773
+msgid "Posted By"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:576
+msgid "Posted by"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:577
+msgid "Posted on:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:334
+msgid "Posts"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:616
+msgid "Preview"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:615
+msgid "Preview Changes"
+msgstr ""
+
+#: includes/cs-core-functions.php:117 includes/cs-core-functions.php:151
+#: assets/common/translate/cs-strings.php:801
+msgid "Previous"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:502
+msgid "Price"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:865
+msgid "Price $"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:281
+msgid "Price Search Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:448
+msgid "Price Services"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:782
+msgid "Print this Detail"
+msgstr ""
+
+#: backend/settings/plugin_options.php:261
+#: templates/elements/login/shortcodes.php:353
+#: templates/elements/login/shortcodes.php:640
+msgid "Privacy Policy"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:391
+msgid "Product Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:696
+msgid "Profile Approved"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:597
+msgid "Profile Image"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:596
+msgid "Profile Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:600
+msgid "Profile Status"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:466
+msgid "Promobox"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:380
+msgid "Provide a hex color code here (with #) for header border color."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:367
+msgid "Provide a hex color code here (with #) for title."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:376
+msgid ""
+"Provide a hex color code here (with #) if you want to override the default, "
+"leave it empty for using background image."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:525
+msgid ""
+"Provide a hex colour code here (with #) for text color. if you want to "
+"override the default."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:619
+msgid "Publish"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1078
+msgid ""
+"Put your Facebook Secret here. You can find it in your Facebook Application "
+"Dashboard"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1094
+msgid "Put your Google+ API key here.  To get API, go to your Google+ account"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1090
+msgid ""
+"Put your Google+ client ID here.  To get this ID, go to your Google+ account "
+"Dashboard"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1092
+msgid ""
+"Put your google+ client secret here.  To get client secret, go to your "
+"Google+ account"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1096
+msgid "Put your google+ redirect url here."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1085
+msgid ""
+"Put your Linked-in Secret here. You can find it in your Linked-in "
+"Application Dashboard"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1100
+msgid ""
+"Put your site key for captcha. You can get this site key after registering "
+"your site on Google."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1102
+msgid ""
+"Put your site Secret key for captcha. You can get this Secret Key after "
+"registering your site on Google."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:397
+msgid "quick Quote"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1113
+msgid "Radius Inputs"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1120
+msgid "Radius Measurement"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1174
+msgid "Range"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1245
+#, php-format
+msgid "Range : %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:325
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:306
+msgid "Recent Featured Listings."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:302
+msgid "Recent Posts from category."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:82
+msgid "Refine Search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:814
+msgid "Refunded"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:711
+msgid "Register"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:891
+msgid "Register Here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:800
+#, php-format
+msgid "Related %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:799
+msgid "Related Cars"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:940
+msgid "Reload"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:227
+msgid "Remaining"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:497
+msgid "Remove"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:740
+msgid "Remove from Shortlist"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:209
+msgid "Remove inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1240
+msgid "remove this choice"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:767
+msgid "Remove to Compare"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:204
+msgid "Removed"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:166
+msgid "Removed from compare list."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:674
+msgid "Removed From Favourite"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:416
+msgid "repeat center"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:413
+msgid "repeat center top"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:418
+msgid "repeat left top"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:771
+msgid "Request Details"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:779
+msgid "Request More Info"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:178
+msgid "Request More Info Form"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1224
+msgid "Required"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:331
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:957
+msgid "Reset All Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1156
+msgid "Restore"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:549
+msgid "Result Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:187
+msgid "Results for your search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:564
+msgid "Resume Id"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:565
+msgid "Resume Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:683
+msgid "Resumes"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:351
+msgid "Revolution Slider"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1232
+msgid "Rows"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1185
+msgid "Safety Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1043
+msgid "Safety Text On/Off"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1189
+msgid "Safety Text Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:276
+msgid "Sale Price"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:705
+msgid "Saturday"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:111
+msgid "Save"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:956
+msgid "Save All Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:734
+msgid "Save Failed"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:958
+msgid "Saving changes..."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:629
+msgid "Schedule"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:780
+msgid "Schedule Test Drive"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:180
+msgid "Schedule Test Drive inquiry form"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:145
+#: assets/common/translate/cs-strings.php:393
+msgid "Search"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:92
+msgid "Search Box"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:90
+msgid "Search Box Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:140
+msgid "Search by keyword"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1122
+msgid "Search By Location"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:640
+msgid "Search Inventories"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:644
+msgid "Search Inventory Makes"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:653
+msgid "Search Inventory Models"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:611
+msgid "Search Inventory Types"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:716
+msgid "Search Location"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1129
+msgid "SEARCH OPTIONS"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:970
+msgid "Search Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1027
+msgid "Search Result Page"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1250
+msgid "Search Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1163
+msgid "Search This Location on Map"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1103
+msgid "Searching Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1101
+msgid "Secret Key"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:534
+msgid "Section"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:536
+#, php-format
+msgid "Section : %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:287
+msgid "Select Attribute"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1002
+msgid "Select automobile Detail Page Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1127
+msgid "Select City"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1175
+msgid "Select Country"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:820
+msgid "Select Currency"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:135
+msgid "Select Hint Enable/Disable."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:289
+msgid "Select Image from Ads."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:987
+msgid "Select Inventory Detail Page Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:585
+msgid "Select Inventory Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:133
+msgid "Select lables Enable/Disable."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:982
+msgid "Select Language File"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:441
+msgid "Select Layout"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:387
+msgid "Select Left Sidebar"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:72
+msgid "Select Location"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:131
+#: assets/common/translate/cs-strings.php:137
+msgid "Select Location Field Enable/Disable."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:129
+msgid "Select Make Field Enable/Disable."
+msgstr ""
+
+#: frontend/inventories-search/search-template.php:198
+#: frontend/inventories-search/search-template.php:224
+#: frontend/inventories-search/search-template.php:450
+#: frontend/inventories-search/search-template.php:468
+#: frontend/inventories/cs-functions.php:85
+#: backend/meta-boxes/cs-inventory-type-meta.php:71
+#: backend/meta-boxes/cs-inventory-type-meta.php:95
+#: backend/meta-boxes/cs-inventory-meta.php:704
+#: backend/elements/cs-inventories.php:259
+#: assets/common/translate/cs-strings.php:570
+msgid "Select Makes"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:168
+msgid "Select Model"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:594
+msgid "Select Models"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:80
+msgid "Select packages from this dropdown."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:752
+msgid ""
+"Select packages which do you want show. If you don't have any pckage create "
+"new from Dashboard >> Inventorys >> Settings >> Packages."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:254
+msgid "Select Packcage"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:978
+msgid ""
+"Select page for dealer dashboard here. This page is set in page template "
+"drop down. To create dealer dashboard page, go to Pages > Add new page, set "
+"the page template to dealer in the right menu."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1032
+msgid ""
+"Select page for Terms and Conditions here. This page is set in page template "
+"drop down."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:681
+msgid "Select Payment Gateway"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:983
+msgid "Select Plugin Language"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:388
+msgid "Select Right Sidebar"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:384
+msgid "Select Sidebar"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:377
+msgid "Select Slider"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1184
+msgid "Select State"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:500
+msgid "Select the Icons you would like to show with your List ."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:120
+msgid "Select Title Field Enable/Disable."
+msgstr ""
+
+#: frontend/inventories-search/search-template.php:152
+#: assets/common/translate/cs-strings.php:75
+msgid "Select Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:127
+msgid "Select Type Field Enable/Disable."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:77
+msgid "Select Type for specific kind of inventories."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:542
+msgid "Select Types"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:429
+msgid "Select View"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:821
+msgid "Select your currency from the given drop down."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:268
+msgid "Send a Message"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:912
+msgid "Send Email"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:447
+msgid "Services"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1020
+msgid ""
+"Set default location for the site here. **See further description in the "
+"right panel"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1023
+msgid ""
+"Set default location for your site (Country, City & Address). This location "
+"can be set from Inventories > Locations in back end admin area. This will "
+"show location of admin only and willl fetch results from the given location "
+"first. It is not linked with Geo-location."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1022
+msgid ""
+"Set default street address here. **See further description in the right "
+"panel."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:364
+msgid "Set Margin bottom. (In px)"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:362
+msgid "Set Margin top here.(In px) "
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:360
+msgid "Set padding bottom. (In px)"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:358
+msgid "Set padding top here.(In px)"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1051
+msgid "Set price for a fearured Inventory."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1121
+msgid ""
+"Set radious Measurement unit from drop down (km/miles) in which users will "
+"serach.** This option will only work if location search is enabled"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:505
+msgid "Set text color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1055
+msgid ""
+"Set text for featured inventory payment confirmation. The text will show "
+"when user will complete featured inventory payment."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:436
+msgid "Set the Border Bottom (In px)"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:434
+msgid "Set the Border top (In px)"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:522
+msgid "Set the position of service image here"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:520
+msgid "Set the Service Background"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1026
+msgid ""
+"Set the specific page where you want to show compare results. The selected "
+"page must have compare element on it."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1030
+msgid "Set the specific page where you want to show inventory compare results."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1028
+msgid ""
+"Set the specific page where you want to show search results. The selected "
+"page must have inventory page element on it. (Add inventory page element "
+"while creating the inventory search result page)."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:518
+msgid "Set title color from here."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:273
+msgid "Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1176
+msgid "Settings Saved"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1139
+msgid "share more"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:741
+msgid "Shortlist"
+msgstr ""
+
+#: templates/functions.php:1333 assets/common/translate/cs-strings.php:730
+msgid "Shortlisted"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:216
+msgid "Shortlisted Vehicles"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:394
+msgid "Show all"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:976
+msgid "Show login section in Menu"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:78
+msgid "Show Number of Results"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1062
+msgid "Show Twitter"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:71
+msgid "Show With in"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:826
+msgid "Show/Hide Gateway On Front End."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:186
+msgid "Showing"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:45
+msgid "Showroom Gallery"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:896
+msgid "Sign in"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:894
+msgid "Sign Up Now"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:915
+msgid "Sign up Now"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:907
+msgid "Signin with your Social Networks"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:885
+msgid "Signup / Signin with"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:125
+#: assets/common/translate/cs-strings.php:590
+#: assets/common/translate/cs-strings.php:750
+msgid "Simple"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:98
+msgid "Single Page"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1033
+msgid "Single Pages Container On/Off"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1211
+msgid "Single Submission"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1099
+msgid "Site Key"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:476
+msgid "Size"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:150
+msgid "Skrill-MoneryBooker Business Email"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:152
+msgid "Skrill-MoneryBooker Ipn Url"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:149
+msgid "Skrill-MoneyBooker Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:59
+#: assets/common/translate/cs-strings.php:1252
+msgid "Slider"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:333
+msgid "Slug"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:971
+msgid "Social Icon"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:300
+msgid "Social Icon On/Off."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:603
+msgid "Social Networks"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:390
+msgid "Social Sharing"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:943
+#, php-format
+msgid "Something went wrong: %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:58
+msgid "Sorry !"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:326
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:188
+msgid "Sort"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:470
+msgid "spacer"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1259
+msgid "Special character not allowed but only (_,-)."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:690
+msgid "Start Time"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:556
+msgid "Status"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1137
+msgid "StumbleUpon"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:354
+msgid "Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:369
+msgid "Sub Heading"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:402
+msgid "Sub Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:347
+msgid "Subheader"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1024
+msgid "Submissions"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:528
+msgid "SUBMIT"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:635
+msgid "Submit for Review"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:531
+msgid "Submit Query"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1212
+msgid "Subscription"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:234
+msgid "Subscription Details"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:253
+msgid "Subscription Submition"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:312
+msgid "Successfully loaded icons"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:699
+msgid "Sunday"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:625
+msgctxt "taxonomy general name"
+msgid "Inventory Makes"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:627
+msgctxt "taxonomy general name"
+msgid "Inventory Models"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:626
+msgctxt "taxonomy singular name"
+msgid "Inventory Make"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:628
+msgctxt "taxonomy singular name"
+msgid "Inventory Model"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:770
+msgid "Technical Specifications"
+msgstr ""
+
+#: templates/elements/login/shortcodes.php:351
+#: templates/elements/login/shortcodes.php:638
+msgid "Terms & Conditions "
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1031
+msgid "Terms and Conditions"
+msgstr ""
+
+#: backend/settings/plugin_options.php:235
+#: backend/settings/plugin_options.php:237
+msgid "Terms and Conditions For Registeration"
+msgstr ""
+
+#: backend/settings/plugin_options.php:242
+msgid "Terms and Conditions switch"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:452
+msgid "Testimonial"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:485
+msgid "Text"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1223
+#, php-format
+msgid "Text : %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:538
+#, php-format
+msgid "Text Area : %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:366
+msgid "Text Color"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:338
+msgid "Text here..."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1168
+msgid "Textarea"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:737
+msgid "There are no Dealer Type available"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:61
+msgid "There are no listings matching your search."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:266
+msgid "There is no downloadable doc"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:228
+msgid "There is no package in your list"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:206
+msgid "There is no record in inventory list"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:727
+msgid "There is no record in list"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:215
+msgid "There is no record in transaction list"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:217
+msgid "There is no shortlisted inventory."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:924
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1048
+msgid ""
+"This Content will print on frontend when employer post a new inventory as "
+"confirmation content on payment page."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1193
+#, php-format
+msgid "This feature \"%s\" is already exist. Please create with another Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1010
+msgid "This is custom css area"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1112
+msgid ""
+"This Option will help users to filter inventories with radious.**This option "
+"will only work if location search is enabled."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:941
+msgid ""
+"This profile is already linked with other account. Linking process failed!"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:403
+msgid "This Sub Title will view below the Title of this section."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1040
+msgid ""
+"This switch will control VAT calculation and its payment along with package "
+"price. If this switch will be ON, user must have to pay VAT percentage "
+"separately. Turn OFF the switch to exclude VAT from payment."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1044
+msgid ""
+"This switch will control your Safety Text. Help / warning or any kind of "
+"text added will safety on inventory detail page."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1047
+msgid ""
+"This title will print on frontend when dealer post a new inventory as "
+"confirmation title on payment page."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:401
+msgid "This Title will view on top of this section."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:483
+msgid "Three fourth"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:703
+msgid "Thursday"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:399
+msgid "Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:119
+msgid "Title Field"
+msgstr ""
+
+#: frontend/inventories/cs-functions.php:1547
+msgid "to"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1021
+msgid ""
+"To set the city, first select  a country. **See further description in the "
+"right panel."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:541
+msgid "Top Content"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:222
+msgid "Total"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:225
+msgid "Total Ads"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:260
+msgid "Total Charges"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:236
+msgid "Total inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:544
+msgid "Total Records with Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:208
+msgid "Total View"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:213
+msgid "Trans ID"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:575
+msgid "Transaction Id"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:838
+msgid "Transaction Key"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:805
+msgid "Transactions"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:65
+msgid "Try adjusting the filters applied by you"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:64
+msgid "Try broadening your search by using general terms"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:701
+msgid "Tuesday"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1134
+msgid "Tumblr"
+msgstr ""
+
+#: backend/settings/plugin_options.php:244
+msgid "Turn this condition on to add terms and policy chek in the signup."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1036
+msgid ""
+"Turn this switcher OFF to allow direct publishing of submitted inventory by "
+"dealers without review / moderation. If this switch is ON, inventories will "
+"be published after admin review / moderation."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1038
+msgid ""
+"Turn this switcher ON to allow direct approve of submitted Dealer without "
+"review / moderation. If this switch is OFF, dealer will be approved after "
+"admin review / moderation"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1061
+#: assets/common/translate/cs-strings.php:1131
+msgid "Twitter"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:481
+msgid "Two third"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:291
+msgid "Type a user name to show photos in widget"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:789
+msgid "Type desired friend email"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:886
+msgid "Type desired username"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:121
+msgid "Type Field"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:887
+msgid "Type your name"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:471
+msgid "Typography"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:285
+msgid "Update"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:193
+msgid "Update Avatar"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1203
+msgid "Update Extra Feature"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1192
+msgid "Update Feature"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:649
+msgid "Update Inventory Make"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:658
+msgid "Update Inventory Model"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:717
+msgid "update map"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1222
+msgid "Update Package"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:242
+msgid "Update Successfully"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:264
+msgid "Updated"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:573
+msgid "Upload"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:138
+#: assets/common/translate/cs-strings.php:1173
+msgid "Url"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1244
+#, php-format
+msgid "Url : %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:687
+msgid "use 775x436 dimensions"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1117
+msgid ""
+"Use this field to add radious inputs minimum to maximum. **This option wil "
+"only work if location search is enabled."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1105
+msgid ""
+"Use this Option to Enable/Disable Location filters for frontend At "
+"Inventories,  Dealer's and inventory search element."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1123
+msgid ""
+"Use this option to set search by location with given option (country, City "
+"etc ) in the dropdown. There are limited options for search which are given "
+"in drop down. No extra parameter can be set for search with location. *This "
+"option will only work if location search is enabled"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:226
+#: assets/common/translate/cs-strings.php:237
+msgid "Used"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:671
+msgid "User"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:933
+msgid "User already exists. Please try another one."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:879
+msgid "User Login"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:973
+msgid "User Login Dashboard"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:926
+msgid "User name should not be empty."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:934
+msgid "User registration detail"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:876
+msgid "User Registration is disabled"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:905
+msgid "User Registration Options"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:972
+msgid "User Settings"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:900
+msgid "User Sign in"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:880
+msgid "USERNAME"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:230
+msgid "Username Already in use."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1144
+msgid "Users Import / Export"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1041
+msgid "Value Added Tax in %"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1039
+msgid "VAT On/Off"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:769
+msgid "Vehicle overview"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:791
+msgid "Vehicle price"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:251
+msgid "Vehicle Price New"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:250
+msgid "Vehicle Price old"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:249
+msgid "Vehicle Title"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:248
+msgid "Vehicles Information"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:755
+msgid "VERIFIED"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:408
+msgid "Video"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:426
+msgid "Video Auto Play"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:422
+msgid "Video Url"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1004
+msgid "View 1"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1005
+msgid "View 2"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1006
+msgid "View 3"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:323
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: includes/cs-functions.php:434 templates/inventories-views/cs-view.php:303
+#: templates/listings/inventory-categories.php:222
+#: frontend/inventories/cs-functions.php:366
+#: assets/common/translate/cs-strings.php:743
+#: templates/single-pages/dealer/cs-single.php:506
+msgid "View Detail"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:639
+msgid "View Inventory"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:609
+msgid "View Inventory Type"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:679
+msgid "View Packages Item"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:269
+msgid "View Profile"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:123
+msgid "View Style"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:155
+msgid "VS"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:532
+msgid "Watch video"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:449
+msgid "WC Feature Product"
+msgstr ""
+
+#: frontend/cs-shortcodes/cs-inventory-type.php:109
+#: assets/common/translate/cs-strings.php:31
+msgid "We currently have"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:337
+msgid "Website"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:702
+msgid "Wednesday"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1119
+msgid ""
+"When a user will filter inventory with any address, this radious will be "
+"implemented as default. **This option will only work if location search is "
+"enabled."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1107
+msgid ""
+"When a user will type a part of any address, this option will auto-complete "
+"the remaining.*This option will only work if Location Search is enabled."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1260
+msgid "Whitespaces not allowed"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:431
+msgid "Wide"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:356
+msgid "With Background Image"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:929
+msgid "Wrong username or password."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1218
+msgid "Years"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:47
+msgid "Yes"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:817
+msgid "Yes, Delete It"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:675
+msgid "You are not authorised"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:240
+msgid "You are not authorized for this action"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:41
+msgid "You can select and upload multiple pictures at the same time."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:984
+msgid ""
+"You can select any language for your AUTOMOBILE plugin from drop down here. "
+"Any language added through language plugin will show up in this drop down. "
+"**All areas related to Dealer on front-end will be translated in selected "
+"language."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:492
+msgid ""
+"You can set the accordian section that is open by default on frontend by "
+"select dropdown"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:224
+msgid "You have already subscribe this Package"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:239
+msgid "You have changed inventory status successfully"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:220
+msgid "You have successfully subscribed free package."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:321
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:328
+msgid "You must be  to post a comment."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:231
+msgid ""
+"You will recieve an email for login details after creating this inventory."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:937
+msgid ""
+"Your account has been registered successfully, Please contact to site admin "
+"for password."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:319
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:160
+#, php-format
+msgid ""
+"Your compare list is empty, Please add at least two item in list then try it."
+" %s"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:241
+msgid ""
+"Your given email address is already used or invalid, Please try with correct "
+"information"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:888
+msgid "Your Name"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:920
+msgid "Your new password"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:922
+msgid "Your new password is:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:919
+msgid ""
+"Your request has been completed succssfully, Now you can use following "
+"information for login."
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:921
+msgid "Your username is:"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:1138
+msgid "youtube"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:107
+#: assets/common/translate/cs-strings.php:1014
+msgid "Zoom Level"
+msgstr ""
+
+#: assets/common/translate/cs-strings.php:191
+msgid "Ã—"
+msgstr ""

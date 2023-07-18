@@ -1,0 +1,1 @@
+[automobile_inventory_type automobile_inventory_type_title="BROWSE CARS BY MAKE " automobile_var_inventories="112" automobile_inventory_type_button_title="Search for cars" automobile_inventory_type_button_url="#" ][/automobile_inventory_type]

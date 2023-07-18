@@ -1,0 +1,1 @@
+[automobile_image_frame automobile_var_frame_image_url_array="http://automobile.chimpgroup.com/automobile-rtl/wp-content/uploads/2018/07/image-frame-1.jpg" ][/automobile_image_frame]

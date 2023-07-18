@@ -1,0 +1,1 @@
+[automobile_inventories_search inventory_search_make_field_switch="yes" inventory_search_type_field_switch="yes" inventory_search_title_field_style="simple" inventory_search_title_field_switch="yes" inventory_search_location_field_switch="yes" inventory_lable_switch="yes" inventory_search_hint_switch="yes" inventory_advance_search_switch="yes" inventory_advance_search_url="#" ]

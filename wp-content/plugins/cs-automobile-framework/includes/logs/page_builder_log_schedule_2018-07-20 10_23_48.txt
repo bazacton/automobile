@@ -1,0 +1,1 @@
+[automobile_schedule automobile_var_schedule_element_title="خدمات رسمی" automobile_var_schedule_hint_text="با ارسال این فرم شما یک قرار ملاقات در سرویس را بدون هیچ گونه تعهدی برنامه ریزی می کنید و در عرض 48 ساعت توسط یک مشاور خدماتی با آن تماس خواهید گرفت." ][/automobile_schedule]

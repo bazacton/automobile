@@ -1,0 +1,1 @@
+[automobile_inventories automobile_inventory_searchbox="no" automobile_inventory_top_search="None" automobile_inventory_view="fancy" automobile_inventory_result_type="all" automobile_inventory_show_pagination="single_page" automobile_inventory_pagination="3" automobile_inventories_counter="38882298" ]

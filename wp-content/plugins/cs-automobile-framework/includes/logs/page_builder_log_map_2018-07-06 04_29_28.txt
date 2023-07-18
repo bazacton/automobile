@@ -1,0 +1,1 @@
+[automobile_map automobile_var_map_lat="51.5074" automobile_var_map_lon="0.1278" automobile_var_map_zoom="10" automobile_var_map_show_marker="true" automobile_var_map_controls="true" automobile_var_map_draggable="true" automobile_var_map_scrollwheel="true" automobile_var_map_border="no" ][/automobile_map]

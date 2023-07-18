@@ -1,0 +1,151 @@
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (malloc) failed to allocate 1048576 bytes for AllocateHeap
+# Possible reasons:
+#   The system is out of physical RAM or swap space
+#   In 32 bit mode, the process size limit was hit
+# Possible solutions:
+#   Reduce memory load on the system
+#   Increase physical memory or swap space
+#   Check if swap backing store is full
+#   Use 64 bit Java on a 64 bit OS
+#   Decrease Java heap size (-Xmx/-Xms)
+#   Decrease number of Java threads
+#   Decrease Java thread stack sizes (-Xss)
+#   Set larger code cache with -XX:ReservedCodeCacheSize=
+# This output file may be truncated or incomplete.
+#
+#  Out of Memory Error (memory/allocation.inline.hpp:61), pid=4900, tid=15608
+#
+# JRE version:  (8.0_60-b27) (build )
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (25.60-b23 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x00000000025e3800):  JavaThread "Unknown thread" [_thread_in_vm, id=15608, stack(0x00000000027d0000,0x00000000029d0000)]
+
+Stack: [0x00000000027d0000,0x00000000029d0000]
+[error occurred during error reporting (printing stack bounds), id 0xc0000005]
+
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x00000000025e3800 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=15608, stack(0x00000000027d0000,0x00000000029d0000)]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Heap:
+ PSYoungGen      total 9728K, used 174K [0x00000000f7780000, 0x00000000f8200000, 0x0000000100000000)
+  eden space 8704K, 2% used [0x00000000f7780000,0x00000000f77ab860,0x00000000f8000000)
+  from space 1024K, 0% used [0x00000000f8100000,0x00000000f8100000,0x00000000f8200000)
+  to   space 1024K, 0% used [0x00000000f8000000,0x00000000f8000000,0x00000000f8100000)
+ ParOldGen       total 22016K, used 0K [0x00000000e6600000, 0x00000000e7b80000, 0x00000000f7780000)
+  object space 22016K, 0% used [0x00000000e6600000,0x00000000e6600000,0x00000000e7b80000)
+ Metaspace       used 767K, capacity 4480K, committed 4480K, reserved 1056768K
+  class space    used 75K, capacity 384K, committed 384K, reserved 1048576K
+
+Card table byte_map: [0x00000000026f0000,0x00000000027c0000] byte_map_base: 0x0000000001fbd000
+
+Marking Bits: (ParMarkBitMap*) 0x0000000054d2a5b0
+ Begin Bits: [0x0000000012220000, 0x0000000012888000)
+ End Bits:   [0x0000000012888000, 0x0000000012ef0000)
+
+Polling page: 0x0000000000950000
+
+CodeCache: size=245760Kb used=326Kb max_used=326Kb free=245433Kb
+ bounds [0x00000000029d0000, 0x0000000002c40000, 0x00000000119d0000]
+ total_blobs=55 nmethods=0 adapters=37
+ compilation: enabled
+
+Compilation events (0 events):
+No events
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (10 events):
+Event: 0.441 loading class java/lang/Short
+Event: 0.441 loading class java/lang/Short done
+Event: 0.441 loading class java/lang/Integer
+Event: 0.441 loading class java/lang/Integer done
+Event: 0.441 loading class java/lang/Long
+Event: 0.441 loading class java/lang/Long done
+Event: 0.443 loading class java/lang/NullPointerException
+Event: 0.444 loading class java/lang/NullPointerException done
+Event: 0.444 loading class java/lang/ArithmeticException
+Event: 0.445 loading class java/lang/ArithmeticException done
+
+
+Dynamic libraries:
+0x00007ff759c20000 - 0x00007ff759c57000 	C:\Program Files\NetBeans 8.1\bin\jre\bin\javaw.exe
+0x00007ff95d930000 - 0x00007ff95db28000 	C:\WINDOWS\SYSTEM32\ntdll.dll
+0x00007ff95cd70000 - 0x00007ff95ce2d000 	C:\WINDOWS\System32\KERNEL32.DLL
+0x00007ff95b530000 - 0x00007ff95b7fe000 	C:\WINDOWS\System32\KERNELBASE.dll
+0x00007ff95c7d0000 - 0x00007ff95c87e000 	C:\WINDOWS\System32\ADVAPI32.dll
+0x00007ff95bbe0000 - 0x00007ff95bc7e000 	C:\WINDOWS\System32\msvcrt.dll
+0x00007ff95b990000 - 0x00007ff95ba2c000 	C:\WINDOWS\System32\sechost.dll
+0x00007ff95d780000 - 0x00007ff95d8a5000 	C:\WINDOWS\System32\RPCRT4.dll
+0x00007ff95ba40000 - 0x00007ff95bbe0000 	C:\WINDOWS\System32\USER32.dll
+0x00007ff95b960000 - 0x00007ff95b982000 	C:\WINDOWS\System32\win32u.dll
+0x00007ff95d8c0000 - 0x00007ff95d8ea000 	C:\WINDOWS\System32\GDI32.dll
+0x00007ff95b220000 - 0x00007ff95b32b000 	C:\WINDOWS\System32\gdi32full.dll
+0x00007ff95b110000 - 0x00007ff95b1ad000 	C:\WINDOWS\System32\msvcp_win.dll
+0x00007ff95b330000 - 0x00007ff95b430000 	C:\WINDOWS\System32\ucrtbase.dll
+0x00007ff947320000 - 0x00007ff9475ba000 	C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\COMCTL32.dll
+0x00007ff95c7a0000 - 0x00007ff95c7d0000 	C:\WINDOWS\System32\IMM32.DLL
+0x0000000054db0000 - 0x0000000054e82000 	C:\Program Files\NetBeans 8.1\bin\jre\bin\msvcr100.dll
+0x0000000054520000 - 0x0000000054da9000 	C:\Program Files\NetBeans 8.1\bin\jre\bin\server\jvm.dll
+0x00007ff95d560000 - 0x00007ff95d568000 	C:\WINDOWS\System32\PSAPI.DLL
+0x00007ff950c70000 - 0x00007ff950c79000 	C:\WINDOWS\SYSTEM32\WSOCK32.dll
+0x00007ff95c730000 - 0x00007ff95c79b000 	C:\WINDOWS\System32\WS2_32.dll
+0x00007ff94c3f0000 - 0x00007ff94c417000 	C:\WINDOWS\SYSTEM32\WINMM.dll
+0x00007ff94c040000 - 0x00007ff94c04a000 	C:\WINDOWS\SYSTEM32\VERSION.dll
+0x0000000054510000 - 0x000000005451f000 	C:\Program Files\NetBeans 8.1\bin\jre\bin\verify.dll
+0x00000000544e0000 - 0x0000000054509000 	C:\Program Files\NetBeans 8.1\bin\jre\bin\java.dll
+0x00000000544c0000 - 0x00000000544d6000 	C:\Program Files\NetBeans 8.1\bin\jre\bin\zip.dll
+
+VM Arguments:
+jvm_args: -Dnetbeans.importclass=org.netbeans.upgrade.AutoUpgrade -Dnetbeans.accept_license_class=org.netbeans.license.AcceptLicense -Xss2m -Xms32m -Dapple.laf.useScreenMenuBar=true -Dapple.awt.graphics.UseQuartz=true -Dsun.java2d.noddraw=true -Dsun.java2d.dpiaware=true -Dsun.zip.disableMemoryMapping=true -Xmx409m -Djdk.home=C:\Program Files\NetBeans 8.1\bin\jre -Dnetbeans.home=C:\Program Files\NetBeans 8.1\platform -Dnetbeans.user=C:\Users\operator\AppData\Roaming\NetBeans\8.1 -Dnetbeans.default_userdir_root=C:\Users\operator\AppData\Roaming\NetBeans -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=C:\Users\operator\AppData\Roaming\NetBeans\8.1\var\log\heapdump.hprof -Dsun.awt.keepWorkingSetOnMinimize=true -Dnetbeans.dirs=C:\Program Files\NetBeans 8.1\nb;C:\Program Files\NetBeans 8.1\ergonomics;C:\Program Files\NetBeans 8.1\ide;C:\Program Files\NetBeans 8.1\extide;C:\Program Files\NetBeans 8.1\java;C:\Program Files\NetBeans 8.1\apisupport;C:\Program Files\NetBeans 8.1\webcommon;C:\Program Files\NetBeans 8.1\websvccommon;C:\Program Files\NetBeans 8.1\enterprise;C:\Program Files\NetBeans 8.1\mobility;C:\Program Files\NetBeans 8.1\profiler;C:\Program Files\NetBeans 8.1\python;C:\Program Files\NetBeans 8.1\php;C:\Program Files\NetBeans 8.1\identity;C:\Program Files\NetBeans 8.1\harness;C:\Program Files\NetBeans 8.1\cnd;C:\Program Files\NetBeans 8.1\cndext;C:\Program Files\NetBeans 8.1\dlight;C:\Program Files\NetBeans 8.1\groovy;C:\Program Files\NetBeans 8.1\extra;C:\Program Files\NetBeans 8.1\javacard;C:\Program Files\NetBeans 8.1\javafx 
+java_command: org/netbeans/Main --branding nb --cachedir C:\Users\operator\AppData\Local\NetBeans\Cache/8.1 G:\XAMPP_8.1.5\htdocs\automobile\wp-content\plugins\cs-automobile\assets\frontend\js\mootools.js
+java_class_path (initial): C:\Program Files\NetBeans 8.1\platform\lib\boot.jar;C:\Program Files\NetBeans 8.1\platform\lib\org-openide-modules.jar;C:\Program Files\NetBeans 8.1\platform\lib\org-openide-util-lookup.jar;C:\Program Files\NetBeans 8.1\platform\lib\org-openide-util-ui.jar;C:\Program Files\NetBeans 8.1\platform\lib\org-openide-util.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\boot_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\boot_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\boot_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\boot_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-modules_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-modules_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-modules_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-modules_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-lookup_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-lookup_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-lookup_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-lookup_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-ui_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-ui_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-ui_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util-ui_zh_CN.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util_ja.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util_pt_BR.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util_ru.jar;C:\Program Files\NetBeans 8.1\platform\lib\locale\org-openide-util_zh_CN.jar
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=C:\Program Files\Java\jdk1.8.0_333
+CLASSPATH=.;
+PATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\PuTTY\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files\Java\jdk1.8.0_333\bin;C:\Users\operator\AppData\Local\Microsoft\WindowsApps;C:\Users\operator\AppData\Roaming\Composer\vendor\bin;C:\Users\operator\AppData\Roaming\npm;C:\adb;C:\Program Files\Microsoft VS Code\bin;C:\gradle\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_333\bin;E:\XAMPP_7_4\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\nodejs\;;C:\Program Files\Filestar;C:\ProgramData\Filestar\aliases;C:\Users\operator\AppData\Local\Microsoft\WindowsApps;E:\XAMPP_7_4\php;C:\gradle\bin;C:\Users\operator\AppData\Local\Programs\Fiddler;C:\Users\operator\AppData\Local\Microsoft\WindowsApps;C:\Users\operator\AppData\Local\Programs\EmEditor;C:\Program Files\Java\jdk1.8.0_333\bin;C:\Users\operator\AppData\Roaming\npm;
+USERNAME=operator
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 15 Stepping 7, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 10.0 , 64 bit Build 19041 (10.0.19041.1889)
+
+CPU:total 4 (4 cores per cpu, 1 threads per core) family 6 model 15 stepping 7, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, tsc
+
+Memory: 4k page, physical 8220268k(536028k free), swap 14364268k(9516k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (25.60-b23) for windows-amd64 JRE (1.8.0_60-b27), built on Aug  4 2015 11:06:27 by "java_re" with MS VC++ 10.0 (VS2010)
+
+time: Tue Aug 23 17:23:01 2022
+elapsed time: 0 seconds (0d 0h 0m 0s)
+

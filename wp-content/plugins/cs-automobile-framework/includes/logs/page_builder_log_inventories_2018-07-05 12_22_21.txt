@@ -1,0 +1,1 @@
+[automobile_inventories automobile_inventory_searchbox="yes" automobile_inventory_top_search="total_records" automobile_inventory_view="grid" automobile_inventory_result_type="all" automobile_inventory_show_pagination="pagination" automobile_inventory_pagination="15" ]

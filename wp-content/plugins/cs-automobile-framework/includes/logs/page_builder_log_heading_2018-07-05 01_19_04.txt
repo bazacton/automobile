@@ -1,0 +1,1 @@
+[automobile_heading heading_title="دیدار با تیم ما" heading_style="2" heading_align="Center" heading_font_style="normal" heading_divider="off" ]<p style="text-align: center;"><span style="text-align: center;">به هر حال، این بدبختی بیشتر در داخل کشور ایجاد می شود.</span></p>[/automobile_heading]

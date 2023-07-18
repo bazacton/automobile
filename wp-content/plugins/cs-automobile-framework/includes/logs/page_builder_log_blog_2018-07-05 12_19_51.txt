@@ -1,0 +1,1 @@
+[automobile_blog automobile_blog_description="yes" automobile_blog_view="large" automobile_blog_excerpt="50" automobile_blog_num_post="4" automobile_blog_orderby="DESC" blog_pagination="yes" ]

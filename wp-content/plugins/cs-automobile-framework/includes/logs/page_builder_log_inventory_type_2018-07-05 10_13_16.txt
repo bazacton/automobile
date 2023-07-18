@@ -1,0 +1,1 @@
+[automobile_inventory_type automobile_var_inventories="112" automobile_var_inventories_style="classic" automobile_inventory_type_button_title="Search for cars" automobile_inventory_type_button_url="#" ][/automobile_inventory_type]
