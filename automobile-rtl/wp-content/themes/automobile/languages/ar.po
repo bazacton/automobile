@@ -1,0 +1,4760 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AutoMobile\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Jun 07 2016 14:37:13 GMT+0500 (Pakistan Standard "
+"Time)\n"
+"PO-Revision-Date: Tue Jun 07 2016 14:51:42 GMT+0500 (Pakistan Standard Time)\n"
+"Last-Translator: automobile-admin <noreply@chimpgroup.com>\n"
+"Language-Team: \n"
+"Language: Arabic\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: ar_AE"
+
+#: ../comments.php:38
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "يعتقد واحد على ودقوو]؛ %s وردقوو]؛"
+
+#. translators: 1: number of comments, 2: post title
+#: ../comments.php:42
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comments"
+msgid_plural "%1$s comments"
+msgstr[0] "%1$s تعليقات"
+msgstr[1] "%1$s تعليقات"
+
+#: ../functions.php:844
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "السنة المالية"
+
+#: ../functions.php:846
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: ../functions.php:861
+#, php-format
+msgid "Inventory Make: %s"
+msgstr "جرد ماركة: %s"
+
+#: ../image.php:117 ../assets/frontend/translate/cs-strings.php:1201
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "بالحجم الكامل"
+
+#. translators: %s: Name of current post
+#: ../image.php:124
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "تحرير <تمتد الطبقة =  \"الشاشة قارئ النص \">  \" %s \" </ SPAN>"
+
+#: ../image.php:140 ../assets/frontend/translate/cs-strings.php:1202
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-"
+"title\">%title</span>"
+msgstr ""
+"<تمتد الطبقة =  \"التلوي الملاحة \"> نشرت في </ SPAN> <SPAN الطبقة =  \"ما بعد "
+"لقب \"> %t itle </ SPAN>"
+
+#: ../assets/frontend/translate/cs-strings.php:31
+msgid "Saving changes..."
+msgstr "حفظ التغييرات ..."
+
+#: ../assets/frontend/translate/cs-strings.php:32
+msgid "Save All Settings"
+msgstr "حفظ جميع إعدادات"
+
+#: ../assets/frontend/translate/cs-strings.php:33
+msgid "Reset All Options"
+msgstr "إعادة جميع الخيارات"
+
+#: ../assets/frontend/translate/cs-strings.php:34
+msgid "Please Select"
+msgstr "اختر من فضلك"
+
+#: ../assets/frontend/translate/cs-strings.php:35
+msgid "Breadcrumbs Sub Header"
+msgstr "فتات الخبز من الباطن رأس"
+
+#: ../assets/frontend/translate/cs-strings.php:36 ../assets/frontend/translate/cs-
+#: strings.php:410
+msgid "Revolution Slider"
+msgstr "ثورة المتزلج"
+
+#: ../assets/frontend/translate/cs-strings.php:37
+msgid "No sub Header"
+msgstr "لا رأس الفرعي"
+
+#: ../assets/frontend/translate/cs-strings.php:38
+msgid "General"
+msgstr "جنرال لواء"
+
+#: ../assets/frontend/translate/cs-strings.php:39
+msgid "Global"
+msgstr "عالمي"
+
+#: ../assets/frontend/translate/cs-strings.php:40
+msgid "Header"
+msgstr "رأس"
+
+#: ../assets/frontend/translate/cs-strings.php:41
+msgid "Sub Header"
+msgstr "دون رأس"
+
+#: ../assets/frontend/translate/cs-strings.php:42
+msgid "Social icons"
+msgstr "الرموز الاجتماعية"
+
+#: ../assets/frontend/translate/cs-strings.php:43
+msgid "Social sharing"
+msgstr "تقاسم الاجتماعية"
+
+#: ../assets/frontend/translate/cs-strings.php:44
+msgid "Color"
+msgstr "اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:45
+msgid "Headings"
+msgstr "العناوين"
+
+#: ../assets/frontend/translate/cs-strings.php:50
+msgid "Ads Unit Settings"
+msgstr "الإعلانات إعدادات وحدة"
+
+#: ../assets/frontend/translate/cs-strings.php:51
+msgid "Custom favicon"
+msgstr "رمز مفضلة مخصص"
+
+#: ../assets/frontend/translate/cs-strings.php:52
+msgid "Custom favicon for your site"
+msgstr "رمز مفضلة مخصص لموقعك"
+
+#: ../assets/frontend/translate/cs-strings.php:53
+msgid "RTL"
+msgstr "RTL"
+
+#: ../assets/frontend/translate/cs-strings.php:54
+msgid "Turn RTL On/Off here for Right to Left languages like Arabic etc."
+msgstr "تحويل RTL تشغيل / إيقاف هنا لحق اللغات اليسار مثل العربية الخ"
+
+#: ../assets/frontend/translate/cs-strings.php:55
+msgid "Responsive"
+msgstr "متجاوب"
+
+#: ../assets/frontend/translate/cs-strings.php:56
+msgid "Set responsive design layout for mobile devices On/Off here"
+msgstr "تعيين تخطيط تصميم استجابة للهواتف النقالة تشغيل / إيقاف هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:57
+msgid "Excerpt (in words)"
+msgstr "مقتطفات (بمعنى)"
+
+#: ../assets/frontend/translate/cs-strings.php:58
+msgid ""
+"Set excerpt length/limit from here. It controls text limit for all posts "
+"content"
+msgstr ""
+"تعيين مقتطفات طول / الحد من هنا. التي تسيطر عليها الحد النص لجميع الوظائف "
+"المحتوى"
+
+#: ../assets/frontend/translate/cs-strings.php:59
+msgid "Global Settings"
+msgstr "الاعدادات العامة"
+
+#: ../assets/frontend/translate/cs-strings.php:60
+msgid "This is Global Settings."
+msgstr "هذا هو إعدادات العالمية."
+
+#: ../assets/frontend/translate/cs-strings.php:61
+msgid "Default Header Style"
+msgstr "افتراضي نمط رأس"
+
+#: ../assets/frontend/translate/cs-strings.php:62
+msgid "Choose default header style for complete site"
+msgstr "اختيار نمط رأس الافتراضي لموقع كامل"
+
+#: ../assets/frontend/translate/cs-strings.php:63 ../assets/frontend/translate/cs-
+#: strings.php:579 ../assets/frontend/translate/cs-strings.php:1198
+msgid "Default"
+msgstr "افتراضي"
+
+#: ../assets/frontend/translate/cs-strings.php:64
+msgid "default"
+msgstr "الافتراضي"
+
+#: ../assets/frontend/translate/cs-strings.php:65 ../assets/frontend/translate/cs-
+#: strings.php:741
+msgid "Modern"
+msgstr "حديث"
+
+#: ../assets/frontend/translate/cs-strings.php:66
+msgid "Logo"
+msgstr "شعار"
+
+#: ../assets/frontend/translate/cs-strings.php:67
+msgid "Upload your custom logo in .png .jpg .gif formats only."
+msgstr "تحميل الشعار المخصص في بابوا نيو غينيا الأشكال .jpg و. GIF فقط."
+
+#: ../assets/frontend/translate/cs-strings.php:68
+msgid "Logo Modern"
+msgstr "شعار الحديثة"
+
+#: ../assets/frontend/translate/cs-strings.php:69
+msgid "Logo Height"
+msgstr "ارتفاع الشعار"
+
+#: ../assets/frontend/translate/cs-strings.php:70
+msgid "Set exact logo height otherwise logo will not display normally."
+msgstr "تعيين ارتفاع شعار المحدد وإلا سوف شعار لا تعرض عادة."
+
+#: ../assets/frontend/translate/cs-strings.php:71
+msgid "Logo Width"
+msgstr "عرض الشعار"
+
+#: ../assets/frontend/translate/cs-strings.php:72
+msgid "Set exact logo width otherwise logo will not display normally."
+msgstr "تعيين عرض شعار المحدد وإلا سوف شعار لا تعرض عادة."
+
+#: ../assets/frontend/translate/cs-strings.php:73
+msgid "Logo margin top"
+msgstr "هامش شعار أعلى"
+
+#: ../assets/frontend/translate/cs-strings.php:74
+msgid "Logo spacing margin from top"
+msgstr "شعار تباعد هامش من أعلى"
+
+#: ../assets/frontend/translate/cs-strings.php:75
+msgid "Logo margin bottom"
+msgstr "هامش شعار أسفل"
+
+#: ../assets/frontend/translate/cs-strings.php:76
+msgid "Logo spacing margin from bottom."
+msgstr "شعار تباعد الهامش من أسفل."
+
+#: ../assets/frontend/translate/cs-strings.php:77
+msgid "Logo margin right"
+msgstr "هامش شعار الحق"
+
+#: ../assets/frontend/translate/cs-strings.php:78
+msgid "Logo spacing margin from right."
+msgstr "شعار تباعد هامش من اليمين."
+
+#: ../assets/frontend/translate/cs-strings.php:79
+msgid "Logo margin left"
+msgstr "هامش شعار يقم"
+
+#: ../assets/frontend/translate/cs-strings.php:80
+msgid "Logo spacing margin from left"
+msgstr "شعار تباعد هامش من اليسار"
+
+#: ../assets/frontend/translate/cs-strings.php:82
+msgid "Map Style"
+msgstr "نمط الخريطة"
+
+#: ../assets/frontend/translate/cs-strings.php:83
+msgid "Select Map style for all Maps."
+msgstr "حدد أسلوب خريطة لجميع الخرائط."
+
+#: ../assets/frontend/translate/cs-strings.php:84
+msgid "Map Box"
+msgstr "خريطة صندوق"
+
+#: ../assets/frontend/translate/cs-strings.php:85
+msgid "Blue Water"
+msgstr "ماء ازرق"
+
+#: ../assets/frontend/translate/cs-strings.php:86
+msgid "Icy Blue"
+msgstr "الجليدية الزرقاء"
+
+#: ../assets/frontend/translate/cs-strings.php:87
+msgid "Bluish"
+msgstr "مزرق"
+
+#: ../assets/frontend/translate/cs-strings.php:88
+msgid "Light Blue Water"
+msgstr "ضوء المياه الزرقاء"
+
+#: ../assets/frontend/translate/cs-strings.php:89
+msgid "Clad Me"
+msgstr "يرتدون عني"
+
+#: ../assets/frontend/translate/cs-strings.php:90
+msgid "Chilled"
+msgstr "مبرد"
+
+#: ../assets/frontend/translate/cs-strings.php:91
+msgid "Two Tone"
+msgstr "نغمتان"
+
+#: ../assets/frontend/translate/cs-strings.php:92
+msgid "Light and Dark"
+msgstr "النور والظلام"
+
+#: ../assets/frontend/translate/cs-strings.php:93
+msgid "Ilustracao"
+msgstr "Ilustracao"
+
+#: ../assets/frontend/translate/cs-strings.php:94
+msgid "Flat Pale"
+msgstr "شقة بالي"
+
+#: ../assets/frontend/translate/cs-strings.php:95 ../assets/frontend/translate/cs-
+#: strings.php:488 ../assets/frontend/translate/cs-strings.php:541 ..
+#: assets/frontend/translate/cs-strings.php:573 ../assets/frontend/translate/cs-
+#: strings.php:762 ../assets/frontend/translate/cs-strings.php:930 ..
+#: assets/frontend/translate/cs-strings.php:987 ../assets/frontend/translate/cs-
+#: strings.php:1047 ../assets/frontend/translate/cs-strings.php:1063 ..
+#: assets/frontend/translate/cs-strings.php:1086 ../assets/frontend/translate/cs-
+#: strings.php:1141 ../assets/frontend/translate/cs-strings.php:1184 ..
+#: assets/frontend/translate/cs-strings.php:1194
+msgid "Title"
+msgstr "عنوان"
+
+#: ../assets/frontend/translate/cs-strings.php:96
+msgid "Moret"
+msgstr "موريه"
+
+#: ../assets/frontend/translate/cs-strings.php:100
+msgid "Book Now Url"
+msgstr "كتاب الآن URL"
+
+#: ../assets/frontend/translate/cs-strings.php:101
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: ../assets/frontend/translate/cs-strings.php:102
+msgid "WooCommerce Cart Icon"
+msgstr "WooCommerce العربة أيقونة"
+
+#: ../assets/frontend/translate/cs-strings.php:103
+msgid "WooCommerce Archive Sidebar"
+msgstr "WooCommerce الأرشيف الشريط الجانبي"
+
+#: ../assets/frontend/translate/cs-strings.php:104
+msgid "Set Sidebar for WooCommerce Archive, Category etc"
+msgstr "تعيين الشريط الجانبي لWooCommerce الأرشيف، الفئة إلخ"
+
+#: ../assets/frontend/translate/cs-strings.php:105
+msgid "Select Sidebar for WooCommerce Archive, Category etc"
+msgstr "اختر الشريط الجانبي لWooCommerce الأرشيف، الفئة الخ"
+
+#: ../assets/frontend/translate/cs-strings.php:110
+msgid "Default Sub Header"
+msgstr "افتراضي الفرعية رأس"
+
+#: ../assets/frontend/translate/cs-strings.php:111
+msgid "Sub Header settings made here will be implemented on all pages."
+msgstr "وسيتم تنفيذ إعدادات الرأس الفرعية أدلى به هنا على كافة الصفحات."
+
+#: ../assets/frontend/translate/cs-strings.php:112
+msgid "Header Border Color"
+msgstr "رأس لون الحدود"
+
+#: ../assets/frontend/translate/cs-strings.php:113
+msgid ""
+"Please select Revolution Slider if already included in package. Otherwise "
+"buy Sliders from Code canyon But its optional"
+msgstr ""
+"يرجى اختيار الثورة المتزلج إذا بالفعل في الحزمة. خلاف ذلك شراء المتزلجون من "
+"القانون الوادي ولكن في اختياري"
+
+#: ../assets/frontend/translate/cs-strings.php:114 ..
+#: assets/frontend/translate/cs-strings.php:1185 ../assets/frontend/translate/cs-
+#: strings.php:1199
+msgid "Style"
+msgstr "نمط"
+
+#: ../assets/frontend/translate/cs-strings.php:115 ..
+#: assets/frontend/translate/cs-strings.php:1082
+msgid "Classic"
+msgstr "كلاسيكي"
+
+#: ../assets/frontend/translate/cs-strings.php:116
+msgid "With Background Image"
+msgstr "مع صورة الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:117
+msgid "Padding Top"
+msgstr "الحشو الأعلى"
+
+#: ../assets/frontend/translate/cs-strings.php:118
+msgid "Set custom padding for sub header content top area."
+msgstr "تعيين الحشو مخصصة للمحتوى رأس الفرعي منطقة العليا."
+
+#: ../assets/frontend/translate/cs-strings.php:119
+msgid "Padding Bottom"
+msgstr "أسفل الحشو"
+
+#: ../assets/frontend/translate/cs-strings.php:120
+msgid "Set custom padding for sub header content bottom area."
+msgstr "تعيين الحشو مخصصة للمحتوى رأس الفرعي منطقة القاع."
+
+#: ../assets/frontend/translate/cs-strings.php:121 ..
+#: assets/frontend/translate/cs-strings.php:953
+msgid "Margin Top"
+msgstr "الهامش الأعلى"
+
+#: ../assets/frontend/translate/cs-strings.php:122
+msgid "Set custom Margin for sub header content top area."
+msgstr "تعيين الهامش المخصص للمحتوى رأس الفرعي منطقة العليا."
+
+#: ../assets/frontend/translate/cs-strings.php:123 ..
+#: assets/frontend/translate/cs-strings.php:955
+msgid "Margin Bottom"
+msgstr "هامش القاع"
+
+#: ../assets/frontend/translate/cs-strings.php:124
+msgid "Set custom Margin for sub header content bottom area."
+msgstr "تعيين الهامش المخصص للمحتوى رأس الفرعي منطقة القاع."
+
+#: ../assets/frontend/translate/cs-strings.php:125 ..
+#: assets/frontend/translate/cs-strings.php:190
+msgid "Page Title"
+msgstr "عنوان الصفحة"
+
+#: ../assets/frontend/translate/cs-strings.php:126 ..
+#: assets/frontend/translate/cs-strings.php:537 ../assets/frontend/translate/cs-
+#: strings.php:561 ../assets/frontend/translate/cs-strings.php:628
+msgid "Content Color"
+msgstr "اللون المحتوى"
+
+#: ../assets/frontend/translate/cs-strings.php:127
+msgid "Breadcrumbs"
+msgstr "فتات الخبز"
+
+#: ../assets/frontend/translate/cs-strings.php:128
+msgid "Sub Heading"
+msgstr "العنوان الفرعي"
+
+#: ../assets/frontend/translate/cs-strings.php:129
+msgid "Upload background image in .png .jpg .gif formats only."
+msgstr "تحميل صورة خلفية في بابوا نيو غينيا الأشكال .jpg و. GIF فقط."
+
+#: ../assets/frontend/translate/cs-strings.php:130
+msgid "Parallax"
+msgstr "إختلاف المنظر"
+
+#: ../assets/frontend/translate/cs-strings.php:134
+msgid "Footer options"
+msgstr "خيارات تذييل"
+
+#: ../assets/frontend/translate/cs-strings.php:135
+msgid "Footer section"
+msgstr "مقطع تذييل"
+
+#: ../assets/frontend/translate/cs-strings.php:136
+msgid "enable/disable footer area"
+msgstr "تمكين / تعطيل ناحية تذييل الصفحة"
+
+#: ../assets/frontend/translate/cs-strings.php:137
+msgid "Footer Widgets"
+msgstr "تذييل القطع"
+
+#: ../assets/frontend/translate/cs-strings.php:138
+msgid "enable/disable footer widget area"
+msgstr "تمكين / تعطيل منطقة القطعة تذييل"
+
+#: ../assets/frontend/translate/cs-strings.php:139
+msgid "Copy Write Section"
+msgstr "القسم كتابة نسخة"
+
+#: ../assets/frontend/translate/cs-strings.php:140
+msgid "enable/disable Copy Write Section"
+msgstr "تمكين / تعطيل الباب كتابة نسخة"
+
+#: ../assets/frontend/translate/cs-strings.php:141 ..
+#: assets/frontend/translate/cs-strings.php:174
+msgid "Copyright Text"
+msgstr "نص حقوق التأليف والنشر"
+
+#: ../assets/frontend/translate/cs-strings.php:142
+msgid "write your own copyright text"
+msgstr "كتابة نص حقوق التأليف والنشر الخاصة بك"
+
+#: ../assets/frontend/translate/cs-strings.php:143
+msgid "2015 automobile Name All rights reserved. Design by Chimp Studio"
+msgstr "2015 اسم السيارات جميع الحقوق محفوظة. تصميم من قبل الشمبانزي ستوديو"
+
+#: ../assets/frontend/translate/cs-strings.php:144
+msgid "Contact Number"
+msgstr "رقم الاتصال"
+
+#: ../assets/frontend/translate/cs-strings.php:145
+msgid "Write your contact number"
+msgstr "كتابة رقم الاتصال الخاصة بك"
+
+#: ../assets/frontend/translate/cs-strings.php:146
+msgid "+0 (123) 456-789-10"
+msgstr "+0 (123) 456-789-10"
+
+#: ../assets/frontend/translate/cs-strings.php:147
+msgid "Back to top"
+msgstr "الرجوع الى أعلى الصفحة"
+
+#: ../assets/frontend/translate/cs-strings.php:148
+msgid "Enable/disable footer back to top option."
+msgstr "تمكين / تعطيل تذييل العودة إلى خيار كبير."
+
+#: ../assets/frontend/translate/cs-strings.php:152
+msgid "General Colors"
+msgstr "الألوان العامة"
+
+#: ../assets/frontend/translate/cs-strings.php:153
+msgid "Theme Color"
+msgstr "موضوع اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:154
+msgid "Choose theme skin color"
+msgstr "اختيار موضوع لون البشرة"
+
+#: ../assets/frontend/translate/cs-strings.php:155
+msgid "Body Text Color"
+msgstr "الجسم لون الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:156
+msgid "Choose text color"
+msgstr "اختيار لون النص"
+
+#: ../assets/frontend/translate/cs-strings.php:157
+msgid "Header colors"
+msgstr "الألوان رأس"
+
+#: ../assets/frontend/translate/cs-strings.php:158
+msgid "Default Header Colors"
+msgstr "افتراضي الألوان رأس"
+
+#: ../assets/frontend/translate/cs-strings.php:159
+msgid "Change Header background color"
+msgstr "لون الخلفية تغيير رأس"
+
+#: ../assets/frontend/translate/cs-strings.php:160
+msgid "Menu Link color"
+msgstr "لون رابط القائمة"
+
+#: ../assets/frontend/translate/cs-strings.php:161
+msgid "Change Header Menu Link color"
+msgstr "تغيير رأس لون رابط القائمة"
+
+#: ../assets/frontend/translate/cs-strings.php:162
+msgid "Menu Hover / Active Link color"
+msgstr "تحوم القائمة / لون رابط نشط"
+
+#: ../assets/frontend/translate/cs-strings.php:163
+msgid "Change Header Menu Active Link color"
+msgstr "تغيير رأس القائمة اللون صلة نشطة"
+
+#: ../assets/frontend/translate/cs-strings.php:164
+msgid "Submenu Hover Background"
+msgstr "القائمة الفرعية تحوم الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:165
+msgid "Change Submenu Hover Background color"
+msgstr "تغيير القائمة الفرعية تحوم لون الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:166
+msgid "Submenu Link Color"
+msgstr "القائمة الفرعية لون الارتباط"
+
+#: ../assets/frontend/translate/cs-strings.php:167
+msgid "Change Submenu Link color"
+msgstr "تغيير القائمة الفرعية ارتباط اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:168
+msgid "Submenu Hover / Active Link Color"
+msgstr "القائمة الفرعية تحوم / نشط ارتباط اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:169
+msgid "Change Submenu Hover / Active Link color"
+msgstr "تغيير القائمة الفرعية تحوم / اللون صلة نشطة"
+
+#: ../assets/frontend/translate/cs-strings.php:170
+msgid "footer colors"
+msgstr "الألوان تذييل"
+
+#: ../assets/frontend/translate/cs-strings.php:171
+msgid "Footer Background Color"
+msgstr "اللون تذييل الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:172
+msgid "Footer Text Color"
+msgstr "تذييل لون الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:173
+msgid "Footer Link Color"
+msgstr "تذييل ارتباط اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:175
+msgid "Widget Background Color"
+msgstr "القطعة لون الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:176
+msgid "Copyright Background Color"
+msgstr "اللون حقوق التأليف والنشر الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:181
+msgid "heading colors"
+msgstr "الألوان متجهة"
+
+#: ../assets/frontend/translate/cs-strings.php:182
+msgid "heading h1"
+msgstr "تتجه H1"
+
+#: ../assets/frontend/translate/cs-strings.php:183
+msgid "heading h2"
+msgstr "العنوان H2"
+
+#: ../assets/frontend/translate/cs-strings.php:184
+msgid "heading h3"
+msgstr "تتجه H3"
+
+#: ../assets/frontend/translate/cs-strings.php:185
+msgid "heading h4"
+msgstr "تتجه H4"
+
+#: ../assets/frontend/translate/cs-strings.php:186
+msgid "heading h5"
+msgstr "تتجه H5"
+
+#: ../assets/frontend/translate/cs-strings.php:187
+msgid "heading h6"
+msgstr "تتجه H6"
+
+#: ../assets/frontend/translate/cs-strings.php:188
+msgid "Section Title"
+msgstr "عنوان القسم"
+
+#: ../assets/frontend/translate/cs-strings.php:189
+msgid "Post Title"
+msgstr "عنوان المقال"
+
+#: ../assets/frontend/translate/cs-strings.php:191
+msgid "Widgets Title"
+msgstr "الحاجيات عنوان"
+
+#: ../assets/frontend/translate/cs-strings.php:192
+msgid "Footer Widgets Title"
+msgstr "تذييل الحاجيات عنوان"
+
+#: ../assets/frontend/translate/cs-strings.php:196
+msgid "Custom Font .woff"
+msgstr ".woff الخط مخصص"
+
+#: ../assets/frontend/translate/cs-strings.php:197
+msgid "Upload Your Custom Font file in .woff format"
+msgstr "تحميل ملف الخط مخصص الخاص بك في شكل .woff"
+
+#: ../assets/frontend/translate/cs-strings.php:198
+msgid "Custom Font .ttf"
+msgstr "ال ttf الخط مخصص"
+
+#: ../assets/frontend/translate/cs-strings.php:199
+msgid "Upload Your Custom Font file in .ttf format"
+msgstr "تحميل ملف الخط مخصص الخاص بك في شكل .TTF"
+
+#: ../assets/frontend/translate/cs-strings.php:200
+msgid "Custom Font .svg"
+msgstr ".SVG الخط مخصص"
+
+#: ../assets/frontend/translate/cs-strings.php:201
+msgid "Upload Your Custom Font file in .svg format"
+msgstr "تحميل ملف الخط مخصص الخاص بك في شكل .SVG"
+
+#: ../assets/frontend/translate/cs-strings.php:202
+msgid "Custom Font .eot"
+msgstr ".eot الخط مخصص"
+
+#: ../assets/frontend/translate/cs-strings.php:203
+msgid "Upload Your Custom Font file in .eot format"
+msgstr "تحميل ملف الخط مخصص الخاص بك في شكل .eot"
+
+#: ../assets/frontend/translate/cs-strings.php:207
+msgid "Content Font"
+msgstr "الخط المحتوى"
+
+#: ../assets/frontend/translate/cs-strings.php:208
+msgid "Set fonts for Body text"
+msgstr "الخطوط تعيين للنص الجسم"
+
+#: ../assets/frontend/translate/cs-strings.php:209
+msgid "Font Attribute"
+msgstr "سمة الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:210 ..
+#: assets/frontend/translate/cs-strings.php:900
+msgid "Size"
+msgstr "حجم"
+
+#: ../assets/frontend/translate/cs-strings.php:211 ..
+#: assets/frontend/translate/cs-strings.php:622
+msgid "Line Height"
+msgstr "ارتفاع خط"
+
+#: ../assets/frontend/translate/cs-strings.php:212 ..
+#: assets/frontend/translate/cs-strings.php:610
+msgid "Text Transform"
+msgstr "تحويل النص"
+
+#: ../assets/frontend/translate/cs-strings.php:213
+msgid "none"
+msgstr "لا شيء"
+
+#: ../assets/frontend/translate/cs-strings.php:214
+msgid "capitalize"
+msgstr "الاستفادة"
+
+#: ../assets/frontend/translate/cs-strings.php:215
+msgid "uppercase"
+msgstr "الأحرف الكبيرة"
+
+#: ../assets/frontend/translate/cs-strings.php:216
+msgid "lowercase"
+msgstr "أحرف صغيرة"
+
+#: ../assets/frontend/translate/cs-strings.php:217
+msgid "initial"
+msgstr "مبدئي"
+
+#: ../assets/frontend/translate/cs-strings.php:218
+msgid "inherit"
+msgstr "يرث"
+
+#: ../assets/frontend/translate/cs-strings.php:219 ..
+#: assets/frontend/translate/cs-strings.php:618
+msgid "Letter Spacing"
+msgstr "تباعد إلكتروني"
+
+#: ../assets/frontend/translate/cs-strings.php:220
+msgid "Main Menu Font"
+msgstr "الخط القائمة الرئيسية"
+
+#: ../assets/frontend/translate/cs-strings.php:221
+msgid "Set font for main Menu. It will be applied to sub menu as well"
+msgstr "الخط المحدد للقائمة الرئيسية. سيتم تطبيقه على القائمة الفرعية وكذلك"
+
+#: ../assets/frontend/translate/cs-strings.php:222
+msgid "Set Font Attribute"
+msgstr "تعيين سمة الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:223
+msgid "Heading 1 Font"
+msgstr "عنوان 1 الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:224
+msgid "Select font for Headings. It will apply on all posts and pages headings"
+msgstr "حدد الخط لعناوين. وسوف تطبق على جميع المشاركات وصفحات العناوين"
+
+#: ../assets/frontend/translate/cs-strings.php:225
+msgid "Heading 2 Font"
+msgstr "عنوان 2 الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:226
+msgid "Heading 3 Font"
+msgstr "عنوان 3 الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:227
+msgid "Heading 4 Font"
+msgstr "تتجه 4 الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:228
+msgid "Heading 5 Font"
+msgstr "تتجه 5 الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:229
+msgid "Heading 6 Font"
+msgstr "تتجه 6 الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:230
+msgid "Section Title Font"
+msgstr "القسم عنوان الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:231
+msgid "Set font for Section Title Headings"
+msgstr "الخط المحدد لعنوان القسم عناوين"
+
+#: ../assets/frontend/translate/cs-strings.php:232
+msgid "Page Title Font"
+msgstr "عنوان الصفحة الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:233
+msgid "Set font for Page Title Headings"
+msgstr "الخط المحدد لعنوان الصفحة العناوين"
+
+#: ../assets/frontend/translate/cs-strings.php:234
+msgid "Post Title Font"
+msgstr "مشاركة العنوان الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:235
+msgid "Set font for Post Title Headings"
+msgstr "الخط المحدد لعنوان المقال العناوين"
+
+#: ../assets/frontend/translate/cs-strings.php:236
+msgid "Sidebar Widget Font"
+msgstr "الشريط الجانبي القطعة الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:237
+msgid "Set font for Widget Headings"
+msgstr "الخط المحدد لالقطعة العناوين"
+
+#: ../assets/frontend/translate/cs-strings.php:238
+msgid "Footer Widget Font"
+msgstr "تذييل القطعة الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:239
+msgid "Set font for Footer Widget Headings"
+msgstr "الخط المحدد للتذييل القطعة العناوين"
+
+#: ../assets/frontend/translate/cs-strings.php:243
+msgid "Social Network"
+msgstr "شبكة اجتماعية"
+
+#: ../assets/frontend/translate/cs-strings.php:244 ..
+#: assets/frontend/translate/cs-strings.php:663
+msgid "Facebook"
+msgstr "فيس بوك"
+
+#: ../assets/frontend/translate/cs-strings.php:245 ..
+#: assets/frontend/translate/cs-strings.php:665
+msgid "Twitter"
+msgstr "تغريد"
+
+#: ../assets/frontend/translate/cs-strings.php:246 ..
+#: assets/frontend/translate/cs-strings.php:667
+msgid "Google Plus"
+msgstr "جوجل بلس"
+
+#: ../assets/frontend/translate/cs-strings.php:247
+msgid "Tumblr"
+msgstr "نعرفكم"
+
+#: ../assets/frontend/translate/cs-strings.php:248
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../assets/frontend/translate/cs-strings.php:249
+msgid "Instagram"
+msgstr "إنستاجرام"
+
+#: ../assets/frontend/translate/cs-strings.php:250
+msgid "StumbleUpon"
+msgstr "للبحث عن"
+
+#: ../assets/frontend/translate/cs-strings.php:251
+msgid "youtube"
+msgstr "موقع YouTube"
+
+#: ../assets/frontend/translate/cs-strings.php:252
+msgid "share more"
+msgstr "حصة أكثر"
+
+#: ../assets/frontend/translate/cs-strings.php:257
+msgid "Select Sidebar"
+msgstr "حدد الشريط الجانبي"
+
+#: ../assets/frontend/translate/cs-strings.php:258
+msgid "Sidebar Name"
+msgstr "اسم الشريط الجانبي"
+
+#: ../assets/frontend/translate/cs-strings.php:259
+msgid ""
+"Select a sidebar from the list already given. (Nine pre-made sidebars are "
+"given)"
+msgstr "اختر الشريط الجانبي من القائمة نظرا بالفعل. (ترد تسعة الجانبية مسبقة الصنع)"
+
+#: ../assets/frontend/translate/cs-strings.php:260
+msgid "Default Pages"
+msgstr "افتراضي الصفحات"
+
+#: ../assets/frontend/translate/cs-strings.php:261
+msgid "Default Pages Sidebar"
+msgstr "افتراضي الصفحات الشريط الجانبي"
+
+#: ../assets/frontend/translate/cs-strings.php:262
+msgid "Default Pages Layout"
+msgstr "افتراضي تخطيط الصفحات"
+
+#: ../assets/frontend/translate/cs-strings.php:263
+msgid "Set Sidebar for all pages like Search, Author Archive, Category Archive etc"
+msgstr ""
+"تعيين الشريط الجانبي لجميع الصفحات مثل البحث، الكاتب الأرشيف، الفئة الأرشيف "
+"الخ"
+
+#: ../assets/frontend/translate/cs-strings.php:264
+msgid ""
+"Select pre-made sidebars for default pages on sidebar layout. Full width "
+"layout cannot have sidebars"
+msgstr ""
+"اختر الجانبية مسبقة الصنع لصفحات الافتراضية على تخطيط الشريط الجانبي. تخطيط "
+"العرض الكامل لا يمكن أن يكون الجانبية"
+
+#: ../assets/frontend/translate/cs-strings.php:268
+msgid "Turn Maintenance Mode On/Off here"
+msgstr "تحويل وضع الصيانة تشغيل / إيقاف هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:269
+msgid "Turn Logo On/Off here"
+msgstr "تحويل شعار تشغيل / إيقاف هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:270
+msgid "Social Contact"
+msgstr "الاتصال الاجتماعي"
+
+#: ../assets/frontend/translate/cs-strings.php:271
+msgid "Turn Social Contact On/Off here"
+msgstr "بدوره الاجتماعي الاتصال تشغيل / إيقاف هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:272
+msgid "Newsletter"
+msgstr "النشرة الإخبارية"
+
+#: ../assets/frontend/translate/cs-strings.php:273
+msgid "Turn newsletter On/Off here"
+msgstr "تحويل النشرة تشغيل / إيقاف هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:274
+msgid "Header Switch"
+msgstr "تحويل رأس"
+
+#: ../assets/frontend/translate/cs-strings.php:275
+msgid "Turn Header On/Off here"
+msgstr "تحويل رأس تشغيل / إيقاف هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:276
+msgid "Footer Switch"
+msgstr "تبديل تذييل"
+
+#: ../assets/frontend/translate/cs-strings.php:277
+msgid "Turn Footer On/Off here"
+msgstr "تحويل تذييل تشغيل / إيقاف هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:278
+msgid "No Title"
+msgstr "بلا عنوان"
+
+#: ../assets/frontend/translate/cs-strings.php:279
+msgid "Maintinance Mode page"
+msgstr "الصفحة وضع الصيانة"
+
+#: ../assets/frontend/translate/cs-strings.php:280
+msgid "Choose a page that you want to set for maintinance mode"
+msgstr "اختر الصفحة التي تريد تعيين لوضع الصيانة"
+
+#: ../assets/frontend/translate/cs-strings.php:284
+msgid "Mail Chimp Key"
+msgstr "البريد الشمبانزي مفتاح"
+
+#: ../assets/frontend/translate/cs-strings.php:285
+msgid ""
+"Enter a valid Mail Chimp API key here to get started. Once you''ve done that,"
+" you can use the Mail Chimp Widget from the Widgets menu. You will need to "
+"have at least Mail Chimp list set up before the using the widget. You can "
+"get your mail chimp activation key"
+msgstr ""
+"إدخال مفتاح API البريد الشمبانزي صحيح هنا للبدء. مرة واحدة you''ve فعلت ذلك، "
+"يمكنك استخدام البريد الشمبانزي القطعة من القطع القائمة. سوف تحتاج إلى أن "
+"يكون على الأقل قائمة البريد الشمبانزي إقامة قبل استخدام القطعة. يمكنك الحصول "
+"على البريد مفتاح تفعيل الشمبانزي الخاص بك"
+
+#: ../assets/frontend/translate/cs-strings.php:286
+msgid "Mail Chimp List"
+msgstr "بريد قائمة الشمبانزي"
+
+#: ../assets/frontend/translate/cs-strings.php:287
+msgid "Flickr API Setting"
+msgstr "إعداد API فليكر"
+
+#: ../assets/frontend/translate/cs-strings.php:288
+msgid "Flickr key"
+msgstr "مفتاح فليكر"
+
+#: ../assets/frontend/translate/cs-strings.php:289
+msgid "add your flickr key here."
+msgstr "إضافة مفتاح فليكر الخاص بك هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:290
+msgid "Twitter API Setting"
+msgstr "إعداد API تويتر"
+
+#: ../assets/frontend/translate/cs-strings.php:291
+msgid "Consumer Key"
+msgstr "مفتاح المستهلك"
+
+#: ../assets/frontend/translate/cs-strings.php:292
+msgid "insert your consumer key here."
+msgstr "إدراج مفتاح المستهلك هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:293
+msgid "Cache Time Limit"
+msgstr "مخبأ المهلة"
+
+#: ../assets/frontend/translate/cs-strings.php:294
+msgid "Please enter the time limit in minutes for refresh cache."
+msgstr "الرجاء إدخال المهلة في دقائق لتحديث ذاكرة التخزين المؤقت."
+
+#: ../assets/frontend/translate/cs-strings.php:295
+msgid "Number of tweet"
+msgstr "عدد من سقسقة"
+
+#: ../assets/frontend/translate/cs-strings.php:296
+msgid "Please enter number of tweet that you get from twitter for chache file."
+msgstr "الرجاء إدخال عدد من سقسقة التي تحصل عليها من تويتر لملف chache."
+
+#: ../assets/frontend/translate/cs-strings.php:297
+msgid "Date Time Formate"
+msgstr "تاريخ فورمات الوقت"
+
+#: ../assets/frontend/translate/cs-strings.php:298
+msgid "Select date time formate for every tweet."
+msgstr "حدد تاريخ فورمات الوقت لكل سقسقة."
+
+#: ../assets/frontend/translate/cs-strings.php:299
+msgid "Displays November 06 2012"
+msgstr "يعرض 6 نوفمبر 2012"
+
+#: ../assets/frontend/translate/cs-strings.php:300
+msgid "Displays 6th November"
+msgstr "يعرض 6TH نوفمبر"
+
+#: ../assets/frontend/translate/cs-strings.php:301
+msgid "Displays 06 Nov"
+msgstr "يعرض 6 نوفمبر"
+
+#: ../assets/frontend/translate/cs-strings.php:302
+msgid "Displays 06 Nov 2012"
+msgstr "يعرض 6 نوفمبر 2012"
+
+#: ../assets/frontend/translate/cs-strings.php:303
+msgid "Displays Tues 06 Nov 2012"
+msgstr "يعرض الثلاثاء 6 نوفمبر 2012"
+
+#: ../assets/frontend/translate/cs-strings.php:304
+msgid "Displays in hours, minutes etc"
+msgstr "يعرض في الساعات والدقائق الخ"
+
+#: ../assets/frontend/translate/cs-strings.php:305
+msgid "Consumer Secret"
+msgstr "سر المستهلك"
+
+#: ../assets/frontend/translate/cs-strings.php:306
+msgid "insert your cunsumer secret key here."
+msgstr "إدراج المفتاح السري cunsumer هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:307
+msgid "Access Token"
+msgstr "رمز وصول"
+
+#: ../assets/frontend/translate/cs-strings.php:308
+msgid "insert access token here."
+msgstr "إدراج الوصول رمز هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:309
+msgid "Access Token Secret"
+msgstr "وصول رمز السري"
+
+#: ../assets/frontend/translate/cs-strings.php:310
+msgid "insert access token secret here."
+msgstr "إدراج الوصول سرية الرمز هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:315
+msgid "import & export"
+msgstr "استيراد و تصدير"
+
+#: ../assets/frontend/translate/cs-strings.php:316
+msgid "Theme Backup Options"
+msgstr "خيارات الموضوع النسخ الاحتياطي"
+
+#: ../assets/frontend/translate/cs-strings.php:317
+msgid "Backup"
+msgstr "دعم"
+
+#: ../assets/frontend/translate/cs-strings.php:318
+msgid "Widgets Backup Options"
+msgstr "أوتوقيت خيارات النسخ الاحتياطي"
+
+#: ../assets/frontend/translate/cs-strings.php:319
+msgid "Widgets Backup"
+msgstr "الحاجيات النسخ الاحتياطي"
+
+#: ../assets/frontend/translate/cs-strings.php:323
+msgid "Typography / Fonts"
+msgstr "الطباعة / خطوط"
+
+#: ../assets/frontend/translate/cs-strings.php:324
+msgid "Custom Font"
+msgstr "الخط مخصص"
+
+#: ../assets/frontend/translate/cs-strings.php:325
+msgid "Google Fonts"
+msgstr "خطوط Google"
+
+#: ../assets/frontend/translate/cs-strings.php:326
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: ../assets/frontend/translate/cs-strings.php:327
+msgid "Footer sidebar"
+msgstr "تذييل في الشريط الجانبي"
+
+#: ../assets/frontend/translate/cs-strings.php:328
+msgid "MAINTENANCE MODE"
+msgstr "نمط الصيانة"
+
+#: ../assets/frontend/translate/cs-strings.php:329
+msgid "API Setting"
+msgstr "إعداد API"
+
+#: ../assets/frontend/translate/cs-strings.php:330
+msgid "Layout"
+msgstr "نسق"
+
+#: ../assets/frontend/translate/cs-strings.php:331
+msgid "Layout type"
+msgstr "نوع تخطيط"
+
+#: ../assets/frontend/translate/cs-strings.php:332
+msgid "Boxed"
+msgstr "محاصر"
+
+#: ../assets/frontend/translate/cs-strings.php:333
+msgid "Background"
+msgstr "خلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:334
+msgid "Background color"
+msgstr "لون الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:335
+msgid "Pattern"
+msgstr "نمط"
+
+#: ../assets/frontend/translate/cs-strings.php:336
+msgid "Custom Image"
+msgstr "صورة مخصصة"
+
+#: ../assets/frontend/translate/cs-strings.php:337
+msgid "Background image"
+msgstr "الصورة الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:338
+msgid "Choose from Predefined Background images."
+msgstr "الاختيار من بين الصور خلفية محددة مسبقا."
+
+#: ../assets/frontend/translate/cs-strings.php:339
+msgid "Background pattern"
+msgstr "نمط الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:340
+msgid "Choose from Predefined Pattern images."
+msgstr "اختيار من الصور نمط محدد مسبقا."
+
+#: ../assets/frontend/translate/cs-strings.php:341
+msgid "Provide a hex color code here (with #) for theme background color."
+msgstr "توفير رمز اللون عرافة هنا (مع #) للون موضوع الخلفية."
+
+#: ../assets/frontend/translate/cs-strings.php:342
+msgid "This option can be used only with Boxed Layout."
+msgstr "هذا الخيار يمكن استخدامها فقط مع محاصر تخطيط."
+
+#: ../assets/frontend/translate/cs-strings.php:343
+msgid "Background image position"
+msgstr "موقف صورة الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:344
+msgid "Choose image position for body background"
+msgstr "اختيار موضع الصورة لخلفية الجسم"
+
+#: ../assets/frontend/translate/cs-strings.php:345
+msgid "no-repeat center top"
+msgstr "عدم تكرار مركز أعلى"
+
+#: ../assets/frontend/translate/cs-strings.php:346
+msgid "repeat center top"
+msgstr "مركز أعلى تكرار"
+
+#: ../assets/frontend/translate/cs-strings.php:347
+msgid "no-repeat center"
+msgstr "عدم تكرار مركز"
+
+#: ../assets/frontend/translate/cs-strings.php:348
+msgid "Repeat Center"
+msgstr "مركز تكرار"
+
+#: ../assets/frontend/translate/cs-strings.php:349
+msgid "no-repeat left top"
+msgstr "أعلى يسار عدم تكرار"
+
+#: ../assets/frontend/translate/cs-strings.php:350
+msgid "repeat left top"
+msgstr "أعلى الأيسر تكرار"
+
+#: ../assets/frontend/translate/cs-strings.php:351
+msgid "no-repeat fixed center"
+msgstr "مركز ثابت عدم تكرار"
+
+#: ../assets/frontend/translate/cs-strings.php:352
+msgid "no-repeat fixed center / cover"
+msgstr "عدم تكرار ثابتة مركز / تغطية"
+
+#: ../assets/frontend/translate/cs-strings.php:353
+msgid "add to cart"
+msgstr "أضف إلى السلة"
+
+#: ../assets/frontend/translate/cs-strings.php:360
+msgid "Demo"
+msgstr "عرض"
+
+#: ../assets/frontend/translate/cs-strings.php:361
+msgid "Import"
+msgstr "استيراد"
+
+#: ../assets/frontend/translate/cs-strings.php:362
+msgid "Import Options"
+msgstr "خيارات استيراد"
+
+#: ../assets/frontend/translate/cs-strings.php:363
+msgid "Input the URL from another location and hit Import Button to apply settings"
+msgstr "إدخال URL من موقع آخر وضرب زر استيراد لتطبيق الإعدادات"
+
+#: ../assets/frontend/translate/cs-strings.php:364
+msgid "Please select a page"
+msgstr "الرجاء تحديد صفحة"
+
+#: ../assets/frontend/translate/cs-strings.php:365
+msgid "Export Options"
+msgstr "خيارات التصدير"
+
+#: ../assets/frontend/translate/cs-strings.php:366
+msgid "Restore"
+msgstr "استعادة"
+
+#: ../assets/frontend/translate/cs-strings.php:367
+msgid "Error saving file!"
+msgstr "خطأ ملف الحفظ!"
+
+#: ../assets/frontend/translate/cs-strings.php:368
+msgid "Backup Generated."
+msgstr "النسخ الاحتياطي ولدت."
+
+#: ../assets/frontend/translate/cs-strings.php:369
+#, php-format
+msgid "File '%s' Deleted Successfully"
+msgstr "الملف ' %s ' المحذوفة بنجاح"
+
+#: ../assets/frontend/translate/cs-strings.php:370
+msgid "Error Deleting file!"
+msgstr "خطأ ملف حذف!"
+
+#: ../assets/frontend/translate/cs-strings.php:371
+msgid "File Import Successfully"
+msgstr "ملف استيراد بنجاح"
+
+#: ../assets/frontend/translate/cs-strings.php:372
+msgid "Error Restoring file!"
+msgstr "خطأ ملف استعادة!"
+
+#: ../assets/frontend/translate/cs-strings.php:373
+#, php-format
+msgid "File '%s' Restore Successfully"
+msgstr "الملف ' %s ' استعادة بنجاح"
+
+#: ../assets/frontend/translate/cs-strings.php:374
+msgid ""
+"Here you can Generate/Download Backups. Also you can use these Backups to "
+"Restore settings."
+msgstr ""
+"هنا يمكنك إنشاء / تحميل النسخ الاحتياطية. كما يمكنك استخدام هذه النسخ "
+"الاحتياطية لاستعادة الإعدادات."
+
+#: ../assets/frontend/translate/cs-strings.php:375
+msgid "Download"
+msgstr "تحميل"
+
+#: ../assets/frontend/translate/cs-strings.php:376
+msgid "Generate Backup"
+msgstr "توليد النسخ الاحتياطي"
+
+#: ../assets/frontend/translate/cs-strings.php:377
+msgid "Import Widgets"
+msgstr "استيراد القطع"
+
+#: ../assets/frontend/translate/cs-strings.php:378
+msgid "Show Widget Settings"
+msgstr "مشاهدة إعدادات القطعة"
+
+#: ../assets/frontend/translate/cs-strings.php:379
+msgid "Font Family"
+msgstr "خط العائلة"
+
+#: ../assets/frontend/translate/cs-strings.php:380
+msgid "Browse"
+msgstr "تصفح"
+
+#: ../assets/frontend/translate/cs-strings.php:381
+msgid "Add Sidebar"
+msgstr "إضافة الشريط الجانبي"
+
+#: ../assets/frontend/translate/cs-strings.php:382
+msgid "Already Added Sidebars"
+msgstr "الجانبية أضفت"
+
+#: ../assets/frontend/translate/cs-strings.php:383
+msgid "Actions"
+msgstr "الإجراءات"
+
+#: ../assets/frontend/translate/cs-strings.php:384 ..
+#: assets/frontend/translate/cs-strings.php:1296
+msgid "Are you sure! You want to delete this"
+msgstr "هل أنت واثق! كنت ترغب في حذف هذه"
+
+#: ../assets/frontend/translate/cs-strings.php:385 ..
+#: assets/frontend/translate/cs-strings.php:833
+msgid "Remove"
+msgstr "إزالة"
+
+#: ../assets/frontend/translate/cs-strings.php:386
+msgid "Please enter the desired title of Footer sidebar"
+msgstr "الرجاء إدخال اسم المطلوب من تذييل الشريط الجانبي"
+
+#: ../assets/frontend/translate/cs-strings.php:387
+msgid "2 Column (16.67%)"
+msgstr "2 عمود (16.67٪)"
+
+#: ../assets/frontend/translate/cs-strings.php:388
+msgid "3 Column (25%)"
+msgstr "3 عمود (25٪)"
+
+#: ../assets/frontend/translate/cs-strings.php:389
+msgid "4 Column (33.33%)"
+msgstr "4 العمود (33.33٪)"
+
+#: ../assets/frontend/translate/cs-strings.php:390
+msgid "6 Column (50%)"
+msgstr "6 العمود (50٪)"
+
+#: ../assets/frontend/translate/cs-strings.php:391
+msgid "8 Column (66.66%)"
+msgstr "8 العمود (66.66٪)"
+
+#: ../assets/frontend/translate/cs-strings.php:392
+msgid "9 Column (75%)"
+msgstr "9 العمود (75٪)"
+
+#: ../assets/frontend/translate/cs-strings.php:393
+msgid "10 Column (83.33%)"
+msgstr "10 عمود (83.33٪)"
+
+#: ../assets/frontend/translate/cs-strings.php:394
+msgid "12 Column (100%)"
+msgstr "12 عمود (100٪)"
+
+#: ../assets/frontend/translate/cs-strings.php:395
+msgid "SiderBar Name"
+msgstr "اسم SiderBar"
+
+#: ../assets/frontend/translate/cs-strings.php:396
+msgid "Sider Bar Width"
+msgstr "سدر بار العرض"
+
+#: ../assets/frontend/translate/cs-strings.php:397 ..
+#: assets/frontend/translate/cs-strings.php:531 ../assets/frontend/translate/cs-
+#: strings.php:555 ../assets/frontend/translate/cs-strings.php:588
+msgid "Icon Color"
+msgstr "رمز اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:398
+msgid "Add"
+msgstr "إضافة"
+
+#: ../assets/frontend/translate/cs-strings.php:399
+msgid "Already Added Social Icons"
+msgstr "أضفت الرموز الاجتماعية"
+
+#: ../assets/frontend/translate/cs-strings.php:400
+msgid "Network Name"
+msgstr "اسم الشبكة"
+
+#: ../assets/frontend/translate/cs-strings.php:402
+msgid "Export Widgets"
+msgstr "تصدير القطع"
+
+#: ../assets/frontend/translate/cs-strings.php:403
+msgid " Default Font"
+msgstr " الخط الافتراضي"
+
+#: ../assets/frontend/translate/cs-strings.php:404
+msgid "STICKY POST"
+msgstr "مشاركة موضوع"
+
+#: ../assets/frontend/translate/cs-strings.php:411
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "هذا موضوع يتطلب البرنامج المساعد التالية: %1$s ."
+msgstr[1] "هذا موضوع يتطلب البرنامج المساعد التالية: %1$s ."
+
+#: ../assets/frontend/translate/cs-strings.php:412
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "ويوصي هذا موضوع البرنامج المساعد التالية: %1$s ."
+msgstr[1] "يوصي هذا الموضوع المساعد التالية: %1$s ."
+
+#: ../assets/frontend/translate/cs-strings.php:413
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins."
+msgstr[0] "آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت %s المساعد."
+msgstr[1] "آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت %s المساعد."
+
+#: ../assets/frontend/translate/cs-strings.php:414
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "البرنامج المساعد المطلوب التالية غير نشط حاليا: %1$s ."
+msgstr[1] "البرنامج المساعد المطلوب التالية غير نشط حاليا: %1$s ."
+
+#: ../assets/frontend/translate/cs-strings.php:415
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "البرنامج المساعد الموصى بها التالية غير نشط حاليا: %1$s ."
+msgstr[1] "البرنامج المساعد الموصى بها التالية غير نشط حاليا: %1$s ."
+
+#: ../assets/frontend/translate/cs-strings.php:416
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins."
+msgstr[0] "آسف، ولكن لم يكن لديك الأذونات الصحيحة لتفعيل %s المساعد."
+msgstr[1] "آسف، ولكن لم يكن لديك الأذونات الصحيحة لتفعيل %s المساعد."
+
+#: ../assets/frontend/translate/cs-strings.php:417
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"يحتاج البرنامج المساعد التالية ليتم تحديثه إلى الإصدار الأحدث لضمان أقصى قدر "
+"من التوافق مع هذا الموضوع: %1$s ."
+msgstr[1] ""
+"يحتاج البرنامج المساعد التالية ليتم تحديثه إلى الإصدار الأحدث لضمان أقصى قدر "
+"من التوافق مع هذا الموضوع: %1$s ."
+
+#: ../assets/frontend/translate/cs-strings.php:418
+#, php-format
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins."
+msgstr[0] "آسف، ولكن لم يكن لديك الأذونات الصحيحة لتحديث %s المساعد."
+msgstr[1] "آسف، ولكن لم يكن لديك الأذونات الصحيحة لتحديث %s المساعد."
+
+#: ../assets/frontend/translate/cs-strings.php:419
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "بدء تثبيت البرنامج المساعد"
+msgstr[1] "بدء تثبيت البرنامج المساعد"
+
+#: ../assets/frontend/translate/cs-strings.php:420
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "بدء تفعيل البرنامج المساعد"
+msgstr[1] "بدء تفعيل البرنامج المساعد"
+
+#: ../assets/frontend/translate/cs-strings.php:421
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على تركيب البرنامج المساعد."
+msgstr[1] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتثبيت %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على تركيب البرنامج المساعد."
+
+#: ../assets/frontend/translate/cs-strings.php:422
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتفعيل %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على تفعيل البرنامج المساعد."
+msgstr[1] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتفعيل %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على تفعيل البرنامج المساعد."
+
+#: ../assets/frontend/translate/cs-strings.php:423
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتحديث %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد المحدثة."
+msgstr[1] ""
+"آسف، ولكن لم يكن لديك الأذونات الصحيحة لتحديث %s المساعد. اتصل بمسؤول هذا "
+"الموقع للمساعدة فى الحصول على البرنامج المساعد المحدثة."
+
+#: ../assets/frontend/translate/cs-strings.php:424
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "تفعيل البرنامج المساعد مثبت"
+msgstr[1] "تفعيل البرنامج المساعد مثبت"
+
+#: ../assets/frontend/translate/cs-strings.php:425
+msgid "Install Required Plugins"
+msgstr "تثبيت مطلوب الإضافات"
+
+#: ../assets/frontend/translate/cs-strings.php:426
+msgid "Install Plugins"
+msgstr "تثبيت الإضافات"
+
+#: ../assets/frontend/translate/cs-strings.php:427
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "تثبيت البرنامج المساعد: %s"
+
+#: ../assets/frontend/translate/cs-strings.php:428
+msgid "Something went wrong."
+msgstr "حدث خطأ."
+
+#: ../assets/frontend/translate/cs-strings.php:429
+msgid "Return to Required Plugins Installer"
+msgstr "العودة إلى مطلوب الإضافات المثبت"
+
+#: ../assets/frontend/translate/cs-strings.php:430
+msgid "Return to the dashboard"
+msgstr "العودة إلى لوحة أجهزة القياس"
+
+#: ../assets/frontend/translate/cs-strings.php:431 ..
+#: assets/frontend/translate/cs-strings.php:463
+msgid "Plugin activated successfully."
+msgstr "المساعد تفعيله بنجاح."
+
+#: ../assets/frontend/translate/cs-strings.php:432 ../include/backend/cs-
+#: activation-plugins/cs-plugin-activation.php:1846
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "تم تفعيل البرنامج المساعد التالية بنجاح:"
+msgstr[1] "تم تفعيل البرنامج المساعد التالية بنجاح:"
+
+#: ../assets/frontend/translate/cs-strings.php:433
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "جميع الإضافات المثبتة وتفعيلها بنجاح. %1$s"
+
+#: ../assets/frontend/translate/cs-strings.php:434
+msgid "Dismiss this notice"
+msgstr "إقالة هذا الإشعار"
+
+#: ../assets/frontend/translate/cs-strings.php:435
+msgid "Please contact the administrator of this site for help."
+msgstr "الرجاء الاتصال بمسؤول لهذا الموقع للحصول على المساعدة."
+
+#: ../assets/frontend/translate/cs-strings.php:436
+msgid ""
+"The remote plugin package is does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"حزمة المساعد عن بعد لا يحتوي على المجلد مع سبيكة المطلوب وإعادة تسمية لم "
+"تنجح."
+
+#: ../assets/frontend/translate/cs-strings.php:437 ..
+#: assets/frontend/translate/cs-strings.php:439
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"يرجى الاتصال بمزود المساعد ونطلب منهم لحزم المساعد وفقا للمبادئ التوجيهية "
+"وورد."
+
+#: ../assets/frontend/translate/cs-strings.php:438
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"تتكون حزمة المساعد النائية في أكثر من ملف واحد، ولكن لم يتم تعبئتها الملفات "
+"في مجلد."
+
+#: ../assets/frontend/translate/cs-strings.php:440
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "لم يتم اتخاذ أي إجراء. البرنامج المساعد %1$s كانت بالفعل نشطة."
+
+#: ../assets/frontend/translate/cs-strings.php:441
+msgid "External Source"
+msgstr "مصدر خارجي"
+
+#: ../assets/frontend/translate/cs-strings.php:442
+msgid "Pre-Packaged"
+msgstr "المعلبة"
+
+#: ../assets/frontend/translate/cs-strings.php:443
+msgid "WordPress Repository"
+msgstr "وورد مستودع"
+
+#: ../assets/frontend/translate/cs-strings.php:444
+msgid "Required"
+msgstr "مطلوب"
+
+#: ../assets/frontend/translate/cs-strings.php:445
+msgid "Recommended"
+msgstr "موصى به"
+
+#: ../assets/frontend/translate/cs-strings.php:446
+msgid "Not Installed"
+msgstr "غير مثبت"
+
+#: ../assets/frontend/translate/cs-strings.php:447
+msgid "Installed But Not Activated"
+msgstr "تثبيت ولكن لم يتم تنشيط"
+
+#: ../assets/frontend/translate/cs-strings.php:448
+msgid "No plugins to install or activate. Return to the Dashboard"
+msgstr "لا الإضافات لتثبيت أو تنشيط. العودة إلى لوحة التحكم الرئيسية"
+
+#: ../assets/frontend/translate/cs-strings.php:449
+msgid "Plugin"
+msgstr "المساعد"
+
+#: ../assets/frontend/translate/cs-strings.php:450
+msgid "Source"
+msgstr "مصدر"
+
+#: ../assets/frontend/translate/cs-strings.php:451
+msgid "Type"
+msgstr "اكتب"
+
+#: ../assets/frontend/translate/cs-strings.php:452
+msgid "Status"
+msgstr "الحالة"
+
+#: ../assets/frontend/translate/cs-strings.php:453
+msgid "Install"
+msgstr "تثبيت"
+
+#: ../assets/frontend/translate/cs-strings.php:454
+msgid "Activate"
+msgstr "تفعيل"
+
+#: ../assets/frontend/translate/cs-strings.php:455
+msgid "No plugins are available to be installed at this time"
+msgstr "لم الإضافات المتاحة ليتم تثبيتها في هذا الوقت"
+
+#: ../assets/frontend/translate/cs-strings.php:456
+msgid "Install package not available"
+msgstr "تثبيت حزمة غير متوفرة"
+
+#: ../assets/frontend/translate/cs-strings.php:457
+#, php-format
+msgid "Downloading install package from %s"
+msgstr "تحميل تثبيت حزمة من %s"
+
+#: ../assets/frontend/translate/cs-strings.php:458
+msgid "Unpacking the package"
+msgstr "تفريغ حزمة"
+
+#: ../assets/frontend/translate/cs-strings.php:459
+msgid "Installing the plugin"
+msgstr "تثبيت البرنامج المساعد"
+
+#: ../assets/frontend/translate/cs-strings.php:460
+msgid "Plugin install failed."
+msgstr "تثبيت فشل البرنامج المساعد."
+
+#: ../assets/frontend/translate/cs-strings.php:461
+msgid "Plugin installed successfully."
+msgstr "المساعد تثبيت بنجاح."
+
+#: ../assets/frontend/translate/cs-strings.php:462
+msgid "Plugin activation failed."
+msgstr "فشل تفعيل البرنامج المساعد."
+
+#: ../assets/frontend/translate/cs-strings.php:464
+#, php-format
+msgid "An error occurred while installing %1$s: %2$s."
+msgstr "حدث خطأ أثناء تثبيت %1$s : %2$s ."
+
+#: ../assets/frontend/translate/cs-strings.php:465
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "تركيب %1$s فشل."
+
+#: ../assets/frontend/translate/cs-strings.php:466
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"عملية التثبيت والتنشيط بدأت. قد تستغرق هذه العملية بعض الوقت على بعض الجنود، "
+"لذا يرجى التحلي بالصبر."
+
+#: ../assets/frontend/translate/cs-strings.php:467
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s تثبيت وتنشيط بنجاح."
+
+#: ../assets/frontend/translate/cs-strings.php:468
+msgid "Show Details"
+msgstr "مشاهدة تفاصيل"
+
+#: ../assets/frontend/translate/cs-strings.php:469
+msgid "All installations and activations have been completed."
+msgstr "وقد تم الانتهاء من كافة المنشآت والتنشيط."
+
+#: ../assets/frontend/translate/cs-strings.php:470
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "تركيب وتفعيل البرنامج المساعد %1$s ( %2$d / %3$d )"
+
+#: ../assets/frontend/translate/cs-strings.php:471
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"عملية التثبيت هو بداية. قد تستغرق هذه العملية بعض الوقت على بعض الجنود، لذا "
+"يرجى التحلي بالصبر."
+
+#: ../assets/frontend/translate/cs-strings.php:472
+msgid "Hide Details"
+msgstr "أخف التفاصيل"
+
+#: ../assets/frontend/translate/cs-strings.php:473
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s تثبيت بنجاح."
+
+#: ../assets/frontend/translate/cs-strings.php:474
+msgid "All installations have been completed."
+msgstr "تم الانتهاء من جميع المنشآت."
+
+#: ../assets/frontend/translate/cs-strings.php:475
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "تثبيت البرنامج المساعد %1$s ( %2$d / %3$d )"
+
+#: ../assets/frontend/translate/cs-strings.php:476
+msgid "CS automobile Framework"
+msgstr "الإطار السيارات CS"
+
+#: ../assets/frontend/translate/cs-strings.php:477
+msgid "Something went wrong with the plugin API"
+msgstr "حدث خطأ مع API المساعد"
+
+#: ../assets/frontend/translate/cs-strings.php:483 ..
+#: assets/frontend/translate/cs-strings.php:602 ../assets/frontend/translate/cs-
+#: strings.php:674 ../assets/frontend/translate/cs-strings.php:777 ..
+#: assets/frontend/translate/cs-strings.php:918
+msgid "Element Title"
+msgstr "عنصر عنوان"
+
+#: ../assets/frontend/translate/cs-strings.php:484 ..
+#: assets/frontend/translate/cs-strings.php:778
+msgid "Enter element title here."
+msgstr "أدخل عنوان العنصر هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:485 ..
+#: assets/frontend/translate/cs-strings.php:604 ../assets/frontend/translate/cs-
+#: strings.php:676
+msgid "Element Sub Title"
+msgstr "عنصر العنوان الفرعي"
+
+#: ../assets/frontend/translate/cs-strings.php:486
+msgid "Enter element sub title here."
+msgstr "أدخل عنوان فرعي العنصر هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:489
+msgid "Enter title here."
+msgstr "أدخل عنوان هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:490 ..
+#: assets/frontend/translate/cs-strings.php:1088
+msgid "Title Color"
+msgstr "عنوان اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:491
+msgid "Set title color with this color picker."
+msgstr "تعيين لون اللقب مع هذا منتقي الألوان."
+
+#: ../assets/frontend/translate/cs-strings.php:493
+msgid "Select Column"
+msgstr "حدد العمود"
+
+#: ../assets/frontend/translate/cs-strings.php:494 ..
+#: assets/frontend/translate/cs-strings.php:991
+msgid "Column"
+msgstr "عمود"
+
+#: ../assets/frontend/translate/cs-strings.php:495
+msgid "Select Column view from this drop down"
+msgstr "حدد عرض العمود من هذا المنسدلة"
+
+#: ../assets/frontend/translate/cs-strings.php:496
+msgid "Edit Form Options"
+msgstr "تحرير خيارات النموذج"
+
+#: ../assets/frontend/translate/cs-strings.php:497 ..
+#: assets/frontend/translate/cs-strings.php:518 ../assets/frontend/translate/cs-
+#: strings.php:830 ../assets/frontend/translate/cs-strings.php:831 ..
+#: assets/frontend/translate/cs-strings.php:944 ../assets/frontend/translate/cs-
+#: strings.php:1170 ../assets/frontend/translate/cs-strings.php:1186
+msgid "Image"
+msgstr "صورة"
+
+#: ../assets/frontend/translate/cs-strings.php:498
+msgid "Select Image from media gallery with this button"
+msgstr "اختر صورة من معرض وسائل الاعلام مع هذا الزر"
+
+#: ../assets/frontend/translate/cs-strings.php:500
+msgid "Save"
+msgstr "حفظ"
+
+#: ../assets/frontend/translate/cs-strings.php:501 ..
+#: assets/frontend/translate/cs-strings.php:735
+msgid "Insert"
+msgstr "إدراج"
+
+#: ../assets/frontend/translate/cs-strings.php:502 ..
+#: assets/frontend/translate/cs-strings.php:647
+msgid "Yes"
+msgstr "نعم فعلا"
+
+#: ../assets/frontend/translate/cs-strings.php:503 ..
+#: assets/frontend/translate/cs-strings.php:648
+msgid "No"
+msgstr "لا"
+
+#: ../assets/frontend/translate/cs-strings.php:504 ..
+#: assets/frontend/translate/cs-strings.php:936
+msgid "Text"
+msgstr "نص"
+
+#: ../assets/frontend/translate/cs-strings.php:505
+msgid "Site Map Options"
+msgstr "خيارات خريطة الموقع"
+
+#: ../assets/frontend/translate/cs-strings.php:506
+msgid "Enter Section title here"
+msgstr "أدخل عنوان القسم هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:507
+msgid "Icon Box Option"
+msgstr "رمز الخيار صندوق"
+
+#: ../assets/frontend/translate/cs-strings.php:508 ..
+#: assets/frontend/translate/cs-strings.php:596
+msgid "Views"
+msgstr "المشاهدات"
+
+#: ../assets/frontend/translate/cs-strings.php:509
+msgid "Set the Icon Box style"
+msgstr "تعيين نمط أيقونة صندوق"
+
+#: ../assets/frontend/translate/cs-strings.php:510 ..
+#: assets/frontend/translate/cs-strings.php:598 ../assets/frontend/translate/cs-
+#: strings.php:740 ../assets/frontend/translate/cs-strings.php:742 ..
+#: assets/frontend/translate/cs-strings.php:1022 ../assets/frontend/translate/cs-
+#: strings.php:1081
+msgid "Simple"
+msgstr "بسيط"
+
+#: ../assets/frontend/translate/cs-strings.php:511 ..
+#: assets/frontend/translate/cs-strings.php:1027
+msgid "Top Center"
+msgstr "مركز أعلى"
+
+#: ../assets/frontend/translate/cs-strings.php:512
+msgid "Enter Icon Box title here"
+msgstr "أدخل عنوان أيقونة صندوق هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:513
+msgid "Icon Box Title Color"
+msgstr "أيقونة عنوان مربع اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:514
+msgid "Set icon box title color here."
+msgstr "فك رمز اللون لقب هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:515
+msgid "Icon Type"
+msgstr "رمز نوع"
+
+#: ../assets/frontend/translate/cs-strings.php:516
+msgid "Select icon type image or font icon."
+msgstr "حدد نوع الصورة أيقونة أو رمز الخط."
+
+#: ../assets/frontend/translate/cs-strings.php:517 ..
+#: assets/frontend/translate/cs-strings.php:520 ../assets/frontend/translate/cs-
+#: strings.php:547 ../assets/frontend/translate/cs-strings.php:582 ..
+#: assets/frontend/translate/cs-strings.php:587 ../assets/frontend/translate/cs-
+#: strings.php:903 ../assets/frontend/translate/cs-strings.php:1299
+msgid "Icon"
+msgstr "أيقونة"
+
+#: ../assets/frontend/translate/cs-strings.php:519
+msgid "Attach image from media gallery."
+msgstr "إرفاق صورة من معرض وسائل الإعلام."
+
+#: ../assets/frontend/translate/cs-strings.php:521
+msgid "Select the Icon you would like to show with your accordian title."
+msgstr "حدد أيقونة كنت ترغب في عرض مع عنوان accordian الخاص بك."
+
+#: ../assets/frontend/translate/cs-strings.php:522
+msgid "Icon Font Size"
+msgstr "رمز حجم الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:523
+msgid "Set the Icon Font Size"
+msgstr "تعيين الحجم أيقونة الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:524
+msgid "Extra Small"
+msgstr "صغير جدا"
+
+#: ../assets/frontend/translate/cs-strings.php:525 ..
+#: assets/frontend/translate/cs-strings.php:906
+msgid "Small"
+msgstr "صغير"
+
+#: ../assets/frontend/translate/cs-strings.php:526 ..
+#: assets/frontend/translate/cs-strings.php:905 ../assets/frontend/translate/cs-
+#: strings.php:967
+msgid "Medium"
+msgstr "متوسط"
+
+#: ../assets/frontend/translate/cs-strings.php:527
+msgid "Medium Large"
+msgstr "متوسط ​​كبير"
+
+#: ../assets/frontend/translate/cs-strings.php:528 ..
+#: assets/frontend/translate/cs-strings.php:904 ../assets/frontend/translate/cs-
+#: strings.php:966
+msgid "Large"
+msgstr "كبير"
+
+#: ../assets/frontend/translate/cs-strings.php:529
+msgid "Extra Large"
+msgstr "كبير جدا"
+
+#: ../assets/frontend/translate/cs-strings.php:530
+msgid "Free Size"
+msgstr "مقاس حر"
+
+#: ../assets/frontend/translate/cs-strings.php:532 ..
+#: assets/frontend/translate/cs-strings.php:538
+msgid ""
+"Provide a hex colour code here (with #) for text color. if you want to "
+"override the default."
+msgstr "توفير رمز اللون عرافة هنا (مع #) للون النص. إذا كنت ترغب في تجاوز الافتراضي."
+
+#: ../assets/frontend/translate/cs-strings.php:533 ..
+#: assets/frontend/translate/cs-strings.php:1004
+msgid "Title Link"
+msgstr "عنوان رابط"
+
+#: ../assets/frontend/translate/cs-strings.php:534
+msgid "Enter Icon Box title link here"
+msgstr "أدخل رابط لقب أيقونة صندوق هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:535 ..
+#: assets/frontend/translate/cs-strings.php:551 ../assets/frontend/translate/cs-
+#: strings.php:606 ../assets/frontend/translate/cs-strings.php:680 ..
+#: assets/frontend/translate/cs-strings.php:692 ../assets/frontend/translate/cs-
+#: strings.php:766 ../assets/frontend/translate/cs-strings.php:779 ..
+#: assets/frontend/translate/cs-strings.php:828 ../assets/frontend/translate/cs-
+#: strings.php:1035 ../assets/frontend/translate/cs-strings.php:1106
+msgid "Content"
+msgstr "محتوى"
+
+#: ../assets/frontend/translate/cs-strings.php:536
+msgid "Enter the content here"
+msgstr "أدخل محتوى هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:539 ..
+#: assets/frontend/translate/cs-strings.php:546 ../assets/frontend/translate/cs-
+#: strings.php:567 ../assets/frontend/translate/cs-strings.php:737
+msgid "Counter"
+msgstr "عداد"
+
+#: ../assets/frontend/translate/cs-strings.php:540
+msgid "Counter Options"
+msgstr "خيارات مضادة"
+
+#: ../assets/frontend/translate/cs-strings.php:542
+msgid "Enter Title Here"
+msgstr "أدخل عنوان هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:543 ..
+#: assets/frontend/translate/cs-strings.php:575 ../assets/frontend/translate/cs-
+#: strings.php:989
+msgid "Sub Title"
+msgstr "العنوان الفرعي"
+
+#: ../assets/frontend/translate/cs-strings.php:544
+msgid "Enter Sub Tiltle Here"
+msgstr "أدخل الفرعية Tiltle هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:545
+msgid "Add Counter"
+msgstr "إضافة عداد"
+
+#: ../assets/frontend/translate/cs-strings.php:548
+msgid "Please Select Icon "
+msgstr "الرجاء اختيار أيقونة "
+
+#: ../assets/frontend/translate/cs-strings.php:549
+msgid "Count"
+msgstr "عد"
+
+#: ../assets/frontend/translate/cs-strings.php:550
+msgid "Enter Counter Range"
+msgstr "أدخل مكافحة المدى"
+
+#: ../assets/frontend/translate/cs-strings.php:552 ..
+#: assets/frontend/translate/cs-strings.php:693
+msgid "Enter Content Here"
+msgstr "أدخل المحتوى هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:556
+msgid "Select Icon Color "
+msgstr "اختر أيقونة اللون "
+
+#: ../assets/frontend/translate/cs-strings.php:559
+msgid "Count Color"
+msgstr "عد اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:560
+msgid "Select Count Color "
+msgstr "حدد عدد اللون "
+
+#: ../assets/frontend/translate/cs-strings.php:562
+msgid "Select Content Color "
+msgstr "اختر اللون المحتوى "
+
+#: ../assets/frontend/translate/cs-strings.php:565 ..
+#: assets/frontend/translate/cs-strings.php:1342
+msgid "published by"
+msgstr "نشرت من قبل"
+
+#: ../assets/frontend/translate/cs-strings.php:566 ..
+#: assets/frontend/translate/cs-strings.php:1343
+msgid "View all posts by "
+msgstr "عرض جميع مشاركات "
+
+#: ../assets/frontend/translate/cs-strings.php:568
+msgid "Enter counter author name here"
+msgstr "إدخال مكافحة اسم المؤلف هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:569
+msgid "Choose Color of Counter Text"
+msgstr "اختيار لون نص العداد"
+
+#: ../assets/frontend/translate/cs-strings.php:570
+msgid "Divider"
+msgstr "مقسم"
+
+#: ../assets/frontend/translate/cs-strings.php:571
+msgid "Divider setting on/off"
+msgstr "الإعداد مقسم على / قبالة"
+
+#: ../assets/frontend/translate/cs-strings.php:572
+msgid "List Options"
+msgstr "خيارات قائمة"
+
+#: ../assets/frontend/translate/cs-strings.php:574
+msgid "Enter list title here"
+msgstr "أدخل عنوان القائمة هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:576
+msgid "Enter list sub title here"
+msgstr "أدخل عنوان فرعي قائمة هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:577
+msgid "List Style"
+msgstr "قائمة ستايل"
+
+#: ../assets/frontend/translate/cs-strings.php:578
+msgid "Choose list style from here."
+msgstr "اختيار نمط قائمة من هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:580
+msgid "Numeric"
+msgstr "رقمية"
+
+#: ../assets/frontend/translate/cs-strings.php:581
+msgid "Bullet"
+msgstr "رصاصة"
+
+#: ../assets/frontend/translate/cs-strings.php:583
+msgid "Alphabetic"
+msgstr "أبجدي"
+
+#: ../assets/frontend/translate/cs-strings.php:584
+msgid "List Title"
+msgstr "قائمة العناوين"
+
+#: ../assets/frontend/translate/cs-strings.php:585
+msgid "List"
+msgstr "قائمة"
+
+#: ../assets/frontend/translate/cs-strings.php:586
+msgid "Enter list title here."
+msgstr "أدخل عنوان القائمة هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:589
+msgid "Select icon color"
+msgstr "حدد لون رمز"
+
+#: ../assets/frontend/translate/cs-strings.php:590 ..
+#: assets/frontend/translate/cs-strings.php:1009
+msgid "Icon Background Color"
+msgstr "اللون رمز خلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:591
+msgid "Select icon background color"
+msgstr "لون الخلفية حدد رمز"
+
+#: ../assets/frontend/translate/cs-strings.php:592
+msgid "Choose icon for list."
+msgstr "اختيار رمز القائمة."
+
+#: ../assets/frontend/translate/cs-strings.php:593
+msgid "Add List Item"
+msgstr "إضافة عنصر قائمة"
+
+#: ../assets/frontend/translate/cs-strings.php:594
+msgid "Ads Options"
+msgstr "خيارات الإعلانات"
+
+#: ../assets/frontend/translate/cs-strings.php:595
+msgid "Headings Options"
+msgstr "خيارات العناوين"
+
+#: ../assets/frontend/translate/cs-strings.php:597
+msgid ""
+"Select headings style with this dropdown. simple and one Fancy view. All "
+"headings font sizes,color and family can be change from theme options."
+msgstr ""
+"حدد أسلوب العناوين مع هذه القائمة المنسدلة. بسيطة وعرض يتوهم احد. كل "
+"العناوين الخط الأحجام والألوان والأسرة يمكن أن يكون التغيير من خيارات "
+"الموضوع."
+
+#: ../assets/frontend/translate/cs-strings.php:599 ..
+#: assets/frontend/translate/cs-strings.php:1052
+msgid "Fancy"
+msgstr "نزوة"
+
+#: ../assets/frontend/translate/cs-strings.php:600
+msgid "Fancy Heading"
+msgstr "العنوان الهوى"
+
+#: ../assets/frontend/translate/cs-strings.php:601
+msgid "Enter text for fancy heading"
+msgstr "أدخل النص للعنوان الهوى"
+
+#: ../assets/frontend/translate/cs-strings.php:603
+msgid "Enter your element title here"
+msgstr "أدخل عنوان العنصر الخاص بك هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:605
+msgid "Enter your element sub title here"
+msgstr "أدخل عنوان فرعي العنصر الخاص بك هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:607
+msgid "Enter content here."
+msgstr "أدخل محتوى هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:608
+msgid "Font Size"
+msgstr "حجم الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:609
+msgid "Add font size for heading here."
+msgstr "إضافة حجم الخط ليتجه هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:611
+msgid "Select style to heading. If you dont select heading it will display H1"
+msgstr "تحديد نمط إلى العنوان. إذا كنت لا اختيار متجهة أنه سيتم عرض H1"
+
+#: ../assets/frontend/translate/cs-strings.php:612
+msgid "Capitalize"
+msgstr "الاستفادة"
+
+#: ../assets/frontend/translate/cs-strings.php:613
+msgid "Initial"
+msgstr "مبدئي"
+
+#: ../assets/frontend/translate/cs-strings.php:614
+msgid "Inherit"
+msgstr "يرث"
+
+#: ../assets/frontend/translate/cs-strings.php:615
+msgid "Lowercase"
+msgstr "أحرف صغيرة"
+
+#: ../assets/frontend/translate/cs-strings.php:616
+msgid "None"
+msgstr "لا شيء"
+
+#: ../assets/frontend/translate/cs-strings.php:617
+msgid "Uppercase"
+msgstr "الأحرف الكبيرة"
+
+#: ../assets/frontend/translate/cs-strings.php:619
+msgid "Add letter spacing for heading here."
+msgstr "إضافة بريد إلكتروني تباعد عن التوجه هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:620
+msgid "Bottom Margin"
+msgstr "الهامش السفلي"
+
+#: ../assets/frontend/translate/cs-strings.php:621
+msgid "Enter heading bottom margin in numaric values only"
+msgstr "أدخل متجهة الهامش السفلي في القيم numaric فقط"
+
+#: ../assets/frontend/translate/cs-strings.php:623
+msgid "Add line height for heading here."
+msgstr "إضافة إلى ارتفاع خط التوجه هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:624
+msgid "Element title color"
+msgstr "عنصر اللون لقب"
+
+#: ../assets/frontend/translate/cs-strings.php:625
+msgid "Choose element title color with this color picker."
+msgstr "اختيار عنصر اللون اللقب مع هذا منتقي الألوان."
+
+#: ../assets/frontend/translate/cs-strings.php:626
+msgid "Element sub title color"
+msgstr "عنصر اللون عنوان فرعي"
+
+#: ../assets/frontend/translate/cs-strings.php:627
+msgid "Select color title"
+msgstr "حدد عنوان اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:629
+msgid "select content color"
+msgstr "اختيار اللون المحتوى"
+
+#: ../assets/frontend/translate/cs-strings.php:630
+msgid "Heading Style"
+msgstr "يتجه نمط"
+
+#: ../assets/frontend/translate/cs-strings.php:631
+msgid ""
+"Select headings and style with this dropdown. H1 to H6 Headings and one "
+"Fancy view. All headings font sizes,color and family can be change from "
+"theme options."
+msgstr ""
+"حدد العناوين والاسلوب مع هذه القائمة المنسدلة. H1 إلى H6 العناوين وعرض فانسي "
+"واحد. كل العناوين الخط الأحجام والألوان والأسرة يمكن أن يكون التغيير من "
+"خيارات الموضوع."
+
+#: ../assets/frontend/translate/cs-strings.php:632
+msgid "H1"
+msgstr "H1"
+
+#: ../assets/frontend/translate/cs-strings.php:633
+msgid "H2"
+msgstr "H2"
+
+#: ../assets/frontend/translate/cs-strings.php:634
+msgid "H3"
+msgstr "H3"
+
+#: ../assets/frontend/translate/cs-strings.php:635
+msgid "H4"
+msgstr "H4"
+
+#: ../assets/frontend/translate/cs-strings.php:636
+msgid "H5"
+msgstr "H5"
+
+#: ../assets/frontend/translate/cs-strings.php:637
+msgid "H6"
+msgstr "H6"
+
+#: ../assets/frontend/translate/cs-strings.php:638
+msgid "Heading Align"
+msgstr "تتجه محاذاة"
+
+#: ../assets/frontend/translate/cs-strings.php:639
+msgid "Align the heading position with this dropdown."
+msgstr "محاذاة موقف العنوان مع هذه القائمة المنسدلة."
+
+#: ../assets/frontend/translate/cs-strings.php:640 ..
+#: assets/frontend/translate/cs-strings.php:911 ../assets/frontend/translate/cs-
+#: strings.php:1025
+msgid "Left"
+msgstr "اليسار"
+
+#: ../assets/frontend/translate/cs-strings.php:641 ..
+#: assets/frontend/translate/cs-strings.php:912 ../assets/frontend/translate/cs-
+#: strings.php:1026
+msgid "Right"
+msgstr "حق"
+
+#: ../assets/frontend/translate/cs-strings.php:642
+msgid "Center"
+msgstr "مركز"
+
+#: ../assets/frontend/translate/cs-strings.php:643
+msgid "Heading Color"
+msgstr "تتجه اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:644
+msgid "Choose heading color with this color picker."
+msgstr "اختيار التوجه اللون مع هذا منتقي الألوان."
+
+#: ../assets/frontend/translate/cs-strings.php:645
+msgid "Divider On/Off"
+msgstr "المقسم تشغيل / إيقاف"
+
+#: ../assets/frontend/translate/cs-strings.php:646
+msgid "Set divider on/off for heading with this dropdown."
+msgstr "تعيين مقسم على / قبالة عن التوجه مع هذه القائمة المنسدلة."
+
+#: ../assets/frontend/translate/cs-strings.php:649
+msgid "Font Style"
+msgstr "نوع الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:650
+msgid "Select the font style here."
+msgstr "حدد نمط الخط هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:651
+msgid "Normal"
+msgstr "عادي"
+
+#: ../assets/frontend/translate/cs-strings.php:652
+msgid "Italic"
+msgstr "مائل"
+
+#: ../assets/frontend/translate/cs-strings.php:653
+msgid "Oblique"
+msgstr "منحرف"
+
+#: ../assets/frontend/translate/cs-strings.php:654
+msgid "Add Team"
+msgstr "إضافة فريق"
+
+#: ../assets/frontend/translate/cs-strings.php:655
+msgid "Name"
+msgstr "اسم"
+
+#: ../assets/frontend/translate/cs-strings.php:656
+msgid "Enter team member name here."
+msgstr "أدخل فريق اسم عضو هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:657
+msgid "Designation"
+msgstr "التعيين"
+
+#: ../assets/frontend/translate/cs-strings.php:658
+msgid "Enter team member designation here."
+msgstr "أدخل فريق تعيين عضو هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:659
+msgid "Team Profile Image"
+msgstr "فريق الصورة الشخصية"
+
+#: ../assets/frontend/translate/cs-strings.php:660
+msgid "Select team member image from media gallery."
+msgstr "اختر صورة عضو من أعضاء الفريق من معرض وسائل الإعلام."
+
+#: ../assets/frontend/translate/cs-strings.php:661
+msgid "Phone No"
+msgstr "رقم الهاتف"
+
+#: ../assets/frontend/translate/cs-strings.php:662
+msgid "Enter phone number here."
+msgstr "أدخل رقم الهاتف هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:664
+msgid "Enter facebook account link here."
+msgstr "أدخل ربط حساب الفيسبوك هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:666
+msgid "Enter twitter account link here."
+msgstr "أدخل رابط حساب تويتر هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:668
+msgid "Enter google+ accoount link here."
+msgstr "أدخل رابط accoount جوجل + هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:669
+msgid "Linkedin"
+msgstr "ينكدين"
+
+#: ../assets/frontend/translate/cs-strings.php:670
+msgid "Enter linkedin account link here."
+msgstr "أدخل ينكدين ربط حساب هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:671
+msgid "Youtube"
+msgstr "موقع YouTube"
+
+#: ../assets/frontend/translate/cs-strings.php:672
+msgid "Enter youtube link here."
+msgstr "أدخل يوتيوب الرابط هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:673
+msgid "Team Options"
+msgstr "خيارات الفريق"
+
+#: ../assets/frontend/translate/cs-strings.php:675 ..
+#: assets/frontend/translate/cs-strings.php:725
+msgid "Enter Element Title Here"
+msgstr "أدخل العنصر عنوان هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:677
+msgid "Enter Element Sub Title"
+msgstr "أدخل العنصر العنوان الفرعي"
+
+#: ../assets/frontend/translate/cs-strings.php:678
+msgid "Team"
+msgstr "الفريق"
+
+#: ../assets/frontend/translate/cs-strings.php:679
+msgid "Call to Action Options"
+msgstr "دعوة إلى خيارات العمل"
+
+#: ../assets/frontend/translate/cs-strings.php:681
+msgid "Enter Content here."
+msgstr "أدخل المحتوى هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:682
+msgid "select content color with this color picker"
+msgstr "اختيار اللون المحتوى مع هذا منتقي الألوان"
+
+#: ../assets/frontend/translate/cs-strings.php:683
+msgid "Define call to action background color with this color picker"
+msgstr "تعريف الدعوة إلى لون عمل الخلفية مع هذا منتقي الألوان"
+
+#: ../assets/frontend/translate/cs-strings.php:684
+msgid "Button Text Color"
+msgstr "زر لون الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:687
+msgid "Give the name of the quote author"
+msgstr "إعطاء اسم المؤلف اقتبس"
+
+#: ../assets/frontend/translate/cs-strings.php:688
+msgid "Quote"
+msgstr "اقتبس"
+
+#: ../assets/frontend/translate/cs-strings.php:689
+msgid "Blockquote OPTIONS"
+msgstr "OPTIONS BLOCKQUOTE"
+
+#: ../assets/frontend/translate/cs-strings.php:691
+msgid "Dropcap OPTIONS"
+msgstr "OPTIONS Dropcap"
+
+#: ../assets/frontend/translate/cs-strings.php:698
+msgid "Author Url"
+msgstr "الكاتب رابط"
+
+#: ../assets/frontend/translate/cs-strings.php:699
+msgid "Give the URL of author profile external/internal"
+msgstr "إعطاء URL من الملف الشخصي للمؤلف خارجية / داخلية"
+
+#: ../assets/frontend/translate/cs-strings.php:702
+msgid "Button Border Color"
+msgstr "زر لون الحدود"
+
+#: ../assets/frontend/translate/cs-strings.php:703
+msgid "Select Button Border color"
+msgstr "اختر زر لون الحدود"
+
+#: ../assets/frontend/translate/cs-strings.php:705 ..
+#: assets/frontend/translate/cs-strings.php:1102
+msgid "Button Background Color"
+msgstr "اللون زر الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:706
+msgid "Select Button Background color"
+msgstr "اختر زر لون الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:710
+msgid "Set the button color for your call to action."
+msgstr "تعيين لون الزر لدعوتكم الى العمل."
+
+#: ../assets/frontend/translate/cs-strings.php:711 ..
+#: assets/frontend/translate/cs-strings.php:1098
+msgid "Button Text"
+msgstr "زر كتابة"
+
+#: ../assets/frontend/translate/cs-strings.php:712
+msgid "Enter text of the button."
+msgstr "أدخل النص من الزر."
+
+#: ../assets/frontend/translate/cs-strings.php:713 ..
+#: assets/frontend/translate/cs-strings.php:1096
+msgid "Button Link"
+msgstr "زر لينك"
+
+#: ../assets/frontend/translate/cs-strings.php:714
+msgid "Enter button link here."
+msgstr "أدخل صلة زر هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:715
+msgid "Text Align"
+msgstr "محاذاة النص"
+
+#: ../assets/frontend/translate/cs-strings.php:716
+msgid "Center Align"
+msgstr "مركز محاذاة"
+
+#: ../assets/frontend/translate/cs-strings.php:717
+msgid "Left Align"
+msgstr "اليسار محاذاة"
+
+#: ../assets/frontend/translate/cs-strings.php:718
+msgid "Right Align"
+msgstr "محاذاة إلى اليمين"
+
+#: ../assets/frontend/translate/cs-strings.php:719
+msgid "Custom Id"
+msgstr "رقم مخصص"
+
+#: ../assets/frontend/translate/cs-strings.php:720
+msgid "Use this option if you want to use specified id for this element."
+msgstr "استخدم هذا الخيار إذا كنت تريد استخدام معرف المحدد لهذا العنصر."
+
+#: ../assets/frontend/translate/cs-strings.php:721
+msgid "Call To Action"
+msgstr "دعوة للعمل"
+
+#: ../assets/frontend/translate/cs-strings.php:722
+msgid "Image Position"
+msgstr "صورة الوظيفة"
+
+#: ../assets/frontend/translate/cs-strings.php:723
+msgid "Clients Options"
+msgstr "خيارات العملاء"
+
+#: ../assets/frontend/translate/cs-strings.php:724
+msgid "Element title"
+msgstr "عنوان العنصر"
+
+#: ../assets/frontend/translate/cs-strings.php:726
+msgid "Per Slide"
+msgstr "لكل الشرائح"
+
+#: ../assets/frontend/translate/cs-strings.php:727
+msgid "Enter the number of images to be shown for a row"
+msgstr "أدخل عدد من الصور ليتم عرضها لصف"
+
+#: ../assets/frontend/translate/cs-strings.php:728
+msgid "Client Style"
+msgstr "نمط العميل"
+
+#: ../assets/frontend/translate/cs-strings.php:729
+msgid "Select the style for clients logos"
+msgstr "حدد نمط الشعارات عملاء"
+
+#: ../assets/frontend/translate/cs-strings.php:730
+msgid "Client Url"
+msgstr "رابط العميل"
+
+#: ../assets/frontend/translate/cs-strings.php:731
+msgid "Enter Url for Client logo"
+msgstr "أدخل رابط لشعار العميل"
+
+#: ../assets/frontend/translate/cs-strings.php:732
+msgid "Client Image"
+msgstr "صورة العميل"
+
+#: ../assets/frontend/translate/cs-strings.php:733
+msgid "Enter The Image for Client"
+msgstr "ادخل صورة لعميل"
+
+#: ../assets/frontend/translate/cs-strings.php:734
+msgid "Add Client"
+msgstr "إضافة العميل"
+
+#: ../assets/frontend/translate/cs-strings.php:736
+msgid "Slider"
+msgstr "المتزلج"
+
+#: ../assets/frontend/translate/cs-strings.php:738
+msgid "Accordion"
+msgstr "أكورديون"
+
+#: ../assets/frontend/translate/cs-strings.php:739
+msgid "Add your title here"
+msgstr "إضافة العنوان الخاص بك هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:743
+msgid "Faq Style"
+msgstr "أسئلة وأجوبة ستايل"
+
+#: ../assets/frontend/translate/cs-strings.php:744 ..
+#: assets/frontend/translate/cs-strings.php:746 ../assets/frontend/translate/cs-
+#: strings.php:1050
+msgid "View"
+msgstr "رأي"
+
+#: ../assets/frontend/translate/cs-strings.php:745
+msgid "select view for accordion"
+msgstr "حدد عرض لالأكورديون"
+
+#: ../assets/frontend/translate/cs-strings.php:747
+msgid "select view for faq"
+msgstr "حدد عرض للأسئلة وأجوبة"
+
+#: ../assets/frontend/translate/cs-strings.php:748
+msgid "select icon for faq"
+msgstr "حدد رمز للأسئلة وأجوبة"
+
+#: ../assets/frontend/translate/cs-strings.php:749
+msgid "Edit Tabs options"
+msgstr "خيارات تحرير علامات التبويب"
+
+#: ../assets/frontend/translate/cs-strings.php:750
+msgid "Margin Left"
+msgstr "هامش اليسار"
+
+#: ../assets/frontend/translate/cs-strings.php:751
+msgid "Margin Right"
+msgstr "الهامش الأيمن"
+
+#: ../assets/frontend/translate/cs-strings.php:752
+msgid "Enter margin left without px"
+msgstr "أدخل الهامش الأيسر دون بكسل"
+
+#: ../assets/frontend/translate/cs-strings.php:753
+msgid "Enter margin right without px"
+msgstr "أدخل الهامش الأيمن دون بكسل"
+
+#: ../assets/frontend/translate/cs-strings.php:754
+msgid "Enter Sub Title Here"
+msgstr "أدخل العنوان الفرعي هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:755
+msgid "Accordion Options"
+msgstr "خيارات الأكورديون"
+
+#: ../assets/frontend/translate/cs-strings.php:756
+msgid "Faq Options"
+msgstr "خيارات أسئلة وأجوبة"
+
+#: ../assets/frontend/translate/cs-strings.php:757
+msgid "Columns"
+msgstr "الأعمدة"
+
+#: ../assets/frontend/translate/cs-strings.php:758
+msgid "Select No Of Columns"
+msgstr "حدد عدد الأعمدة"
+
+#: ../assets/frontend/translate/cs-strings.php:759 ..
+#: assets/frontend/translate/cs-strings.php:824
+msgid "Active"
+msgstr "نشط"
+
+#: ../assets/frontend/translate/cs-strings.php:760
+msgid ""
+"You can set the accordian section that is open by default on frontend by "
+"select dropdown"
+msgstr ""
+"يمكنك تعيين قسم accordian مفتوح بشكل افتراضي على الواجهة قبل اختيار القائمة "
+"المنسدلة"
+
+#: ../assets/frontend/translate/cs-strings.php:761
+msgid ""
+"You can set the faq section that is open by default on frontend by select "
+"dropdown"
+msgstr ""
+"يمكنك تعيين قسم الأسئلة التي هي مفتوحة بشكل افتراضي على الواجهة قبل اختيار "
+"القائمة المنسدلة"
+
+#: ../assets/frontend/translate/cs-strings.php:763
+msgid "enter title for your accordion"
+msgstr "أدخل عنوان الأكورديون الخاص بك"
+
+#: ../assets/frontend/translate/cs-strings.php:764
+msgid "enter title for your faq"
+msgstr "أدخل عنوان التعليمات الخاصة بك"
+
+#: ../assets/frontend/translate/cs-strings.php:765
+msgid "Q."
+msgstr "س:"
+
+#: ../assets/frontend/translate/cs-strings.php:767
+msgid "Enter content for acordion"
+msgstr "أدخل محتوى acordion"
+
+#: ../assets/frontend/translate/cs-strings.php:768
+msgid "Enter content for faq"
+msgstr "إدخال المحتوى للأسئلة وأجوبة"
+
+#: ../assets/frontend/translate/cs-strings.php:769
+msgid "Add Accordion"
+msgstr "إضافة الأكورديون"
+
+#: ../assets/frontend/translate/cs-strings.php:770
+msgid "Add Faq"
+msgstr "إضافة أسئلة وأجوبة"
+
+#: ../assets/frontend/translate/cs-strings.php:771 ..
+#: assets/frontend/translate/cs-strings.php:993
+msgid "One Column"
+msgstr "عمود واحد"
+
+#: ../assets/frontend/translate/cs-strings.php:772 ..
+#: assets/frontend/translate/cs-strings.php:994
+msgid "Two Column"
+msgstr "اثنين من العمود"
+
+#: ../assets/frontend/translate/cs-strings.php:773 ..
+#: assets/frontend/translate/cs-strings.php:995
+msgid "Three Column"
+msgstr "ثلاثة العمود"
+
+#: ../assets/frontend/translate/cs-strings.php:774 ..
+#: assets/frontend/translate/cs-strings.php:996
+msgid "Four Column"
+msgstr "أربعة العمود"
+
+#: ../assets/frontend/translate/cs-strings.php:775 ..
+#: assets/frontend/translate/cs-strings.php:997
+msgid "Six Column"
+msgstr "ستة العمود"
+
+#: ../assets/frontend/translate/cs-strings.php:776
+msgid "Columns Options"
+msgstr "خيارات الأعمدة"
+
+#: ../assets/frontend/translate/cs-strings.php:780
+msgid "Enter content of the column"
+msgstr "إدخال المحتوى من العمود"
+
+#: ../assets/frontend/translate/cs-strings.php:781
+msgid "Top Padding"
+msgstr "كبار الحشو"
+
+#: ../assets/frontend/translate/cs-strings.php:782
+msgid "Enter padding top without px."
+msgstr "أدخل الحشو أعلى دون بكسل."
+
+#: ../assets/frontend/translate/cs-strings.php:783
+msgid "Bottom Padding"
+msgstr "الحشو السفلي"
+
+#: ../assets/frontend/translate/cs-strings.php:784
+msgid "Enter padding bottom without px."
+msgstr "أدخل الحشو أسفل دون بكسل."
+
+#: ../assets/frontend/translate/cs-strings.php:785
+msgid "Left Padding"
+msgstr "اليسار الحشو"
+
+#: ../assets/frontend/translate/cs-strings.php:786
+msgid "Enter padding left without px."
+msgstr "أدخل الحشو تركت دون بكسل."
+
+#: ../assets/frontend/translate/cs-strings.php:787
+msgid "Right Padding"
+msgstr "الحشو الصحيح"
+
+#: ../assets/frontend/translate/cs-strings.php:788
+msgid "Enter padding right without px."
+msgstr "أدخل الحشو الحق دون بكسل."
+
+#: ../assets/frontend/translate/cs-strings.php:789
+msgid "Background Image"
+msgstr "الصورة الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:790
+msgid "Select Image for column background."
+msgstr "اختر صورة لخلفية العمود."
+
+#: ../assets/frontend/translate/cs-strings.php:791
+msgid "Element Title Color"
+msgstr "عنصر لون العنوان"
+
+#: ../assets/frontend/translate/cs-strings.php:792
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:793
+msgid "Contact Form Options"
+msgstr "الاتصال خيارات النموذج"
+
+#: ../assets/frontend/translate/cs-strings.php:794
+msgid "Schedule Form Options"
+msgstr "خيارات نموذج الجدول"
+
+#: ../assets/frontend/translate/cs-strings.php:795
+msgid "Best time"
+msgstr "أفضل وقت"
+
+#: ../assets/frontend/translate/cs-strings.php:796
+msgid "Request a service"
+msgstr "طلب خدمة"
+
+#: ../assets/frontend/translate/cs-strings.php:797
+msgid "Receiver Email"
+msgstr "البريد الإلكتروني المتلقي"
+
+#: ../assets/frontend/translate/cs-strings.php:798
+msgid "Schedule Services Hint Text"
+msgstr "جدول الخدمات تلميح النص"
+
+#: ../assets/frontend/translate/cs-strings.php:799
+msgid "This hint text will show right side of schedule button."
+msgstr "وهذا النص تلميح تظهر الجانب الأيمن من زر جدول."
+
+#: ../assets/frontend/translate/cs-strings.php:800
+msgid "Receiver, or receivers of the mail."
+msgstr "المتلقي، أو استقبال البريد."
+
+#: ../assets/frontend/translate/cs-strings.php:801
+msgid "Success Message"
+msgstr "نجاح رسالة"
+
+#: ../assets/frontend/translate/cs-strings.php:802
+msgid "Enter Mail Successfully Send Message."
+msgstr "أدخل البريد بنجاح إرسال رسالة."
+
+#: ../assets/frontend/translate/cs-strings.php:803
+msgid "Error Message"
+msgstr "رسالة خطأ"
+
+#: ../assets/frontend/translate/cs-strings.php:804
+msgid "Enter Error Message In any case Mail Not Submited."
+msgstr "أدخل رسالة خطأ على أية حال الإلكتروني غير مرسلة."
+
+#: ../assets/frontend/translate/cs-strings.php:805
+msgid "Contact Us"
+msgstr "اتصل بنا"
+
+#: ../assets/frontend/translate/cs-strings.php:806
+msgid "Full Name"
+msgstr "الاسم الكامل"
+
+#: ../assets/frontend/translate/cs-strings.php:807
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+#: ../assets/frontend/translate/cs-strings.php:808
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: ../assets/frontend/translate/cs-strings.php:809
+msgid "Make/Model"
+msgstr "الموديل /"
+
+#: ../assets/frontend/translate/cs-strings.php:810
+msgid "Mileage (optional)"
+msgstr "العداد (اختياري)"
+
+#: ../assets/frontend/translate/cs-strings.php:811
+msgid "Subscribe and Get latest updates and offers by Email"
+msgstr "الاشتراك والحصول على آخر التحديثات والعروض عن طريق البريد الإلكتروني"
+
+#: ../assets/frontend/translate/cs-strings.php:812
+msgid ""
+"I am interested in a price quote on this vehicle. Please contact me at you "
+"earliest convenience with your best price for this vehicle"
+msgstr ""
+"أنا مهتم في سعر اقتبس هذه السيارة. الرجاء الاتصال بي في أقرب وقت ممكن لكم مع "
+"أفضل الأسعار لهذه السيارة"
+
+#: ../assets/frontend/translate/cs-strings.php:813
+msgid "Contact Dealer"
+msgstr "الاتصال بالبائع"
+
+#: ../assets/frontend/translate/cs-strings.php:814
+msgid "*ERROR: please fill the required fields."
+msgstr "* خطأ: الرجاء تعبئة الحقول المطلوبة."
+
+#: ../assets/frontend/translate/cs-strings.php:815
+msgid "Email has been sent Successfully"
+msgstr "تم ارسال البريد الالكتروني بنجاح"
+
+#: ../assets/frontend/translate/cs-strings.php:816
+msgid "An error Occured, please try again later"
+msgstr "حدث خطأ، يرجى المحاولة مرة أخرى في وقت لاحق"
+
+#: ../assets/frontend/translate/cs-strings.php:817
+msgid "IP Address:"
+msgstr "عنوان بروتوكول الإنترنت:"
+
+#: ../assets/frontend/translate/cs-strings.php:818
+msgid "Contact Form Received"
+msgstr "نموذج الاتصال إعجاب"
+
+#: ../assets/frontend/translate/cs-strings.php:819
+msgid "Tabs Options"
+msgstr "خيارات علامات التبويب"
+
+#: ../assets/frontend/translate/cs-strings.php:820
+msgid "Tab Style"
+msgstr "علامة التبويب نمط"
+
+#: ../assets/frontend/translate/cs-strings.php:821
+msgid "Vertical"
+msgstr "عمودي"
+
+#: ../assets/frontend/translate/cs-strings.php:822
+msgid "Horizontal"
+msgstr "أفقي"
+
+#: ../assets/frontend/translate/cs-strings.php:823
+msgid "Select your tabs style"
+msgstr "تحديد نمط علامات التبويب"
+
+#: ../assets/frontend/translate/cs-strings.php:825
+msgid ""
+"You can set the tab section that is open by default on frontend by select "
+"dropdown"
+msgstr ""
+"يمكنك تعيين القسم التبويب مفتوح بشكل افتراضي على الواجهة قبل اختيار القائمة "
+"المنسدلة"
+
+#: ../assets/frontend/translate/cs-strings.php:826
+msgid "Tab Title"
+msgstr "علامة التبويب عنوان"
+
+#: ../assets/frontend/translate/cs-strings.php:827
+msgid "Enter tab title here."
+msgstr "أدخل عنوان التبويب هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:829
+msgid "Enter the tab content here."
+msgstr "أدخل محتوى التبويب هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:832
+msgid "Tab"
+msgstr "علامة التبويب"
+
+#: ../assets/frontend/translate/cs-strings.php:834
+msgid "Tab Icon"
+msgstr "علامة التبويب أيقونة"
+
+#: ../assets/frontend/translate/cs-strings.php:835
+msgid "Add Tab"
+msgstr "إضافة علامة تبويب"
+
+#: ../assets/frontend/translate/cs-strings.php:836
+msgid "Select the Icons you would like to show with your Tabs ."
+msgstr "حدد الرموز التي تريد أن تظهر مع علامات التبويب الخاصة بك."
+
+#: ../assets/frontend/translate/cs-strings.php:837
+msgid "Map"
+msgstr "رسم خريطة"
+
+#: ../assets/frontend/translate/cs-strings.php:838
+msgid "Map Options"
+msgstr "خيارات الخريطة"
+
+#: ../assets/frontend/translate/cs-strings.php:839 ..
+#: assets/frontend/translate/cs-strings.php:1069
+msgid "Height"
+msgstr "ارتفاع"
+
+#: ../assets/frontend/translate/cs-strings.php:840
+msgid "Map height set here"
+msgstr "ارتفاع خريطة تحدد هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:841
+msgid "Latitude"
+msgstr "خط العرض"
+
+#: ../assets/frontend/translate/cs-strings.php:842
+msgid ""
+"Latitude is the angular distance of a place north or south of the earths "
+"equator, or of the equator of a celestial object, usually expressed in "
+"degrees and minutes."
+msgstr ""
+"خط العرض هي المسافة الزاوية من مكان الشمال أو الجنوب من خط الاستواء الأرضية، "
+"أو من خط الاستواء لكائن سماوي، أعرب عادة بالدرجات والدقائق."
+
+#: ../assets/frontend/translate/cs-strings.php:843
+msgid "Longitude"
+msgstr "خط الطول"
+
+#: ../assets/frontend/translate/cs-strings.php:844
+msgid ""
+"Longitude the angular distance of a place east or west of the Greenwich "
+"meridian, or west of the standard meridian of a celestial object, usually "
+"expressed in degrees and minutes."
+msgstr ""
+"خط الطول المسافة الزاوية من مكان الشرق أو الغرب من خط الطول غرينتش، أو الغرب "
+"من خط الطول القياسي لكائن سماوي، عادة التعبير عنها في درجة ودقيقة."
+
+#: ../assets/frontend/translate/cs-strings.php:845
+msgid "Zoom"
+msgstr "زوم"
+
+#: ../assets/frontend/translate/cs-strings.php:846
+msgid "Set map zoom level example 10 or leave it empty by deafult will be apply."
+msgstr ""
+"مجموعة خريطة مستوى التكبير سبيل المثال 10 أو تركها فارغة كتبها سيتم تطبيق "
+"deafult."
+
+#: ../assets/frontend/translate/cs-strings.php:847
+msgid "Map Types"
+msgstr "أنواع خريطة"
+
+#: ../assets/frontend/translate/cs-strings.php:848
+msgid "Choose map type with this dropdown"
+msgstr "اختر نوع خريطة مع هذه القائمة المنسدلة"
+
+#: ../assets/frontend/translate/cs-strings.php:849
+msgid "ROADMAP"
+msgstr "خريطة الطريق"
+
+#: ../assets/frontend/translate/cs-strings.php:850
+msgid "HYBRID"
+msgstr "HYBRID"
+
+#: ../assets/frontend/translate/cs-strings.php:851
+msgid "SATELLITE"
+msgstr "الأقمار الصناعية"
+
+#: ../assets/frontend/translate/cs-strings.php:852
+msgid "TERRAIN"
+msgstr "تضاريس"
+
+#: ../assets/frontend/translate/cs-strings.php:853
+msgid "Info Text"
+msgstr "معلومات النص"
+
+#: ../assets/frontend/translate/cs-strings.php:854
+msgid "Enter info text for marker."
+msgstr "أدخل معلومات النص للعلامة."
+
+#: ../assets/frontend/translate/cs-strings.php:855
+msgid "Info Text Width"
+msgstr "معلومات عرض النص"
+
+#: ../assets/frontend/translate/cs-strings.php:856
+msgid "Set info text max width here."
+msgstr "تعيين معلومات نص العرض كحد أقصى هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:857
+msgid "Info Text Height"
+msgstr "معلومات الطول نص"
+
+#: ../assets/frontend/translate/cs-strings.php:858
+msgid "Set info text max height here."
+msgstr "تعيين معلومات النص أقصى ارتفاع هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:859
+msgid "Marker Icon"
+msgstr "علامة الرمز"
+
+#: ../assets/frontend/translate/cs-strings.php:860
+msgid "Select the Marker Icon Path for element."
+msgstr "حدد مسار ماركر أيقونة للعنصر."
+
+#: ../assets/frontend/translate/cs-strings.php:861
+msgid "Show Marker"
+msgstr "مشاهدة ماركر"
+
+#: ../assets/frontend/translate/cs-strings.php:862
+msgid "This switch on/off marker from the map."
+msgstr "هذا التبديل على / قبالة علامة من على الخريطة."
+
+#: ../assets/frontend/translate/cs-strings.php:863
+msgid "On"
+msgstr "على"
+
+#: ../assets/frontend/translate/cs-strings.php:864
+msgid "Off"
+msgstr "إيقاف"
+
+#: ../assets/frontend/translate/cs-strings.php:865
+msgid "Disable Controls"
+msgstr "الضوابط تعطيل"
+
+#: ../assets/frontend/translate/cs-strings.php:866
+msgid "Map control disable/enable with this dropdown."
+msgstr "السيطرة خريطة تعطيل / تمكين مع هذه القائمة المنسدلة."
+
+#: ../assets/frontend/translate/cs-strings.php:867
+msgid "Draggable"
+msgstr "قابل للسحب"
+
+#: ../assets/frontend/translate/cs-strings.php:868
+msgid "Draggable On/Off in map."
+msgstr "قابل للسحب تشغيل / إيقاف في خريطة."
+
+#: ../assets/frontend/translate/cs-strings.php:869
+msgid "Scroll Wheel"
+msgstr "العجلة الدوارة"
+
+#: ../assets/frontend/translate/cs-strings.php:870
+msgid "Set Scroll wheel zoom in zoom out enable disable from this dropdown."
+msgstr "ضبط التكبير عجلة التمرير في التصغير تمكين تعطيل من هذه القائمة المنسدلة."
+
+#: ../assets/frontend/translate/cs-strings.php:871
+msgid "Border"
+msgstr "الحدود"
+
+#: ../assets/frontend/translate/cs-strings.php:872
+msgid "Set border for map"
+msgstr "الحدود الموضوعة لخريطة"
+
+#: ../assets/frontend/translate/cs-strings.php:873 ..
+#: assets/frontend/translate/cs-strings.php:887
+msgid "Border Color"
+msgstr "اللون الحدود"
+
+#: ../assets/frontend/translate/cs-strings.php:874
+msgid "Choose map border color."
+msgstr "اختيار خريطة ملونة الحدود."
+
+#: ../assets/frontend/translate/cs-strings.php:875
+msgid "Buttons Options"
+msgstr "خيارات أزرار"
+
+#: ../assets/frontend/translate/cs-strings.php:876
+msgid "Label"
+msgstr "ملصق"
+
+#: ../assets/frontend/translate/cs-strings.php:877
+msgid "Add button text here"
+msgstr "إضافة نص الزر هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:878
+msgid "Link"
+msgstr "صلة"
+
+#: ../assets/frontend/translate/cs-strings.php:879
+msgid "Enter button link/url here"
+msgstr "أدخل صلة زر / رابط هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:880
+msgid "Button Padding Top "
+msgstr "زر الحشو الأعلى "
+
+#: ../assets/frontend/translate/cs-strings.php:881
+msgid "Enter button top padding for Button"
+msgstr "أدخل زر أعلى الحشو لزر"
+
+#: ../assets/frontend/translate/cs-strings.php:882
+msgid "Button Padding Bottom "
+msgstr "زر الحشو القاع "
+
+#: ../assets/frontend/translate/cs-strings.php:883
+msgid "Enter button bottom padding "
+msgstr "أدخل زر أسفل الحشو "
+
+#: ../assets/frontend/translate/cs-strings.php:884
+msgid "Button Padding Left "
+msgstr "زر حشوة اليسار "
+
+#: ../assets/frontend/translate/cs-strings.php:885
+msgid "Enter button Left padding "
+msgstr "أدخل الزر الأيسر الحشو "
+
+#: ../assets/frontend/translate/cs-strings.php:886
+msgid "Lable Color "
+msgstr "اللون علامة مميزة "
+
+#: ../assets/frontend/translate/cs-strings.php:888
+msgid "Define button border color with this color picker."
+msgstr "تحديد لون الحدود زر مع هذا منتقي الألوان."
+
+#: ../assets/frontend/translate/cs-strings.php:889
+msgid "Define button text color with this color picker."
+msgstr "تحديد زر لون النص مع هذا منتقي الألوان."
+
+#: ../assets/frontend/translate/cs-strings.php:890
+msgid "Button Padding Right "
+msgstr "زر الحشو اليمين "
+
+#: ../assets/frontend/translate/cs-strings.php:891
+msgid "Enter button padding Right "
+msgstr "أدخل زر الحشو اليمين "
+
+#: ../assets/frontend/translate/cs-strings.php:892
+msgid "Enable Border "
+msgstr "تمكين الحدود "
+
+#: ../assets/frontend/translate/cs-strings.php:893
+msgid "Enable/Disable button border with this drop down."
+msgstr "تمكين / الحدود زر تعطيل مع هذا المنسدلة."
+
+#: ../assets/frontend/translate/cs-strings.php:894
+msgid "Type "
+msgstr "اكتب "
+
+#: ../assets/frontend/translate/cs-strings.php:895
+msgid ""
+"Select button type with this dropdown two button types avaiable rounded and "
+"square"
+msgstr "حدد نوع زر مع هذه القائمة المنسدلة أنواع زر اثنين افايابلي تقريب ومربع"
+
+#: ../assets/frontend/translate/cs-strings.php:896
+msgid "Square "
+msgstr "مربع "
+
+#: ../assets/frontend/translate/cs-strings.php:897
+msgid "Rounded "
+msgstr "مدور "
+
+#: ../assets/frontend/translate/cs-strings.php:898
+msgid "Background Color "
+msgstr "لون الخلفية "
+
+#: ../assets/frontend/translate/cs-strings.php:899
+msgid "Define button border color with this color picker"
+msgstr "تحديد لون الحدود زر مع هذا منتقي الألوان"
+
+#: ../assets/frontend/translate/cs-strings.php:901
+msgid "Icon ON/OFF"
+msgstr "أيقونة ON / OFF"
+
+#: ../assets/frontend/translate/cs-strings.php:902
+msgid "Set button icon on/off from this dropdown"
+msgstr "تعيين رمز زر على من هذه القائمة المنسدلة / إيقاف"
+
+#: ../assets/frontend/translate/cs-strings.php:907
+msgid "Select the Icons you would like to show in your button."
+msgstr "حدد الرموز التي تريد أن تظهر في الزر الخاص بك."
+
+#: ../assets/frontend/translate/cs-strings.php:908
+msgid "Select button size.Three sizes avaiable Large, Medium and Small"
+msgstr "حدد زر أحجام size.Three افايابلي الكبيرة والمتوسطة والصغيرة"
+
+#: ../assets/frontend/translate/cs-strings.php:909
+msgid "Icon Position "
+msgstr "رمز الوظيفة "
+
+#: ../assets/frontend/translate/cs-strings.php:910
+msgid "Select button icon position with this dropdown"
+msgstr "حدد زر رمز موقف بهذا المنسدلة"
+
+#: ../assets/frontend/translate/cs-strings.php:913
+msgid "Open link"
+msgstr "افتح الرابط"
+
+#: ../assets/frontend/translate/cs-strings.php:914
+msgid "Select target type"
+msgstr "حدد نوع الهدف"
+
+#: ../assets/frontend/translate/cs-strings.php:915
+msgid "In same tab"
+msgstr "في نفس التبويب"
+
+#: ../assets/frontend/translate/cs-strings.php:916
+msgid "In new tab"
+msgstr "في علامة تبويب جديدة"
+
+#: ../assets/frontend/translate/cs-strings.php:917
+msgid "Image Frame Options"
+msgstr "خيارات الصورة الإطار"
+
+#: ../assets/frontend/translate/cs-strings.php:919
+msgid "Enter element title here"
+msgstr "أدخل عنوان العنصر هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:920
+msgid "Image Title"
+msgstr "عنوان الصورة"
+
+#: ../assets/frontend/translate/cs-strings.php:921
+msgid "Enter image title."
+msgstr "أدخل عنوان الصورة."
+
+#: ../assets/frontend/translate/cs-strings.php:922
+msgid "Select Image "
+msgstr "اختر صورة "
+
+#: ../assets/frontend/translate/cs-strings.php:923
+msgid "Select image from media gallery with this button."
+msgstr "اختر صورة من معرض وسائل الاعلام مع هذا الزر."
+
+#: ../assets/frontend/translate/cs-strings.php:924
+msgid "Caption"
+msgstr "شرح"
+
+#: ../assets/frontend/translate/cs-strings.php:925
+msgid "Enter caption text"
+msgstr "أدخل نص التعليق"
+
+#: ../assets/frontend/translate/cs-strings.php:927
+msgid "Image Description"
+msgstr "وصف الصورة"
+
+#: ../assets/frontend/translate/cs-strings.php:928
+msgid "If you would like a caption to be shown below the image, add it here."
+msgstr "إذا كنت ترغب في الحصول على شرح ليتم عرضها أسفل الصورة، إضافته هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:931
+msgid "Enter your title here."
+msgstr "أدخل العنوان الخاص بك هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:932
+msgid "Sub title"
+msgstr "العنوان الفرعي"
+
+#: ../assets/frontend/translate/cs-strings.php:933
+msgid "Enter your sub title here."
+msgstr "أدخل عنوان الفرعي الخاص بك هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:934 ..
+#: assets/frontend/translate/cs-strings.php:1053
+msgid "Text Color"
+msgstr "لون الخط"
+
+#: ../assets/frontend/translate/cs-strings.php:935 ..
+#: assets/frontend/translate/cs-strings.php:1054
+msgid "Set text color here"
+msgstr "تعيين لون النص هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:937
+msgid "Author Color"
+msgstr "الكاتب اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:938
+msgid "Position Color"
+msgstr "موقف اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:939
+msgid "Enter testimonial content here."
+msgstr "إدخال المحتوى بالشهادة هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:940 ..
+#: assets/frontend/translate/cs-strings.php:1238
+msgid "Author"
+msgstr "مؤلف"
+
+#: ../assets/frontend/translate/cs-strings.php:941
+msgid "Enter testimonial author name here."
+msgstr "أدخل اسم المؤلف شهادات الشهود هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:942
+msgid "Position"
+msgstr "موضع"
+
+#: ../assets/frontend/translate/cs-strings.php:943
+msgid "Enter position of author here."
+msgstr "أدخل موقف المؤلف هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:945
+msgid "Set author image from media gallery."
+msgstr "تعيين صورة والمؤلف من معرض وسائل الإعلام."
+
+#: ../assets/frontend/translate/cs-strings.php:946
+msgid "Testimonial"
+msgstr "شهادة"
+
+#: ../assets/frontend/translate/cs-strings.php:947
+msgid "Add Testimonial"
+msgstr "إضافة التزكية"
+
+#: ../assets/frontend/translate/cs-strings.php:948
+msgid "Testimonial options"
+msgstr "خيارات تكريمية"
+
+#: ../assets/frontend/translate/cs-strings.php:949
+msgid "Padding Left"
+msgstr "الحشو اليسار"
+
+#: ../assets/frontend/translate/cs-strings.php:950
+msgid "Set padding left for the divider in px."
+msgstr "مجموعة الحشو يقم للمقسم في مقصف."
+
+#: ../assets/frontend/translate/cs-strings.php:951
+msgid "Padding Right"
+msgstr "الحشو اليمين"
+
+#: ../assets/frontend/translate/cs-strings.php:952
+msgid "Set padding right for the divider in px."
+msgstr "مجموعة حق الحشو لالمفرق في مقصف."
+
+#: ../assets/frontend/translate/cs-strings.php:954
+msgid "Set margin top for the divider in px."
+msgstr "مجموعة أعلى هامش للمقسم في مقصف."
+
+#: ../assets/frontend/translate/cs-strings.php:956
+msgid "Set margin bottom for the divider in px."
+msgstr "تعيين الهامش السفلي للمقسم في مقصف."
+
+#: ../assets/frontend/translate/cs-strings.php:957 ..
+#: assets/frontend/translate/cs-strings.php:982
+msgid "Align"
+msgstr "محاذاة"
+
+#: ../assets/frontend/translate/cs-strings.php:958
+msgid "Select Alignment Of Divider"
+msgstr "اختر محاذاة المفرق"
+
+#: ../assets/frontend/translate/cs-strings.php:959
+msgid "Divider Options"
+msgstr "خيارات المفرق"
+
+#: ../assets/frontend/translate/cs-strings.php:960
+msgid "Blog Options"
+msgstr "خيارات بلوق"
+
+#: ../assets/frontend/translate/cs-strings.php:961
+msgid "Enter your blog section title here."
+msgstr "أدخل عنوان الباب بلوق الخاص بك هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:962
+msgid ""
+"Select category to show posts. If you dont select category it will display "
+"all posts."
+msgstr "حدد فئة لإظهار وظيفة. إذا كنت لا اختيار فئة وأنه سيتم عرض جميع المشاركات."
+
+#: ../assets/frontend/translate/cs-strings.php:963
+msgid "Blog Design Views"
+msgstr "بلوق التصميم المشاهدات"
+
+#: ../assets/frontend/translate/cs-strings.php:964
+msgid "Select blog view from this drop down"
+msgstr "حدد عرض بلوق من هذا المنسدلة"
+
+#: ../assets/frontend/translate/cs-strings.php:965
+msgid "Grid"
+msgstr "شبكة"
+
+#: ../assets/frontend/translate/cs-strings.php:968
+msgid "Post Order"
+msgstr "مشاركة ترتيب"
+
+#: ../assets/frontend/translate/cs-strings.php:969
+msgid "Arranging posts in ascending order and descending order with this dropdown."
+msgstr "ترتيب المشاركات في ترتيب تصاعدي وتنازلي مع هذه القائمة المنسدلة."
+
+#: ../assets/frontend/translate/cs-strings.php:970
+msgid "ASC"
+msgstr "ASC"
+
+#: ../assets/frontend/translate/cs-strings.php:971
+msgid "DESC"
+msgstr "تنازلي"
+
+#: ../assets/frontend/translate/cs-strings.php:972
+msgid "Post Description"
+msgstr "آخر الوصف"
+
+#: ../assets/frontend/translate/cs-strings.php:973
+msgid "Show/Hide post description with this dropdown."
+msgstr "إظهار / إخفاء وصف آخر مع هذه القائمة المنسدلة."
+
+#: ../assets/frontend/translate/cs-strings.php:974
+msgid "Length of Excerpt"
+msgstr "طول مقتطف"
+
+#: ../assets/frontend/translate/cs-strings.php:975
+msgid "Add number of excerpt words here for display on blog listing."
+msgstr "إضافة عدد من الكلمات مقتطفات هنا للعرض على بلوق الإدراج."
+
+#: ../assets/frontend/translate/cs-strings.php:976
+msgid "No. of Post Per Page"
+msgstr "رقم البريد لكل صفحة"
+
+#: ../assets/frontend/translate/cs-strings.php:977
+msgid "Add number of post for show posts on page."
+msgstr "إضافة عدد آخر للوظائف تظهر على الصفحة."
+
+#: ../assets/frontend/translate/cs-strings.php:978
+msgid "Pagination"
+msgstr "ترقيم الصفحات"
+
+#: ../assets/frontend/translate/cs-strings.php:979
+msgid ""
+"Pagination is the process of dividing a document into discrete pages. Manage "
+"your pagiantion via this dropdown."
+msgstr ""
+"ترقيم الصفحات هو عملية تقسيم مستند إلى صفحات منفصلة. إدارة pagiantion الخاص "
+"بك عن طريق هذه القائمة المنسدلة."
+
+#: ../assets/frontend/translate/cs-strings.php:980 ..
+#: assets/frontend/translate/cs-strings.php:1148
+msgid "Show Pagination"
+msgstr "مشاهدة ترقيم الصفحات"
+
+#: ../assets/frontend/translate/cs-strings.php:981
+msgid "Single Page"
+msgstr "صفحة وحيدة"
+
+#: ../assets/frontend/translate/cs-strings.php:983
+msgid "Add Icon Box"
+msgstr "إضافة أيقونة صندوق"
+
+#: ../assets/frontend/translate/cs-strings.php:985
+msgid "Icon Box"
+msgstr "رمز مربع"
+
+#: ../assets/frontend/translate/cs-strings.php:986
+msgid "Edit Multi icon Box options"
+msgstr "تعديل خيارات متعددة رمز صندوق"
+
+#: ../assets/frontend/translate/cs-strings.php:988
+msgid "Enter your  title here"
+msgstr "أدخل العنوان الخاص بك هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:990
+msgid "Enter sub title here."
+msgstr "أدخل العنوان الفرعي هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:992
+msgid "Select number of columns"
+msgstr "حدد عدد الأعمدة"
+
+#: ../assets/frontend/translate/cs-strings.php:998
+msgid "Content Title"
+msgstr "المحتوى عنوان"
+
+#: ../assets/frontend/translate/cs-strings.php:999
+msgid "Add icon Box title here.."
+msgstr "إضافة عنوان صندوق رمز هنا .."
+
+#: ../assets/frontend/translate/cs-strings.php:1001
+msgid "Icon Box Title"
+msgstr "رمز عنوان مربع"
+
+#: ../assets/frontend/translate/cs-strings.php:1002
+msgid "Add icon box title here."
+msgstr "إضافة رمز عنوان مربع هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:1005
+msgid "e.g. http://yourdomain.com/."
+msgstr "على سبيل المثال http://yourdomain.com/."
+
+#: ../assets/frontend/translate/cs-strings.php:1006
+msgid "Content title Color"
+msgstr "المحتوى عنوان اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:1007
+msgid ""
+"Provide a hex colour code here (with #) for text color. if you want to "
+"override the default. "
+msgstr "توفير رمز اللون عرافة هنا (مع #) للون النص. إذا كنت ترغب في تجاوز الافتراضي. "
+
+#: ../assets/frontend/translate/cs-strings.php:1008
+msgid "Select the icon you would like to show with your icon box title."
+msgstr "حدد الرمز الذي نود أن تظهر مع العنوان مربع الرمز الخاص بك."
+
+#: ../assets/frontend/translate/cs-strings.php:1010
+msgid "Set the icon Box Background Color"
+msgstr "تعيين رمز صندوق لون الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:1011 ..
+#: assets/frontend/translate/cs-strings.php:1033
+msgid "Icon Box icon Color"
+msgstr "رمز رمز صندوق اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:1012
+msgid "Icon Box Icon"
+msgstr "رمز رمز مربع"
+
+#: ../assets/frontend/translate/cs-strings.php:1013 ..
+#: assets/frontend/translate/cs-strings.php:1034
+msgid "Set icon box icon color here."
+msgstr "فك رمز رمز اللون هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:1014 ..
+#: assets/frontend/translate/cs-strings.php:1038
+msgid "Icon Box Content"
+msgstr "رمز صندوق المحتوى"
+
+#: ../assets/frontend/translate/cs-strings.php:1015 ..
+#: assets/frontend/translate/cs-strings.php:1036 ../assets/frontend/translate/cs-
+#: strings.php:1039
+msgid "Enter icon box content here."
+msgstr "أدخل رمز المحتوى مربع هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:1016
+msgid "Element Title color"
+msgstr "عنصر لون العنوان"
+
+#: ../assets/frontend/translate/cs-strings.php:1017
+msgid ""
+"Provide a hex colour code here (with #) for element title color. if you want "
+"to override the default."
+msgstr ""
+"توفير رمز اللون عرافة هنا (مع #) للون عنوان العنصر. إذا كنت ترغب في تجاوز "
+"الافتراضي."
+
+#: ../assets/frontend/translate/cs-strings.php:1018
+msgid "Single icon Box Title Color"
+msgstr "رمز واحد عنوان مربع اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:1019
+msgid "Set Single icon Box title color from here."
+msgstr "تعيين رمز وحيد اللون عنوان صندوق من هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:1020 ..
+#: assets/frontend/translate/cs-strings.php:1079
+msgid "Styles"
+msgstr "الأنماط"
+
+#: ../assets/frontend/translate/cs-strings.php:1021
+msgid "Choose styles for icon box."
+msgstr "اختيار أنماط مربع رمز."
+
+#: ../assets/frontend/translate/cs-strings.php:1023
+msgid "Box"
+msgstr "صندوق"
+
+#: ../assets/frontend/translate/cs-strings.php:1024
+msgid "Alignment"
+msgstr "المحاذاة"
+
+#: ../assets/frontend/translate/cs-strings.php:1028
+msgid "Top Left"
+msgstr "أعلى اليسار"
+
+#: ../assets/frontend/translate/cs-strings.php:1029
+msgid "Top Right"
+msgstr "اعلى اليمين"
+
+#: ../assets/frontend/translate/cs-strings.php:1030
+msgid "Set the position of icon_box image here"
+msgstr "تعيين موضع الصورة icon_box هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:1031
+msgid "Single icon Box icon Color"
+msgstr "واحد رمز رمز صندوق اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:1032
+msgid ""
+"Provide a hex colour code here (with #) for icon color. if you want to "
+"override the default."
+msgstr "توفير رمز اللون عرافة هنا (مع #) للون رمز. إذا كنت ترغب في تجاوز الافتراضي."
+
+#: ../assets/frontend/translate/cs-strings.php:1037
+msgid "Add content here."
+msgstr "إضافة محتوى هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:1043
+msgid "Add Service"
+msgstr "إضافة خدمة"
+
+#: ../assets/frontend/translate/cs-strings.php:1046
+msgid "Tweets OPTIONS"
+msgstr "تغريدات OPTIONS"
+
+#: ../assets/frontend/translate/cs-strings.php:1048
+msgid "Twitter User Name"
+msgstr "اسم مستخدم التويتر"
+
+#: ../assets/frontend/translate/cs-strings.php:1049
+msgid "Enter your twitter user name here"
+msgstr "أدخل اسم المستخدم الخاص بك تغريد هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:1051
+msgid "Modren"
+msgstr "حديث"
+
+#: ../assets/frontend/translate/cs-strings.php:1055
+msgid "No of Tweets"
+msgstr "عدد تغريدات"
+
+#: ../assets/frontend/translate/cs-strings.php:1056
+msgid "Enter no of tweets here"
+msgstr "أدخل أي من تويت هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:1057
+msgid "Class"
+msgstr "صف مدرسي"
+
+#: ../assets/frontend/translate/cs-strings.php:1058
+msgid "Please enter valid Twitter API Keys"
+msgstr "الرجاء إدخال مفاتيح API تويتر صالحة"
+
+#: ../assets/frontend/translate/cs-strings.php:1059
+msgid "No Tweets Found"
+msgstr "لا تغريدات العثور"
+
+#: ../assets/frontend/translate/cs-strings.php:1064
+msgid "Enter text of the Title."
+msgstr "أدخل النص من العنوان."
+
+#: ../assets/frontend/translate/cs-strings.php:1065
+msgid "Video Url"
+msgstr "فيديو رابط"
+
+#: ../assets/frontend/translate/cs-strings.php:1066
+msgid "Enter url for the video here."
+msgstr "أدخل رابط للفيديو هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:1067
+msgid "Width"
+msgstr "عرض"
+
+#: ../assets/frontend/translate/cs-strings.php:1068
+msgid "Set video frame width here."
+msgstr "تعيين الفيديو عرض الإطار هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:1070
+msgid "Set video frame height here."
+msgstr "تعيين ارتفاع إطار الفيديو هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:1071
+msgid "Video Options"
+msgstr "خيارات الفيديو"
+
+#: ../assets/frontend/translate/cs-strings.php:1072
+msgid "Spacer Options"
+msgstr "خيارات فاصل"
+
+#: ../assets/frontend/translate/cs-strings.php:1073
+msgid "Spacer Height"
+msgstr "هل الطول"
+
+#: ../assets/frontend/translate/cs-strings.php:1074
+msgid "Set spacer height without(px)"
+msgstr "تعيين ارتفاع هل دون (بكسل)"
+
+#: ../assets/frontend/translate/cs-strings.php:1080
+msgid "Choose multi price table style here"
+msgstr "اختيار متعدد نمط الجدول السعر هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:1083
+msgid "Price Table"
+msgstr "جدول الأسعار"
+
+#: ../assets/frontend/translate/cs-strings.php:1084
+msgid "Add Price Table"
+msgstr "إضافة الأسعار الجدول"
+
+#: ../assets/frontend/translate/cs-strings.php:1085
+msgid "Pricing Tables OPTIONS"
+msgstr "خيارات التسعير الجداول"
+
+#: ../assets/frontend/translate/cs-strings.php:1087
+msgid "Enter Price plan Title Here"
+msgstr "ادخل الأسعار خطة عنوان هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:1089
+msgid "Set price-table title color from here"
+msgstr "مجموعة الألوان عنوان سعر الجدول من هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:1090
+msgid "Price"
+msgstr "السعر"
+
+#: ../assets/frontend/translate/cs-strings.php:1091
+msgid "Add price without symbol"
+msgstr "إضافة السعر بدون رمز"
+
+#: ../assets/frontend/translate/cs-strings.php:1092
+msgid "Currency Symbols"
+msgstr "رموز العملة"
+
+#: ../assets/frontend/translate/cs-strings.php:1093
+msgid "Add your currency symbol here like $"
+msgstr "إضافة رمز العملة هنا مثل $"
+
+#: ../assets/frontend/translate/cs-strings.php:1094
+msgid "Time Duration"
+msgstr "المدة الزمنية"
+
+#: ../assets/frontend/translate/cs-strings.php:1095
+msgid ""
+"Add time duration for package or time range like this package for a month or "
+"year So wirte here for Mothly and year for Yearly Package"
+msgstr ""
+"إضافة المدة الزمنية لحزمة أو مجموعة مثل هذا الوقت حزمة لمدة شهر أو سنة وذلك "
+"wirte هنا لMothly ولمدة عام بمبلغ سنوي حزمة"
+
+#: ../assets/frontend/translate/cs-strings.php:1097
+msgid "Add price table button Link here"
+msgstr "إضافة سعر زر جدول ارتباط هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:1099
+msgid "Add button text here Example : Buy Now, Purchase Now, View Packages etc"
+msgstr "إضافة نص الزر هنا مثال: شراء الآن، شراء الآن، عرض الحزم الخ"
+
+#: ../assets/frontend/translate/cs-strings.php:1100
+msgid "Button text Color"
+msgstr "زر النص اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:1101
+msgid "Set button color with color picker"
+msgstr "مجموعة زر اللون مع لون منقار"
+
+#: ../assets/frontend/translate/cs-strings.php:1103
+msgid "Set button background color with color picker"
+msgstr "مجموعة لون خلفية الزر مع لون منقار"
+
+#: ../assets/frontend/translate/cs-strings.php:1104
+msgid "Featured on/off"
+msgstr "ظهرت على / قبالة"
+
+#: ../assets/frontend/translate/cs-strings.php:1105
+msgid "Price table featured optiton enable/disbale with this dropdown"
+msgstr "وتضمن جدول الأسعار optiton تمكين / disbale مع هذه المنسدلة"
+
+#: ../assets/frontend/translate/cs-strings.php:1107
+msgid ""
+"Features can be add easily in input with this shortcode \n"
+"					    					[feature_item]Text here[/feature_item][feature_item]Text "
+"here[/feature_item]"
+msgstr ""
+"ميزات يمكن ان تضيف بسهولة في الإدخال مع هذا الرمز القصير  ن [feature_item] "
+"النص هنا [/ feature_item] [feature_item] النص هنا [/ feature_item]"
+
+#: ../assets/frontend/translate/cs-strings.php:1109
+msgid "column Background Color"
+msgstr "اللون العمود الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:1110
+msgid "Set column Background color"
+msgstr "تعيين العمود لون الخلفية"
+
+#: ../assets/frontend/translate/cs-strings.php:1113
+msgid "Progress Bars Options"
+msgstr "بارات تقدم خيارات"
+
+#: ../assets/frontend/translate/cs-strings.php:1114
+msgid "Progress Bar"
+msgstr "شريط التقدم"
+
+#: ../assets/frontend/translate/cs-strings.php:1115
+msgid "Progress Bar Title"
+msgstr "تقدم شريط العنوان"
+
+#: ../assets/frontend/translate/cs-strings.php:1116
+msgid "Enter progress bar title"
+msgstr "أدخل التقدم شريط العنوان"
+
+#: ../assets/frontend/translate/cs-strings.php:1117
+msgid "Skill (in percentage)"
+msgstr "مهارة (بالنسبة المئوية)"
+
+#: ../assets/frontend/translate/cs-strings.php:1118
+msgid "Enter skill (in percentage) here"
+msgstr "أدخل مهارة (بالنسبة المئوية) هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:1119
+msgid "Progress Bar Color"
+msgstr "تقدم بار اللون"
+
+#: ../assets/frontend/translate/cs-strings.php:1120
+msgid "Set progress bar color here"
+msgstr "تعيين شريط التقدم اللون هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:1121
+msgid "Add Progress Bar"
+msgstr "إضافة شريط التقدم"
+
+#: ../assets/frontend/translate/cs-strings.php:1124
+msgid "Table Options"
+msgstr "خيارات الجدول"
+
+#: ../assets/frontend/translate/cs-strings.php:1125
+msgid "Table Content"
+msgstr "الجدول المحتوى"
+
+#: ../assets/frontend/translate/cs-strings.php:1126
+msgid ""
+"Fill your table content in shortcode here. (th) for table heading and (td) "
+"for table container."
+msgstr ""
+"ملء محتوى الجدول الخاص بك في الرمز القصير هنا. (ال) لعنوان الجدول "
+"و(الدفتيريا) للحاوية الجدول."
+
+#: ../assets/frontend/translate/cs-strings.php:1129
+msgid "Editor Options"
+msgstr "خيارات محرر"
+
+#: ../assets/frontend/translate/cs-strings.php:1137
+msgid "Custom Code"
+msgstr "التعليمات البرمجية المخصصة"
+
+#: ../assets/frontend/translate/cs-strings.php:1138
+msgid "Add a custom menu to your sidebar."
+msgstr "إضافة قائمة مخصصة إلى الشريط الجانبي الخاص بك."
+
+#: ../assets/frontend/translate/cs-strings.php:1139
+msgid "CS: Custom Menu"
+msgstr "CS: قائمة مخصصة"
+
+#: ../assets/frontend/translate/cs-strings.php:1140
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "لم يتم إنشاء أي قوائم حتى الان. <a href=\" %s \"> خلق بعض </A>."
+
+#: ../assets/frontend/translate/cs-strings.php:1142
+msgid "Enter your element title here."
+msgstr "أدخل عنوان العنصر الخاص بك هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:1143
+msgid "Select Menu:"
+msgstr "اختر القائمة:"
+
+#: ../assets/frontend/translate/cs-strings.php:1144
+msgid " Single Banner"
+msgstr " راية واحدة"
+
+#: ../assets/frontend/translate/cs-strings.php:1145
+msgid "Random Banners"
+msgstr "لافتات عشوائية"
+
+#: ../assets/frontend/translate/cs-strings.php:1146
+msgid "Banner View "
+msgstr "راية مشاهدة "
+
+#: ../assets/frontend/translate/cs-strings.php:1147
+msgid "Select Banner View "
+msgstr "اختر عرض ترويسة "
+
+#: ../assets/frontend/translate/cs-strings.php:1150
+msgid "Number of Banners"
+msgstr "عدد من لافتات"
+
+#: ../assets/frontend/translate/cs-strings.php:1151
+msgid "Please Number of Banners here"
+msgstr "إرضاء عدد من لافتات هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:1153
+msgid "Banner Code"
+msgstr "كود راية"
+
+#: ../assets/frontend/translate/cs-strings.php:1154
+msgid "Please Banner Code here"
+msgstr "يرجى كود راية اليوم"
+
+#: ../assets/frontend/translate/cs-strings.php:1159
+msgid "Please enter Banner Title"
+msgstr "يرجى إدخال عنوان راية"
+
+#: ../assets/frontend/translate/cs-strings.php:1160
+msgid "Banner Style"
+msgstr "راية ستايل"
+
+#: ../assets/frontend/translate/cs-strings.php:1161
+msgid "Please Select  Banner Style"
+msgstr "الرجاء اختيار راية ستايل"
+
+#: ../assets/frontend/translate/cs-strings.php:1162
+msgid "Banner Type"
+msgstr "نوع راية"
+
+#: ../assets/frontend/translate/cs-strings.php:1163
+msgid "Please enter  Banner Type"
+msgstr "الرجاء إدخال راية نوع"
+
+#: ../assets/frontend/translate/cs-strings.php:1164
+msgid "Top Banner"
+msgstr "أعلى راية"
+
+#: ../assets/frontend/translate/cs-strings.php:1165
+msgid "Bottom Banner"
+msgstr "راية القاع"
+
+#: ../assets/frontend/translate/cs-strings.php:1166
+msgid "Sidebar Banner"
+msgstr "الشريط الجانبي راية"
+
+#: ../assets/frontend/translate/cs-strings.php:1169
+msgid "Vertical Banner"
+msgstr "شعار رأسي"
+
+#: ../assets/frontend/translate/cs-strings.php:1171
+msgid "Code"
+msgstr "رمز"
+
+#: ../assets/frontend/translate/cs-strings.php:1172
+msgid "Ad sense Code"
+msgstr "مدونة إحساس الإعلان"
+
+#: ../assets/frontend/translate/cs-strings.php:1173
+msgid "Please enter Banner Ad sense Code"
+msgstr "يرجى إدخال كود الشعور راية الإعلان"
+
+#: ../assets/frontend/translate/cs-strings.php:1174
+msgid "Please Select Banner Image"
+msgstr "الرجاء اختيار راية صورة"
+
+#: ../assets/frontend/translate/cs-strings.php:1175
+msgid "Target"
+msgstr "هدف"
+
+#: ../assets/frontend/translate/cs-strings.php:1176
+msgid "Please select Banner Link Target"
+msgstr "الرجاء تحديد راية رابط الهدف"
+
+#: ../assets/frontend/translate/cs-strings.php:1177
+msgid "Self"
+msgstr "الذات"
+
+#: ../assets/frontend/translate/cs-strings.php:1178
+msgid "Blank"
+msgstr "فراغ"
+
+#: ../assets/frontend/translate/cs-strings.php:1179
+msgid "Already Added Banners"
+msgstr "لافتات أضفت"
+
+#: ../assets/frontend/translate/cs-strings.php:1187
+msgid "Clicks"
+msgstr "نقرات"
+
+#: ../assets/frontend/translate/cs-strings.php:1188
+msgid "Shortcode"
+msgstr "رمز قصير"
+
+#: ../assets/frontend/translate/cs-strings.php:1195 ..
+#: assets/frontend/translate/cs-strings.php:1297
+msgid "Please enter text for icon"
+msgstr "الرجاء إدخال النص لرمز"
+
+#: ../assets/frontend/translate/cs-strings.php:1196
+msgid "Url"
+msgstr "رابط"
+
+#: ../assets/frontend/translate/cs-strings.php:1197
+msgid "Enter image Url here"
+msgstr "أدخل رابط الصورة هنا"
+
+#: ../assets/frontend/translate/cs-strings.php:1200
+msgid "Select counter view"
+msgstr "حدد جهة نظر مضادة"
+
+#: ../assets/frontend/translate/cs-strings.php:1203
+msgctxt "label"
+msgid "Search for:"
+msgstr "البحث عن:"
+
+#: ../assets/frontend/translate/cs-strings.php:1204
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "بحث و hellip؛"
+
+#: ../assets/frontend/translate/cs-strings.php:1205 ..
+#: assets/frontend/translate/cs-strings.php:1211
+msgid "Search by Keyword"
+msgstr "البحث بواسطة كلمة"
+
+#: ../assets/frontend/translate/cs-strings.php:1206
+msgctxt "submit button"
+msgid "Search"
+msgstr "بحث"
+
+#: ../assets/frontend/translate/cs-strings.php:1208
+msgid "404 Page"
+msgstr "404 صفحة"
+
+#: ../assets/frontend/translate/cs-strings.php:1209
+msgid "404<em>Error</em>"
+msgstr "404 <م> خطأ </ م>"
+
+#: ../assets/frontend/translate/cs-strings.php:1210
+msgid "Sorry, but the page that you requested doesn&rsquo;t exist."
+msgstr "عذرا، ولكن الصفحة التي طلبتها [رسقوو دوسن &؛ ر موجودة."
+
+#: ../assets/frontend/translate/cs-strings.php:1212
+msgid "Search"
+msgstr "بحث"
+
+#: ../assets/frontend/translate/cs-strings.php:1213
+msgid "Please set API key"
+msgstr "يرجى تعيين مفتاح API"
+
+#: ../assets/frontend/translate/cs-strings.php:1214
+msgid "subscribe successfully"
+msgstr "الاشتراك بنجاح"
+
+#: ../assets/frontend/translate/cs-strings.php:1215
+msgid "No result found."
+msgstr "لم يتم العثور على نتائج."
+
+#: ../assets/frontend/translate/cs-strings.php:1216
+msgid "Comments"
+msgstr "تعليقات"
+
+#: ../assets/frontend/translate/cs-strings.php:1217
+msgid "Most Relevent Links"
+msgstr "معظم سريعة relevent عن"
+
+#: ../assets/frontend/translate/cs-strings.php:1218
+msgid "By"
+msgstr "بواسطة"
+
+#: ../assets/frontend/translate/cs-strings.php:1219 ..
+#: woocommerce/loop/pagination.php:28
+msgid "Next"
+msgstr "التالى"
+
+#: ../assets/frontend/translate/cs-strings.php:1220 ..
+#: woocommerce/loop/pagination.php:27
+msgid "Previous"
+msgstr "سابق"
+
+#: ../assets/frontend/translate/cs-strings.php:1221 ..
+#: assets/frontend/translate/cs-strings.php:1243
+msgid "Tags"
+msgstr "الكلمات"
+
+#: ../assets/frontend/translate/cs-strings.php:1222
+msgid "Posts"
+msgstr "المشاركات"
+
+#: ../assets/frontend/translate/cs-strings.php:1223
+msgid "Categories"
+msgstr "الفئات"
+
+#: ../assets/frontend/translate/cs-strings.php:1224
+msgid "Dealer Types"
+msgstr "أنواع تاجر"
+
+#: ../assets/frontend/translate/cs-strings.php:1225
+msgid "Inventories"
+msgstr "المخزونات"
+
+#: ../assets/frontend/translate/cs-strings.php:1226
+msgid "Inventory types"
+msgstr "أنواع المخزون"
+
+#: ../assets/frontend/translate/cs-strings.php:1227
+msgid "Load from IcoMoon"
+msgstr "تحميل من IcoMoon"
+
+#: ../assets/frontend/translate/cs-strings.php:1228
+msgid "Ago"
+msgstr "منذ"
+
+#: ../assets/frontend/translate/cs-strings.php:1229
+msgid "Related Posts"
+msgstr "الوظائف ذات الصلة"
+
+#: ../assets/frontend/translate/cs-strings.php:1230
+#, php-format
+msgid "Edit \"%s\""
+msgstr "تحرير  \" %s \""
+
+#: ../assets/frontend/translate/cs-strings.php:1231
+msgid "Primary Menu"
+msgstr "القائمة الأولية"
+
+#: ../assets/frontend/translate/cs-strings.php:1232
+msgid "Social Links Menu"
+msgstr "الروابط الاجتماعية القائمة"
+
+#: ../assets/frontend/translate/cs-strings.php:1233
+msgid "This widget will be displayed on right/left side of the page."
+msgstr "سيتم عرض هذه القطعة على الجانب الأيمن / الأيسر من الصفحة."
+
+#: ../assets/frontend/translate/cs-strings.php:1234
+msgid "This widget will be displayed on right side of the page."
+msgstr "سيتم عرض هذه القطعة على الجانب الأيمن من الصفحة."
+
+#: ../assets/frontend/translate/cs-strings.php:1235
+msgid "Footer "
+msgstr "تذييل "
+
+#: ../assets/frontend/translate/cs-strings.php:1236
+msgid "Widgets "
+msgstr "الحاجيات "
+
+#: ../assets/frontend/translate/cs-strings.php:1237
+#, php-format
+msgid "Search Results : %s"
+msgstr "نتائج البحث: %s"
+
+#: ../assets/frontend/translate/cs-strings.php:1239
+msgid "Archives"
+msgstr "أرشيف"
+
+#: ../assets/frontend/translate/cs-strings.php:1240
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "الأرشيف اليومي: %s"
+
+#: ../assets/frontend/translate/cs-strings.php:1241
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "الأرشيف الشهري: %s"
+
+#: ../assets/frontend/translate/cs-strings.php:1242
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "المحفوظات السنوية: %s"
+
+#: ../assets/frontend/translate/cs-strings.php:1244
+msgid "Category"
+msgstr "فئة"
+
+#: ../assets/frontend/translate/cs-strings.php:1245
+msgid "Home"
+msgstr "الصفحة الرئيسية"
+
+#: ../assets/frontend/translate/cs-strings.php:1246
+msgid "Current Page"
+msgstr "الصفحه الحاليه"
+
+#: ../assets/frontend/translate/cs-strings.php:1247
+msgid "CS Theme Options"
+msgstr "خيارات الموضوع CS"
+
+#: ../assets/frontend/translate/cs-strings.php:1248
+msgid "Previous page"
+msgstr "الصفحة السابقة"
+
+#: ../assets/frontend/translate/cs-strings.php:1249
+msgid "Next page"
+msgstr "الصفحة التالية"
+
+#: ../assets/frontend/translate/cs-strings.php:1250
+msgid "Previous Image"
+msgstr "الصورة السابقة"
+
+#: ../assets/frontend/translate/cs-strings.php:1251
+msgid "Next Image"
+msgstr "الصورة التالية"
+
+#: ../assets/frontend/translate/cs-strings.php:1252
+msgid "Pages"
+msgstr "الصفحات"
+
+#: ../assets/frontend/translate/cs-strings.php:1253
+msgid "Page"
+msgstr "صفحة"
+
+#: ../assets/frontend/translate/cs-strings.php:1254
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: ../assets/frontend/translate/cs-strings.php:1255
+msgid "Reply"
+msgstr "الرد"
+
+#: ../assets/frontend/translate/cs-strings.php:1256
+msgid "Full Width"
+msgstr "عرض كامل"
+
+#: ../assets/frontend/translate/cs-strings.php:1257
+msgid "Sidebar Right"
+msgstr "الحق في الشريط الجانبي"
+
+#: ../assets/frontend/translate/cs-strings.php:1258
+msgid "Sidebar Left"
+msgstr "الشريط الجانبي اليسار"
+
+#: ../assets/frontend/translate/cs-strings.php:1259
+msgid "Delete image"
+msgstr "حذف صورة"
+
+#: ../assets/frontend/translate/cs-strings.php:1260
+msgid "Edit Item"
+msgstr "تحرير عنصر"
+
+#: ../assets/frontend/translate/cs-strings.php:1261
+msgid "Description"
+msgstr "وصف"
+
+#: ../assets/frontend/translate/cs-strings.php:1262
+msgid "Update"
+msgstr "تحديث"
+
+#: ../assets/frontend/translate/cs-strings.php:1263
+msgid "Delete"
+msgstr "حذف"
+
+#: ../assets/frontend/translate/cs-strings.php:1264
+msgid "Select Attribute"
+msgstr "حدد السمة"
+
+#: ../assets/frontend/translate/cs-strings.php:1265
+msgid "CS: Twitter Widget"
+msgstr "CS: التغريد القطعة"
+
+#: ../assets/frontend/translate/cs-strings.php:1266
+msgid "Twitter Widget."
+msgstr "التغريد القطعة."
+
+#: ../assets/frontend/translate/cs-strings.php:1267
+msgid "User Name"
+msgstr "اسم المستخدم"
+
+#: ../assets/frontend/translate/cs-strings.php:1268
+msgid "Num of Tweets"
+msgstr "الأسطوانات من تغريدات"
+
+#: ../assets/frontend/translate/cs-strings.php:1269
+msgid "CS : Flickr Gallery"
+msgstr "CS: فليكر معرض"
+
+#: ../assets/frontend/translate/cs-strings.php:1270
+msgid "Type a user name to show photos in widget"
+msgstr "اكتب اسم المستخدم لعرض الصور في القطعة"
+
+#: ../assets/frontend/translate/cs-strings.php:1271
+msgid "Flickr username"
+msgstr "اسم المستخدم فليكر"
+
+#: ../assets/frontend/translate/cs-strings.php:1272
+msgid "Enter your Flicker Username here"
+msgstr "أدخل اسم المستخدم هنا الرجفة"
+
+#: ../assets/frontend/translate/cs-strings.php:1273
+msgid "Number of Photos"
+msgstr "عدد الصور"
+
+#: ../assets/frontend/translate/cs-strings.php:1274
+msgid "Error:"
+msgstr "خطأ:"
+
+#: ../assets/frontend/translate/cs-strings.php:1275
+msgid "Please Enter Flickr API key from Theme Options."
+msgstr "الرجاء إدخال مفتاح API فليكر من الخيارات لقضاء وقت الفراغ."
+
+#: ../assets/frontend/translate/cs-strings.php:1276
+msgid "CS: Mail Chimp"
+msgstr "CS: البريد الشمبانزي"
+
+#: ../assets/frontend/translate/cs-strings.php:1277
+msgid "Mail Chimp Newsletter Widget"
+msgstr "البريد الشمبانزي الإخبارية القطعة"
+
+#: ../assets/frontend/translate/cs-strings.php:1278
+msgid "Enter discription here."
+msgstr "أدخل ديسكريبأيشن هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:1279
+msgid "Social Icon On/Off."
+msgstr "دلالات اجتماعية تشغيل / إيقاف."
+
+#: ../assets/frontend/translate/cs-strings.php:1280
+msgid "CS : Recent Posts"
+msgstr "CS: المشاركات الأخيرة"
+
+#: ../assets/frontend/translate/cs-strings.php:1281
+msgid "Recent Posts from category."
+msgstr "المشاركات الأخيرة من فئة."
+
+#: ../assets/frontend/translate/cs-strings.php:1282
+msgid "Choose Category."
+msgstr "اختيار الفئة."
+
+#: ../assets/frontend/translate/cs-strings.php:1283
+msgid "Number of Posts To Display."
+msgstr "عدد المشاركات التي يتم عرضها."
+
+#: ../assets/frontend/translate/cs-strings.php:1284
+msgid "Availability"
+msgstr "توفر"
+
+#: ../assets/frontend/translate/cs-strings.php:1285
+msgid "Set Banners option in widget."
+msgstr "خيار مجموعة لافتات في القطعة."
+
+#: ../assets/frontend/translate/cs-strings.php:1286
+msgid "CS: Ads"
+msgstr "CS: إعلانات"
+
+#: ../assets/frontend/translate/cs-strings.php:1287
+msgid "Add Image"
+msgstr "إضافة صورة"
+
+#: ../assets/frontend/translate/cs-strings.php:1288
+msgid "Select Image for Ads ."
+msgstr "اختر صورة لإعلانات."
+
+#: ../assets/frontend/translate/cs-strings.php:1289
+msgid "Image Url"
+msgstr "رابط الصورة"
+
+#: ../assets/frontend/translate/cs-strings.php:1290
+msgid "in stock"
+msgstr "في المخزن"
+
+#: ../assets/frontend/translate/cs-strings.php:1291
+msgid "out of stock"
+msgstr "إنتهى من المخزن"
+
+#: ../assets/frontend/translate/cs-strings.php:1292
+msgid "Please wait..."
+msgstr "أرجو الإنتظار..."
+
+#: ../assets/frontend/translate/cs-strings.php:1293
+msgid "Successfully loaded icons"
+msgstr "الرموز تحميلها بنجاح"
+
+#: ../assets/frontend/translate/cs-strings.php:1294
+msgid "Error: Try Again?"
+msgstr "خطأ: حاول مرة أخرى؟"
+
+#: ../assets/frontend/translate/cs-strings.php:1295
+msgid "Load from IcoMoon selection.json"
+msgstr "تحميل من IcoMoon selection.json"
+
+#: ../assets/frontend/translate/cs-strings.php:1298
+msgid "Icon Path"
+msgstr "رمز مسار"
+
+#: ../assets/frontend/translate/cs-strings.php:1300
+msgid "Choose icon"
+msgstr "اختيار أيقونة"
+
+#: ../assets/frontend/translate/cs-strings.php:1301
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك ينتظر الموافقة عليه."
+
+#: ../assets/frontend/translate/cs-strings.php:1302
+msgid "Edit"
+msgstr "تحرير"
+
+#: ../assets/frontend/translate/cs-strings.php:1303
+#, php-format
+msgid "You may use these HTML tags and attributes: %s"
+msgstr "تستطيع استخدام هذه HTML العلامات والصفات: %s"
+
+#: ../assets/frontend/translate/cs-strings.php:1304
+msgid "Comment"
+msgstr "التعليق"
+
+#: ../assets/frontend/translate/cs-strings.php:1305
+#, php-format
+msgid "View all posts by %s"
+msgstr "عرض كافة مشاركات %s"
+
+#: ../assets/frontend/translate/cs-strings.php:1306
+msgid "No Pages Were Found Containing \"your added text\""
+msgstr "لم تكن هناك أية صفحات العثور يحتوي على  \"على النص  المضافة\""
+
+#: ../assets/frontend/translate/cs-strings.php:1307
+msgid "Ready to publish your first post? Get started here."
+msgstr "على استعداد لنشر أول وظيفة؟ تبدأ هنا."
+
+#: ../assets/frontend/translate/cs-strings.php:1308
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"آسف، ولكن لا شيء يضاهي شروط البحث الخاصة بك. يرجى المحاولة مرة أخرى مع بعض "
+"كلمات مختلفة."
+
+#: ../assets/frontend/translate/cs-strings.php:1309
+msgid "It seems we cannot find what you are looking for. Perhaps searching can help."
+msgstr "يبدو أننا لا يمكن أن تجد ما تبحث عنه. ربما البحث يمكن أن تساعد."
+
+#: ../assets/frontend/translate/cs-strings.php:1310
+msgid "You must be to post a comment."
+msgstr "يجب أن تكون لمرحلة ما بعد تعليق."
+
+#: ../assets/frontend/translate/cs-strings.php:1311 ..
+#: assets/frontend/translate/cs-strings.php:1316
+msgid "Log out"
+msgstr "خروج"
+
+#: ../assets/frontend/translate/cs-strings.php:1312
+msgid "Suggestions:"
+msgstr "اقتراحات:"
+
+#: ../assets/frontend/translate/cs-strings.php:1313
+msgid "Make sure all words are spelled correctly"
+msgstr "تأكد من كتابة الكلمات بشكل صحيح"
+
+#: ../assets/frontend/translate/cs-strings.php:1314
+msgid "Wildcard searches (using the asterisk *) are not supported"
+msgstr "غير معتمدة البحث البدل (باستخدام علامة النجمة *)"
+
+#: ../assets/frontend/translate/cs-strings.php:1315
+msgid "Try more general keywords, especially if you are attempting a name"
+msgstr "استخدم كلمات عامة، وخاصة إذا كنت تحاول اسم"
+
+#: ../assets/frontend/translate/cs-strings.php:1317
+msgid "Logged in as"
+msgstr "تسجيل دخولك"
+
+#: ../assets/frontend/translate/cs-strings.php:1318
+#, php-format
+msgid "Required fields are marked %s"
+msgstr "الحقول الإلزامية مشار إليها %s"
+
+#: ../assets/frontend/translate/cs-strings.php:1319
+msgid "Name *"
+msgstr "اسم *"
+
+#: ../assets/frontend/translate/cs-strings.php:1320
+msgid "full name"
+msgstr "الاسم الكامل"
+
+#: ../assets/frontend/translate/cs-strings.php:1321
+msgid "Email Address *"
+msgstr "عنوان البريد الإلكتروني *"
+
+#: ../assets/frontend/translate/cs-strings.php:1322
+msgid "Please enter your email address"
+msgstr "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك"
+
+#: ../assets/frontend/translate/cs-strings.php:1323
+msgid "Website"
+msgstr "موقع الكتروني"
+
+#: ../assets/frontend/translate/cs-strings.php:1324
+msgid "Please enter a comment"
+msgstr "الرجاء إدخال تعليق"
+
+#: ../assets/frontend/translate/cs-strings.php:1325
+msgid "Leave us a comment"
+msgstr "ترك لنا تعليق"
+
+#: ../assets/frontend/translate/cs-strings.php:1326
+msgid "Cancel reply"
+msgstr "إلغاء الرد"
+
+#: ../assets/frontend/translate/cs-strings.php:1327
+msgid "Post comments"
+msgstr "بعد تعليقات"
+
+#: ../assets/frontend/translate/cs-strings.php:1328
+msgid ""
+"I am interested in a price quote on this vehicle. Please contact me at your "
+"earliest convenience with your best price for this vehicle."
+msgstr ""
+"أنا مهتم في سعر اقتبس هذه السيارة. الرجاء الاتصال بي في أقرب وقت ممكن مع "
+"افضل ما لديكم ثمن هذه السيارة."
+
+#: ../assets/frontend/translate/cs-strings.php:1329
+msgid "Add Gallery"
+msgstr "إضافة معرض الصور"
+
+#: ../assets/frontend/translate/cs-strings.php:1330
+msgid "Widget Setting Export"
+msgstr "القطعة إعداد التصدير"
+
+#: ../assets/frontend/translate/cs-strings.php:1331
+msgid "Select All"
+msgstr "اختر الكل"
+
+#: ../assets/frontend/translate/cs-strings.php:1332
+msgid "Un-Select All"
+msgstr "إلغاء تحديد الكل"
+
+#: ../assets/frontend/translate/cs-strings.php:1333
+msgid "Clear Current Widgets Before Import"
+msgstr "القطع واضحة الحالي قبل استيراد"
+
+#: ../assets/frontend/translate/cs-strings.php:1334
+msgid "All active widgets will be moved to inactive"
+msgstr "سيتم نقل كافة التطبيقات المصغرة النشطة إلى الخاملة"
+
+#: ../assets/frontend/translate/cs-strings.php:1335
+msgid "Put File URL that contains widget settings"
+msgstr "URL ملف وضع هذا يحتوي على إعدادات القطعة"
+
+#: ../assets/frontend/translate/cs-strings.php:1336
+msgid "Widgets Imported Successfully."
+msgstr "الحاجيات المستوردة بنجاح."
+
+#: ../assets/frontend/translate/cs-strings.php:1337
+msgid "Widgets data not Imported."
+msgstr "البيانات الحاجيات غير مستوردة."
+
+#: ../assets/frontend/translate/cs-strings.php:1338
+msgid "Read More"
+msgstr "اقرأ أكثر"
+
+#: ../assets/frontend/translate/cs-strings.php:1339
+msgid "comment"
+msgstr "التعليق"
+
+#: ../assets/frontend/translate/cs-strings.php:1340
+msgid "comments"
+msgstr "تعليقات"
+
+#: ../assets/frontend/translate/cs-strings.php:1341
+msgid "No blog post found."
+msgstr "لا بلوق وظيفة وجدت."
+
+#: ../include/backend/theme-config.php:252
+msgid "Automobile"
+msgstr "سيارة"
+
+#: ../include/backend/theme-config.php:262
+msgid "CS Automobile Framework"
+msgstr "الإطار السيارات CS"
+
+#: ../include/backend/cs-activation-plugins/cs-plugin-activation.php:860 ..
+#: include/backend/cs-activation-plugins/cs-plugin-activation.php:1843
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+#: ../include/backend/cs-activation-plugins/cs-plugin-activation.php:1581
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "تثبيت %2$s"
+
+#: ../include/backend/cs-activation-plugins/cs-plugin-activation.php:1597
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "تفعيل %2$s"
+
+#: ../include/backend/cs-theme-options/cs-theme-options-fields.php:371
+msgid "Successfully installed "
+msgstr "تثبيت بنجاح "
+
+#: ../include/backend/cs-theme-options/cs-theme-options-fields.php:373
+msgid "Sorry unable to upgrade theme. Contact Theme Author and repot this issue."
+msgstr "غير قادر آسف لرفع الموضوع. الاتصال موضوع الكاتب وتقرير ل هذه المسألة."
+
+#: ../include/backend/cs-theme-options/cs-theme-options.php:2184
+msgid "Auto Update"
+msgstr "التحديث التلقائي"
+
+#: ../include/backend/cs-theme-options/cs-theme-options.php:2191
+msgid "Auto Update Theme"
+msgstr "موضوع التحديث التلقائي"
+
+#: ../include/backend/cs-theme-options/cs-theme-options.php:2196
+msgid "Automatic Upgrade"
+msgstr "ترقية تلقائية"
+
+#: ../include/backend/cs-theme-options/cs-theme-options.php:2203
+msgid "Marketplace Username"
+msgstr "السوق اسم المستخدم"
+
+#: ../include/backend/cs-theme-options/cs-theme-options.php:2205
+msgid "Enter your Marketplace Username."
+msgstr "أدخل السوق اسم المستخدم."
+
+#: ../include/backend/cs-theme-options/cs-theme-options.php:2209
+msgid "Secret API Key"
+msgstr "مفتاح API السري"
+
+#: ../include/backend/cs-theme-options/cs-theme-options.php:2211
+msgid "Enter your Secret API key."
+msgstr "أدخل مفتاح API السري الخاص بك."
+
+#: ../include/backend/cs-theme-options/cs-theme-options.php:2215
+msgid "Skip Theme Backup"
+msgstr "تخطي موضوع النسخ الاحتياطي"
+
+#: ../include/backend/cs-theme-options/cs-theme-options.php:2217
+msgid "Do you want to skip theme backup?"
+msgstr "هل ترغب في تخطي احتياطية موضوع؟"
+
+#: ../include/backend/cs-theme-options/cs-theme-options.php:2222
+msgid "Attention User Account Information!"
+msgstr "اهتمام العضو معلومات الحساب!"
+
+#: ../include/frontend/cs-shortcodes/cs_tweets.php:131
+#, php-format
+msgid "%d seconds ago"
+msgstr "%d ثواني قبل"
+
+#: ../include/frontend/cs-shortcodes/cs_tweets.php:134
+#, php-format
+msgid "About a Minute Ago"
+msgid_plural "%d Minutes Ago"
+msgstr[0] "منذ حوالي دقيقة واحدة"
+msgstr[1] "منذ حوالي دقيقة واحدة"
+
+#: ../include/frontend/cs-shortcodes/cs_tweets.php:137 ../include/frontend/cs-
+#: shortcodes/cs_tweets.php:140
+#, php-format
+msgid "About an Hour Ago"
+msgid_plural "%d Hours Ago"
+msgstr[0] "منذ ساعة تقريبا"
+msgstr[1] "منذ ساعة تقريبا"
+
+#: ../include/frontend/cs-shortcodes/cs_tweets.php:143
+#, php-format
+msgid "About a Day Ago"
+msgid_plural "%d Days Ago"
+msgstr[0] "منذ حوالي يوم"
+msgstr[1] "منذ حوالي يوم"
+
+#: ../include/frontend/cs-shortcodes/cs_tweets.php:146
+#, php-format
+msgid "About a Week Ago"
+msgid_plural "%d Weeks Ago"
+msgstr[0] "منذ اسبوع تقريبا"
+msgstr[1] "منذ اسبوع تقريبا"
+
+#: ../include/frontend/cs-shortcodes/cs_tweets.php:149
+#, php-format
+msgid "About a Month Ago"
+msgid_plural "%d Months Ago"
+msgstr[0] "قبل شهر مضى"
+msgstr[1] "قبل شهر مضى"
+
+#: ../include/frontend/cs-shortcodes/cs_tweets.php:152
+#, php-format
+msgid "About a year Ago"
+msgid_plural "%d years Ago"
+msgstr[0] "منذ حوالي سنة"
+msgstr[1] "منذ حوالي سنة"
+
+#: ../woocommerce/global/quantity-input.php:24
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "الكمية"
+
+#. Name of the theme
+msgid "AutoMobile"
+msgstr "سيارة"
+
+#. Theme URI of the theme
+msgid "http://automobile.chimpgroup.com"
+msgstr "http://automobile.chimpgroup.com"
+
+#. Description of the theme
+msgid ""
+"Automobile is a professional responsive wodrpress theme for vehicle market. "
+"Specially design for Car Dealer, Auto Dealer and any other automotive "
+"dealership business. It is suitable for all those who wants to sell, buy, "
+"and loan or lease vehicles via website. You can easily build your own "
+"Classified Listing website with Automobile WordPress theme. Listing has two "
+"different view (Classic &amp; Grid) to show your vehicles to visitors in "
+"irresistible way and much more. it will only take one minute to create your "
+"desired color schemes."
+msgstr ""
+"السيارات هو موضوع wodrpress استجابة المهنية لسوق السيارات. تصميم خصيصا لتاجر "
+"سيارات، موزع السيارات وأي تجارة السيارات بيع أخرى. انها مناسبة لجميع أولئك "
+"الذين يريد بيع، شراء، وقرض أو تأجير السيارات عبر الموقع. يمكنك بسهولة بناء "
+"موقع الويب الخاص بك قائمة تصنف مع السيارات وورد موضوع. الاعلان اثنين جهة نظر "
+"مختلفة (كلاسيك اند الشبكة) لإظهار المركبات الخاصة بك للزوار بطريقة لا تقاوم "
+"وأكثر من ذلك بكثير. سوف يستغرق دقيقة واحدة فقط لخلق مخططاتك اللون المطلوب."
+
+#. Author of the theme
+msgid "Chimp Studio"
+msgstr "الشمبانزي ستوديو"
+
+#. Author URI of the theme
+msgid "http://chimpgroup.com"
+msgstr "http://chimpgroup.com"

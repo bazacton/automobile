@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'group_automobile_live' );
+define( 'DB_NAME', 'u312518386_automobile' );
 
 /** Database username */
-define( 'DB_USER', 'group_automobile' );
+define( 'DB_USER', 'u312518386_automobile' );
 
 /** Database password */
-define( 'DB_PASSWORD', ']zZjysR9y!dH' );
+define( 'DB_PASSWORD', 'Ah2o@[dDzTG=' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );

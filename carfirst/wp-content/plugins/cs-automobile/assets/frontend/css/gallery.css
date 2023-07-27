@@ -1,0 +1,249 @@
+  /* Gallery
+================================================== */
+.gal-active {
+    float: left;
+    padding-bottom: 10px;
+    padding-left: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.gal-active h4 {
+    color: #1a7ec3;
+}
+.gal-active #gal-sortable {
+    float: left;
+	margin: 0;
+}
+.gal-active #gal-sortable > li {
+    float: left;
+	border: none;
+        list-style: none;
+}
+#tab-directory-options .to-label{ float: left; }
+.form-elements{ text-align: left; }
+.form-elements li.to-button{
+    float: none;
+    display: inline-block;
+    vertical-align: middle;
+    width: 69%;
+    padding: 0;
+}
+.form-elements li.to-button a.button{
+    float:left;
+}
+.directory_cat_image .page-wrap,
+#product_map_marker_box,
+#cluster_map_marker_box,
+#automobile_footer_logo_box,
+#automobile_footer_background_image_box,
+#automobile_background_img_box,
+#automobile_custom_logo_box,
+#automobile_custom_favicon_box,
+.automobile_custom_upload_box,
+#automobile_custom_bgimage_box{ float: left; width: auto;}
+.directory_cat_image .thumb-secs,
+#directory_cat_image_box .thumb-secs,
+#product_map_marker_box .thumb-secs,
+#cluster_map_marker_box .thumb-secs,
+#automobile_footer_logo_box .thumb-secs,
+#automobile_footer_background_image_box .thumb-secs,
+#automobile_background_img_box .thumb-secs,
+#automobile_custom_favicon_box .thumb-secs,
+.automobile_custom_upload_box .thumb-secs,
+#automobile_custom_logo_box .thumb-secs,
+#automobile_custom_bgimage_box .thumb-secs{
+    width: 52px !important;
+    height: 52px !important;
+    padding: 0 !important;
+}
+.directory_cat_image .gal-active,
+#directory_cat_image_box .gal-active{
+    padding:0; width: auto;
+}
+#product_map_marker_box .gal-active,
+#cluster_map_marker_box .gal-active,
+#automobile_footer_logo_box .gal-active,
+#automobile_footer_background_image_box .gal-active,
+#automobile_background_img_box .gal-active,
+#automobile_custom_logo_box .gal-active,
+#automobile_custom_favicon_box .gal-active,
+.automobile_custom_upload_box .gal-active,
+#automobile_custom_bgimage_box .gal-active{ padding: 0; }
+.form-elements .to-field .browse-icon,
+#product_map_marker_upload .to-field .browse-icon,
+#cluster_map_marker_upload .to-field .browse-icon,
+#automobile_footer_logo_upload .to-field .browse-icon,
+#automobile_footer_background_image_upload .to-field .browse-icon,
+#automobile_background_img_upload .to-field .browse-icon,
+#automobile_custom_logo_upload .to-field .browse-icon,
+#automobile_custom_favicon_upload .to-field .browse-icon,
+#automobile_custom_bgimage_upload .to-field .browse-icon{ float: right !important; margin: 2px 10px 0 0; }
+.gal-active #gal-sortable > li .thumb-secs {
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin: 20px 0 0 20px;
+    border: 1px dashed #d8d8d8;
+    overflow: hidden;
+    cursor: move;
+}
+.directory_cat_image { padding: 10px 0; border-bottom:none;}
+.directory_cat_image li.to-label,
+.directory_cat_image li.to-button,
+.form-field{ border-bottom: 1px solid #eaeaea;}
+.page-wrap .gal-active #gal-sortable > li .thumb-secs {
+    margin: 0;
+    padding: 0;
+    height: 90px !important;
+    width: 150px !important;
+    cursor: pointer;
+}
+.page-wrap .gal-active #gal-sortable > li .ui-state-default .thumb-secs {
+	height: 35px !important;
+}
+.page-wrap .gal-active #gal-sortable > li .gal-edit-opts a {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    margin:0;
+}
+.gal-active #gal-sortable > li img {
+    float: left;
+    width: 100%;
+    height:auto;
+}
+.gal-active #gal-sortable > li.ui-state-default img {
+	height: 100%;
+}
+.gal-active #gal-sortable > li .thumb-secs {
+    position: relative;
+}
+.gal-active #gal-sortable > li .gal-edit-opts {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: absolute;
+    text-align: center;
+	opacity: 1;
+    filter: alpha(opacity=0);
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+    background-image: url(../images/black.png);
+}
+.gal-active #gal-sortable > li .gal-edit-opts a {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    background-image: url(../images/sprite.png);
+	background-color: #b5b5b5;
+    margin-top: 62px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+}
+.gal-active #gal-sortable > li .gal-edit-opts a:hover {
+    background-color: #1a7ec3;
+}
+.gal-active #gal-sortable > li .gal-edit-opts a.edit {
+    background-position: 0 -519px;
+}
+.gal-active #gal-sortable > li .gal-edit-opts a.delete {
+    background-position: 0 -544px;
+}
+.to-social-list {
+    background: #464646;
+    float: left;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.to-social-list .soc-head {
+    background: #1a7ec3;
+    width: 100%;
+    float: left;
+}
+.to-social-list .soc-head h5 {
+    color: #ffffff;
+    float: left;
+    padding: 17px 0px 0px 20px;
+    margin: 0px;
+}
+.to-social-list .soc-head .button.reload {
+    float: left;
+    width: 48px;
+    height: 50px;
+    display: inline-block;
+    text-indent: -9999px;
+    border: none;
+    box-shadow: none;
+    padding: 0 !important;
+    background: url(../images/sprite.png) 0 -582px #1a7ec3;
+}
+.to-social-list .soc-head .button.reload:hover {
+    background-color: #1273b5;
+}
+.to-social-list .soc-head .uploadfile {
+    float: left;
+    height: 50px;
+    display: inline-block;
+    border: none;
+    box-shadow: none;
+    background: #1a7ec3;
+    color: #ffffff;
+    text-shadow: none;
+    padding: 0 18px;
+}
+.to-social-list .soc-head .uploadfile:hover {
+    background-color: #1273b5;
+}
+.to-social-list .soc-head .right {
+    float: right;
+}
+#pagination {
+    float: left;
+}
+#pagination .gal-list {
+    float: left;
+}
+#pagination .gal-list li {
+    float: left;
+    width: 110px;
+    height: 110px;
+    margin: 20px 0 0 20px;
+    border: #5e5e5e solid 1px;
+}
+#pagination .gal-list li img {
+    float: left;
+    width: 100%;
+}
+.pagination-cus {
+    float: left;
+    width: 100%;
+    padding: 20px;
+}
+.pagination-cus li {
+    float: left;
+    padding-left: 3px;
+}
+.pagination-cus li:first-child {
+    padding-left: 0px;
+}
+.pagination-cus li a {
+    float: left;
+    padding: 3px 8px;
+    display: inline-block;
+    background: #a4a4a4;
+    text-decoration: none;
+    color: #ffffff;
+}
+.pagination-cus li a:hover, .pagination-cus li.active a {
+background: #1a7ec3;}

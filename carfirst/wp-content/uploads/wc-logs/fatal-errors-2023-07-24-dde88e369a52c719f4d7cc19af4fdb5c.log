@@ -1,0 +1,108 @@
+2023-07-24T10:44:46+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php:149
+Stack trace:
+#0 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php(69): automobile_inventories_listing_inner(Array)
+#1 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(356): automobile_inventories_listing(Array, '', 'automobile_inve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(automo...', 'do_shortcode_ta...', '[automobile_inv...')
+#4 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/themes/automobile/page.php(352): do_shortcode('[automobile_inv...')
+#5 /home/u312518386/domains/chimpgroup.com in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php on line 149
+
+2023-07-24T10:50:12+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php:149
+Stack trace:
+#0 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php(69): automobile_inventories_listing_inner(Array)
+#1 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(356): automobile_inventories_listing(Array, '', 'automobile_inve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(automo...', 'do_shortcode_ta...', '[automobile_inv...')
+#4 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/themes/automobile/page.php(352): do_shortcode('[automobile_inv...')
+#5 /home/u312518386/domains/chimpgroup.com in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php on line 149
+
+2023-07-24T10:50:13+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php:149
+Stack trace:
+#0 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php(69): automobile_inventories_listing_inner(Array)
+#1 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(356): automobile_inventories_listing(Array, '', 'automobile_inve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(automo...', 'do_shortcode_ta...', '[automobile_inv...')
+#4 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/themes/automobile/page.php(352): do_shortcode('[automobile_inv...')
+#5 /home/u312518386/domains/chimpgroup.com in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php on line 149
+
+2023-07-24T10:56:09+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php:149
+Stack trace:
+#0 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php(69): automobile_inventories_listing_inner(Array)
+#1 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(356): automobile_inventories_listing(Array, '', 'automobile_inve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(automo...', 'do_shortcode_ta...', '[automobile_inv...')
+#4 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/themes/automobile/page.php(352): do_shortcode('[automobile_inv...')
+#5 /home/u312518386/domains/chimpgroup.com in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php on line 149
+
+2023-07-24T10:56:13+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php:149
+Stack trace:
+#0 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php(69): automobile_inventories_listing_inner(Array)
+#1 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(356): automobile_inventories_listing(Array, '', 'automobile_inve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(automo...', 'do_shortcode_ta...', '[automobile_inv...')
+#4 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/themes/automobile/page.php(352): do_shortcode('[automobile_inv...')
+#5 /home/u312518386/domains/chimpgroup.com in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php on line 149
+
+2023-07-24T10:57:45+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php:149
+Stack trace:
+#0 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php(69): automobile_inventories_listing_inner(Array)
+#1 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(356): automobile_inventories_listing(Array, '', 'automobile_inve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(automo...', 'do_shortcode_ta...', '[automobile_inv...')
+#4 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/themes/automobile/page.php(352): do_shortcode('[automobile_inv...')
+#5 /home/u312518386/domains/chimpgroup.com in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php on line 149
+
+2023-07-24T10:58:07+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php:149
+Stack trace:
+#0 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php(69): automobile_inventories_listing_inner(Array)
+#1 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(356): automobile_inventories_listing(Array, '', 'automobile_inve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(automo...', 'do_shortcode_ta...', '[automobile_inv...')
+#4 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/themes/automobile/page.php(352): do_shortcode('[automobile_inv...')
+#5 /home/u312518386/domains/chimpgroup.com in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php on line 149
+
+2023-07-24T11:26:46+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php:149
+Stack trace:
+#0 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php(69): automobile_inventories_listing_inner(Array)
+#1 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(356): automobile_inventories_listing(Array, '', 'automobile_inve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(automo...', 'do_shortcode_ta...', '[automobile_inv...')
+#4 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/themes/automobile/page.php(352): do_shortcode('[automobile_inv...')
+#5 /home/u312518386/domains/chimpgroup.com in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php on line 149
+
+2023-07-24T11:27:48+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php:149
+Stack trace:
+#0 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php(69): automobile_inventories_listing_inner(Array)
+#1 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(356): automobile_inventories_listing(Array, '', 'automobile_inve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(automo...', 'do_shortcode_ta...', '[automobile_inv...')
+#4 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/themes/automobile/page.php(352): do_shortcode('[automobile_inv...')
+#5 /home/u312518386/domains/chimpgroup.com in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php on line 149
+
+2023-07-24T11:29:16+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php:149
+Stack trace:
+#0 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php(69): automobile_inventories_listing_inner(Array)
+#1 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(356): automobile_inventories_listing(Array, '', 'automobile_inve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(automo...', 'do_shortcode_ta...', '[automobile_inv...')
+#4 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/themes/automobile/page.php(352): do_shortcode('[automobile_inv...')
+#5 /home/u312518386/domains/chimpgroup.com in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php on line 149
+
+2023-07-24T11:30:32+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php:149
+Stack trace:
+#0 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php(69): automobile_inventories_listing_inner(Array)
+#1 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(356): automobile_inventories_listing(Array, '', 'automobile_inve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(automo...', 'do_shortcode_ta...', '[automobile_inv...')
+#4 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/themes/automobile/page.php(352): do_shortcode('[automobile_inv...')
+#5 /home/u312518386/domains/chimpgroup.com in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php on line 149
+
+2023-07-24T11:30:55+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php:149
+Stack trace:
+#0 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php(69): automobile_inventories_listing_inner(Array)
+#1 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(356): automobile_inventories_listing(Array, '', 'automobile_inve...')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-includes/shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(automo...', 'do_shortcode_ta...', '[automobile_inv...')
+#4 /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/themes/automobile/page.php(352): do_shortcode('[automobile_inv...')
+#5 /home/u312518386/domains/chimpgroup.com in /home/u312518386/domains/chimpgroup.com/public_html/automobile/carfirst/wp-content/plugins/cs-automobile/frontend/inventories/cs-template.php on line 149
+
